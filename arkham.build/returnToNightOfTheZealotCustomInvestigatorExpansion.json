@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-08-27T04:37:55.039",
+    "date_updated" : "2025-08-30T04:35:33.585",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -1015,12 +1015,12 @@
       "skill_willpower" : 1,
       "slot" : "Ally",
       "subname" : "Admirable Philanthropist ",
-      "text" : "[reaction] When you initiate a skill test during a <b>Parley</b> action or ability, exhaust Molly Brown: Reduce the difficulty of this skill test by 2.\n[free] Exhaust Molly Brown: You may contribute her icons to this skill test. If this test fails, discard Molly Brown.",
-      "traits" : "Ally. Silver Twilight. Socialite.",
+      "text" : "[reaction] When Molly Brown enters play: Gain 2 resources for each other <i><b>Ally</i></b> asset you control.\n[reaction] When Molly Brown leaves play: Choose an <i><b>Ally</i></b> asset in your discard pile. Return it to your hand.",
+      "traits" : "Ally. Socialite.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/ur3yt06q371il20kf5gtt/8771bf35-8518-4d76-a647-b798148b7d75-Front-Molly-Brown-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=d40muh66p1tg8if5e10s8i91k&raw=1&cachebust=1756026145643",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ooinm27nifxnthxsw7cp1/8771bf35-8518-4d76-a647-b798148b7d75-Front-thumbnail.png?rlkey=pe195ifdu9kkm8mugf6bsee3p&raw=1&cachebust=1756026147538"
+      "image_url" : "https://www.dropbox.com/scl/fi/ur3yt06q371il20kf5gtt/8771bf35-8518-4d76-a647-b798148b7d75-Front-Molly-Brown-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=d40muh66p1tg8if5e10s8i91k&raw=1&cachebust=1756542931165",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ooinm27nifxnthxsw7cp1/8771bf35-8518-4d76-a647-b798148b7d75-Front-thumbnail.png?rlkey=pe195ifdu9kkm8mugf6bsee3p&raw=1&cachebust=1756542932477"
     }, {
       "code" : "a2c0589e-298e-4d39-a102-9062f57461ce",
       "cost" : 0,
@@ -1042,19 +1042,19 @@
       "cost" : 3,
       "deck_limit" : 2,
       "faction_code" : "rogue",
-      "flavor" : "\n\"I don’t fight fair. I don’t have to.\"",
+      "flavor" : "\n\"I don't fight fair. I don't have to.\"",
       "name" : "Intimidate",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 51,
       "quantity" : 2,
       "skill_agility" : 1,
       "skill_combat" : 1,
-      "text" : "<b>Parley.</b> Choose an exhausted non-<b><i>Elite</i></b> enemy at your location and test [combat] (X), where X is the enemy's remaining health. If you succeed, defeat that enemy.",
+      "text" : "<b>Evade.</b> This evasion attempt uses [combat] instead of [agility]. If you succeed by 2 or more, until the end of the round, you get +2 skill value while performing skill tests during attacks against that enemy.",
       "traits" : "Tactic. Illicit.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/fkjjraq3m4w7akf5vzfo9/28ede381-c0ee-4e32-b704-3538447c2412-Front-Intimidate-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=m9l0b5jkgrvgeu1tfpwfw0ggk&raw=1&cachebust=1756026460600",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/csa3gxvoc05gpxbuqtjlg/28ede381-c0ee-4e32-b704-3538447c2412-Front-thumbnail.png?rlkey=dv9kmjc4m0nu6qjnxq93w5vvt&raw=1&cachebust=1756026462344"
+      "image_url" : "https://www.dropbox.com/scl/fi/fkjjraq3m4w7akf5vzfo9/28ede381-c0ee-4e32-b704-3538447c2412-Front-Intimidate-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=m9l0b5jkgrvgeu1tfpwfw0ggk&raw=1&cachebust=1756542927270",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/csa3gxvoc05gpxbuqtjlg/28ede381-c0ee-4e32-b704-3538447c2412-Front-thumbnail.png?rlkey=dv9kmjc4m0nu6qjnxq93w5vvt&raw=1&cachebust=1756542928566"
     }, {
       "code" : "f108dfc9-dea7-42e8-acab-a0ef7475930b",
       "cost" : 0,
