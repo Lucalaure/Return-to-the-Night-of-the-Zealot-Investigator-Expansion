@@ -9,28 +9,37 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-08-30T04:35:33.585",
+    "date_updated" : "2025-08-30T13:26:24.927",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Seeker cards ([seeker]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards or <b><i>Criminal</i></b> cards.",
       "code" : "d545b38e-f3cf-486a-a026-12ed94b33453",
       "deck_requirements" : "size:30, card:3497e84b-9698-4d54-937c-65096eb6c82c, card:43433775-620b-4e10-8583-253eb3f3e6c2, random:subtype:basicweakness",
       "deck_options" : [ {
+        "faction" : [ "mystic" ],
+        "not" : true
+      }, {
+        "not" : true,
+        "trait" : [ "Illicit" ]
+      }, {
+        "not" : true,
+        "trait" : [ "Criminal" ]
+      }, {
         "faction" : [ "guardian" ],
         "level" : {
           "min" : 0,
           "max" : 5
         }
       }, {
-        "faction" : [ "seeker" ],
         "level" : {
           "min" : 0,
-          "max" : 2
-        }
+          "max" : 1
+        },
+        "text" : [ "clue" ]
       }, {
         "faction" : [ "neutral" ],
         "level" : {
@@ -57,10 +66,10 @@
       "text" : "[reaction] After you successfully investigate: You may place 1 ammo token on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. You may spend 1 ammo from an asset you control to discover 1 clue at your location.",
       "traits" : "Agency. Detective.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/wl8r1iyei5rlpa9hvdsre/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland-Banks-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=cwv3xbxvnb5l62gafewwyocrr&raw=1&cachebust=1756026781609",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/7hkbebj5qe1vynhkghqc6/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?rlkey=fjyyu7dffugrc2fawqshivntj&raw=1&cachebust=1756026783577",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/g8zy1d8xl0ha8s263zscc/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland-Banks-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=j4lscib285bu9yy1jzl2e5r9w&raw=1&cachebust=1756026788981",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/u8w50cacstmm0og1gqml4/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?rlkey=55rvs4o4s9acep7agqjaypbjl&raw=1&cachebust=1756026791157"
+      "image_url" : "https://www.dropbox.com/scl/fi/wl8r1iyei5rlpa9hvdsre/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland-Banks-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=cwv3xbxvnb5l62gafewwyocrr&raw=1&cachebust=1756570518089",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/7hkbebj5qe1vynhkghqc6/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?rlkey=fjyyu7dffugrc2fawqshivntj&raw=1&cachebust=1756570519297",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/g8zy1d8xl0ha8s263zscc/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland-Banks-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=j4lscib285bu9yy1jzl2e5r9w&raw=1&cachebust=1756570520944",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/u8w50cacstmm0og1gqml4/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?rlkey=55rvs4o4s9acep7agqjaypbjl&raw=1&cachebust=1756570522054"
     }, {
       "code" : "43433775-620b-4e10-8583-253eb3f3e6c2",
       "cost" : 3,
@@ -76,11 +85,11 @@
       "skill_wild" : 1,
       "skill_willpower" : 1,
       "slot" : "Hand",
-      "text" : "Roland Banks deck only.\nUses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. As part of this action, you may place 1 of your clues on your location. If you do, this attack deals +2 damage. If this attack defeats an enemy and you have no clues, discover 1 clue at your location.",
+      "text" : "Roland Banks deck only. Advanced.\nUses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. As part of this action, you may place 1 of your clues on your location. If you do, this attack deals +2 damage. If this attack defeats an enemy and you have no clues, discover 1 clue at your location.",
       "traits" : "Item. Weapon. Firearm.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/xp3rm2hlws2f1cn0smrm3/43433775-620b-4e10-8583-253eb3f3e6c2-Front-Roland-s-.38-Special-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=e4nxi2bep654xbaj5gkw24o6c&raw=1&cachebust=1756026887621",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/18drpqhzwrq8mat3zno6a/43433775-620b-4e10-8583-253eb3f3e6c2-Front-thumbnail.png?rlkey=h601kbit3qklr5phenns4i3lw&raw=1&cachebust=1756026889538"
+      "image_url" : "https://www.dropbox.com/scl/fi/xp3rm2hlws2f1cn0smrm3/43433775-620b-4e10-8583-253eb3f3e6c2-Front-Roland-s-.38-Special-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=e4nxi2bep654xbaj5gkw24o6c&raw=1&cachebust=1756553682846",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/18drpqhzwrq8mat3zno6a/43433775-620b-4e10-8583-253eb3f3e6c2-Front-thumbnail.png?rlkey=h601kbit3qklr5phenns4i3lw&raw=1&cachebust=1756553684229"
     }, {
       "code" : "3497e84b-9698-4d54-937c-65096eb6c82c",
       "deck_limit" : 1,
@@ -91,11 +100,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:d545b38e-f3cf-486a-a026-12ed94b33453",
       "subtype_code" : "weakness",
-      "text" : "Roland Banks deck only.\n<b>Revelation</b> - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n[action][action] Place 1 of your clues on your location: Discard Cover Up.",
+      "text" : "Roland Banks deck only. Advanced.\n<b>Revelation</b> - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n[action][action] Place 1 of your clues on your location: Discard \n                Cover Up.",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "image_url" : "https://www.dropbox.com/scl/fi/4e398pcg9vs7quhcpwl83/3497e84b-9698-4d54-937c-65096eb6c82c-Front-Cover-Up-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=b1golhns1m7jxnb05fge7sysw&raw=1&cachebust=1756026775777",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/4lct6jc5okrw3ivytblha/3497e84b-9698-4d54-937c-65096eb6c82c-Front-thumbnail.png?rlkey=eldqga8hov0kkzwkgl0byyccv&raw=1&cachebust=1756026777550"
+      "image_url" : "https://www.dropbox.com/scl/fi/4e398pcg9vs7quhcpwl83/3497e84b-9698-4d54-937c-65096eb6c82c-Front-Cover-Up-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=b1golhns1m7jxnb05fge7sysw&raw=1&cachebust=1756553633510",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/4lct6jc5okrw3ivytblha/3497e84b-9698-4d54-937c-65096eb6c82c-Front-thumbnail.png?rlkey=eldqga8hov0kkzwkgl0byyccv&raw=1&cachebust=1756553634716"
     }, {
       "back_flavor" : "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held...",
       "back_name" : "Daisy Walker",
@@ -109,14 +118,14 @@
           "max" : 5
         }
       }, {
-        "faction" : [ "survivor" ],
+        "faction" : [ "mystic" ],
         "level" : {
           "min" : 0,
           "max" : 1
         },
         "limit" : 5
       }, {
-        "faction" : [ "mystic" ],
+        "faction" : [ "survivor" ],
         "level" : {
           "min" : 0,
           "max" : 1
@@ -147,10 +156,10 @@
       "text" : "[reaction] When you would discover 1 or more clues from an investigate ability on an event or asset: Look at the top 2 cards of the encounter deck. You may choose 1 to place on the bottom of the encounter deck. Return the rest to the top of the encounter deck in any order. (Limit once per round.)\n[elder_sign] effect: +0. Choose an investigator at your location. That investigator discards a non-weakness treachery card from his or her threat area.",
       "traits" : "Miskatonic.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/b4inqmhr3srtmt9hi0oy0/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=gdije24jcfd35vagjtvox55n5&raw=1&cachebust=1756026517709",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ohx3tymlg4kje8fb3xdaz/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-thumbnail.png?rlkey=etdc9bf2drp22dh7rtojb8mcu&raw=1&cachebust=1756026519293",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/t02tot4cw08g2hd1sdg0m/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=po1hqvjmwslaurr9l6lt9weqr&raw=1&cachebust=1756026522446",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/dj0600wsjptdzqqc947ys/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-thumbnail.png?rlkey=yo3gqs9ld9q03au3qfy0n44fz&raw=1&cachebust=1756026524117"
+      "image_url" : "https://www.dropbox.com/scl/fi/b4inqmhr3srtmt9hi0oy0/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=gdije24jcfd35vagjtvox55n5&raw=1&cachebust=1756553652201",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ohx3tymlg4kje8fb3xdaz/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-thumbnail.png?rlkey=etdc9bf2drp22dh7rtojb8mcu&raw=1&cachebust=1756553653766",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/t02tot4cw08g2hd1sdg0m/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=po1hqvjmwslaurr9l6lt9weqr&raw=1&cachebust=1756553655581",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/dj0600wsjptdzqqc947ys/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-thumbnail.png?rlkey=yo3gqs9ld9q03au3qfy0n44fz&raw=1&cachebust=1756553657127"
     }, {
       "code" : "6a4fca38-d4f1-40cf-8544-15adb07f3789",
       "cost" : 3,
@@ -164,11 +173,11 @@
       "skill_intellect" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Daisy Walker deck only.\n[reaction] After Daisy's Tote Bag enters play: Discard cards from the top of the encounter deck until 4 non-<b><i>Elite</i></b> cards are discarded. Place those cards face up beneath this card.\n[reaction] When an investigator at your location would draw a card from the encounter deck: You may instead reveal a card from beneath Daisy’s Tote Bag. That investigator resolves that card's effects as if it were just drawn. Then, if this ability has been used [per_investigator] times, discard all remaining cards beneath Daisy’s Tote Bag.",
+      "text" : "Daisy Walker deck only. Advanced.\n[reaction] After Daisy's Tote Bag enters play: Discard cards from the top of the encounter deck until 4 non-<b><i>Elite</i></b> cards are discarded. Place those cards face up beneath this card.\n[reaction] When an investigator at your location would draw a card from the encounter deck: You may instead reveal a card from beneath Daisy’s Tote Bag. That investigator resolves that card's effects as if it were just drawn. Then, if this ability has been used [per_investigator] times, discard all remaining cards beneath Daisy’s Tote Bag.",
       "traits" : "Item.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/5fxns0c7bm6t3asdsybll/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy-s-Tote-Bag-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=q7s324fsrhwqu8cl3z5mha2p3&raw=1&cachebust=1756283236084",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/r530he1n8mn3wjs3pxrzi/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?rlkey=yyvelm7onv0wavqx202eekzxb&raw=1&cachebust=1756283237580"
+      "image_url" : "https://www.dropbox.com/scl/fi/5fxns0c7bm6t3asdsybll/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy-s-Tote-Bag-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=q7s324fsrhwqu8cl3z5mha2p3&raw=1&cachebust=1756553662043",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/r530he1n8mn3wjs3pxrzi/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?rlkey=yyvelm7onv0wavqx202eekzxb&raw=1&cachebust=1756553663323"
     }, {
       "code" : "4b3bb0d8-9207-4503-9842-172a59d802d6",
       "deck_limit" : 1,
@@ -179,37 +188,46 @@
       "quantity" : 1,
       "restrictions" : "investigator:7b48d829-0095-4b3e-a2c3-8fa609d111e2",
       "subname" : "John Dee Translation",
-      "text" : "Daisy Walker deck only.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area.\nWhile The Necronomicon is in play, revelation effects on non-weakness treachery cards you draw resolve twice.\n[reaction] After you successfully investigate: Place 1 secret on The Necronomicon. Then, if there are 3 or more secrets on it, discard The Necronomicon.",
+      "text" : "Daisy Walker deck only. Advanced.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area.\nWhile The Necronomicon is in play, revelation effects on non-weakness treachery cards you draw resolve twice.\n[reaction] After you successfully investigate: Place 1 secret on The Necronomicon. Then, if there are 3 or more secrets on it, discard The Necronomicon.",
       "traits" : "Item. Tome.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/qip66opemv89ys8fbct2p/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The-Necronomicon-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ol32qv3sanllgp5vtkbid9ifs&raw=1&cachebust=1756026165043",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/f1p6fvgv8io645sgv7jal/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?rlkey=uzdtouf4xcj1wv8gg8i9qttey&raw=1&cachebust=1756026166780"
+      "image_url" : "https://www.dropbox.com/scl/fi/qip66opemv89ys8fbct2p/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The-Necronomicon-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ol32qv3sanllgp5vtkbid9ifs&raw=1&cachebust=1756553658832",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/f1p6fvgv8io645sgv7jal/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?rlkey=uzdtouf4xcj1wv8gg8i9qttey&raw=1&cachebust=1756553660063"
     }, {
       "back_flavor" : "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
       "back_name" : "\"Skids\" O'Toole",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Secondary Class Choice</b>: At deck creation, choose Guardian ([guardian]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, up to 10 other level 0-2 of your chosen secondary class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: On the Lam, Hospital Debts, 1 random basic weakness.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, up to five Guardian ([guardian]) cards level 0-1, up to five Survivor ([survivor]) cards level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: On the Lam, Hospital Debts, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <b><i>Police</i></b> cards.",
       "code" : "48bd399e-1d7d-4b95-8a88-1145f95eae14",
       "deck_requirements" : "size:30, card:45be196b-4f6a-494d-85c9-3b2521e7d557, card:c9e03dde-f067-48a5-8063-839f82167d9c, random:subtype:basicweakness",
       "deck_options" : [ {
+        "not" : true,
+        "trait" : [ "Police" ]
+      }, {
         "faction" : [ "rogue" ],
         "level" : {
           "min" : 0,
           "max" : 5
         }
       }, {
+        "faction" : [ "guardian" ],
+        "level" : {
+          "min" : 0,
+          "max" : 1
+        },
+        "limit" : 5
+      }, {
+        "faction" : [ "survivor" ],
+        "level" : {
+          "min" : 0,
+          "max" : 1
+        },
+        "limit" : 5
+      }, {
         "faction" : [ "neutral" ],
         "level" : {
           "min" : 0,
           "max" : 5
         }
-      }, {
-        "level" : {
-          "min" : 0,
-          "max" : 2
-        },
-        "limit" : 10,
-        "name" : "Secondary Class",
-        "faction_select" : [ "guardian", "survivor" ]
       } ],
       "deck_limit" : 1,
       "double_sided" : true,
@@ -230,10 +248,10 @@
       "text" : "You may take an additional action each turn to play a card that costs 3 or more resources.\n[elder_sign] effect: +1. Gain resources equal to the amount of actions you have taken this round (to a maximum of 4).",
       "traits" : "Criminal.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/fvx9lpi04dtz1vpxco9tl/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ytumb787xhzap3g5bwxrsxonq&raw=1&cachebust=1756026377888",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/3xyfhjw48nwkwyi0vx5dy/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-thumbnail.png?rlkey=yn2kn9rcvdjk0lm5sohwunpio&raw=1&cachebust=1756026379933",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/p220qv2de36dwip4kt0wn/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=pwxpzy1n7ff333aore2v073g5&raw=1&cachebust=1756026384157",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/ohiuxq4tzv7p2b1yjt8lu/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-thumbnail.png?rlkey=lhwht8zp8pjncacic501d6nu5&raw=1&cachebust=1756026386080"
+      "image_url" : "https://www.dropbox.com/scl/fi/fvx9lpi04dtz1vpxco9tl/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ytumb787xhzap3g5bwxrsxonq&raw=1&cachebust=1756570524204",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/3xyfhjw48nwkwyi0vx5dy/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-thumbnail.png?rlkey=yn2kn9rcvdjk0lm5sohwunpio&raw=1&cachebust=1756570525356",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/p220qv2de36dwip4kt0wn/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=pwxpzy1n7ff333aore2v073g5&raw=1&cachebust=1756570527023",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/ohiuxq4tzv7p2b1yjt8lu/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-thumbnail.png?rlkey=lhwht8zp8pjncacic501d6nu5&raw=1&cachebust=1756570528268"
     }, {
       "code" : "c9e03dde-f067-48a5-8063-839f82167d9c",
       "cost" : 3,
@@ -247,11 +265,11 @@
       "skill_agility" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "\"Skids\" O'Toole deck only.\nOn the Lam comes into play with 2 resources on it.\n<b>Forced</b> - At the end of your turn: Place 1 resource on On the Lam for each action you took beyond 3 this round.\n[free] During your turn, Exhaust On the Lam: Move all resources from On the Lam to your resource pool. If you moved 5 or more resources this way, you may take 1 additional action this turn.",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Forced</b> - At the end of your turn: Place 1 resource on On the Lam for each action you took beyond 3 this round.\n[free] During your turn, Exhaust On the Lam: Move all resources from On the Lam to your resource pool. If you moved 5 or more resources this way, you may take 1 additional action this turn.",
       "traits" : "Talent. Illicit.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/xlnyejzx54iwqhhqxtuwv/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On-the-Lam-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nlra7a8n7tokg0d58hz1sl2v4&raw=1&cachebust=1756026572731",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mbkfiorz503dha8kx0adm/c9e03dde-f067-48a5-8063-839f82167d9c-Front-thumbnail.png?rlkey=tabciar4tulit67clele7ubk0&raw=1&cachebust=1756026574875"
+      "image_url" : "https://www.dropbox.com/scl/fi/xlnyejzx54iwqhhqxtuwv/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On-the-Lam-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nlra7a8n7tokg0d58hz1sl2v4&raw=1&cachebust=1756574782027",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mbkfiorz503dha8kx0adm/c9e03dde-f067-48a5-8063-839f82167d9c-Front-thumbnail.png?rlkey=tabciar4tulit67clele7ubk0&raw=1&cachebust=1756574783305"
     }, {
       "code" : "45be196b-4f6a-494d-85c9-3b2521e7d557",
       "deck_limit" : 1,
@@ -262,11 +280,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:48bd399e-1d7d-4b95-8a88-1145f95eae14",
       "subtype_code" : "weakness",
-      "text" : "\"Skids\" O'Toole deck only.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it. \nEach time you play a card, increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if there are no more resources on Hospital Debts, discard it.\n",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it. \nEach time you play a card, increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if there are no more resources on Hospital Debts, discard it.\n",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "image_url" : "https://www.dropbox.com/scl/fi/s6m2g804gl7acjt3ro7f7/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital-Debts-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=k7ocxmm9h6dwhi8o1pgbysh7d&raw=1&cachebust=1756026512903",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/xe7vy3tahlc4wxykqhx0f/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?rlkey=xf6b8bibq5fo7j9us37cdyp20&raw=1&cachebust=1756026514581"
+      "image_url" : "https://www.dropbox.com/scl/fi/s6m2g804gl7acjt3ro7f7/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital-Debts-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=k7ocxmm9h6dwhi8o1pgbysh7d&raw=1&cachebust=1756553622736",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/xe7vy3tahlc4wxykqhx0f/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?rlkey=xf6b8bibq5fo7j9us37cdyp20&raw=1&cachebust=1756553623929"
     }, {
       "back_flavor" : "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
       "back_name" : "Agnes Baker",
@@ -282,7 +300,7 @@
       }, {
         "level" : {
           "min" : 0,
-          "max" : 5
+          "max" : 1
         },
         "text" : [ "seal" ]
       }, {
@@ -310,10 +328,10 @@
       "text" : "[reaction] When a chaos token is sealed on a card you control:\n- If the sealed token has a negative modifier, deal 1 damage to an enemy at your location. (Limit once per round.)\n- If the sealed token has a positive modifier, discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. You may release a chaos token sealed on a card you control. Then, you may choose and seal a different non-[auto_fail] chaos token on that card.",
       "traits" : "Sorcerer.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/dassuu5erounig83owc01/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-Agnes-Baker-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=9s9lujbkg58hhgo4fneezkmd5&raw=1&cachebust=1756026899617",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/20kg9sfv82sn958ly9l3t/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-thumbnail.png?rlkey=jvomsjkakdl7uoc08u7mxlsel&raw=1&cachebust=1756026901914",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/z1z2gxezxv0pskj1422sj/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-Agnes-Baker-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=g8prx5t2qheuz76985iqghym9&raw=1&cachebust=1756026906998",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/zc45uiqemk74gu1n1uhhc/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-thumbnail.png?rlkey=a3xfd5a3u3t5eftn354sq809b&raw=1&cachebust=1756026908921"
+      "image_url" : "https://www.dropbox.com/scl/fi/dassuu5erounig83owc01/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-Agnes-Baker-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=9s9lujbkg58hhgo4fneezkmd5&raw=1&cachebust=1756553644568",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/20kg9sfv82sn958ly9l3t/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-thumbnail.png?rlkey=jvomsjkakdl7uoc08u7mxlsel&raw=1&cachebust=1756553646083",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/z1z2gxezxv0pskj1422sj/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-Agnes-Baker-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=g8prx5t2qheuz76985iqghym9&raw=1&cachebust=1756553648375",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/zc45uiqemk74gu1n1uhhc/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-thumbnail.png?rlkey=a3xfd5a3u3t5eftn354sq809b&raw=1&cachebust=1756553649951"
     }, {
       "code" : "72c24b02-73a3-45d7-b3af-c3caa561e00d",
       "cost" : 2,
@@ -330,11 +348,11 @@
       "skill_willpower" : 1,
       "slot" : "Accessory",
       "subname" : "Artifact from Another Life",
-      "text" : "Agnes Baker deck only.\nUses (1 charge).\n[reaction] When a chaos token is sealed on a card you control: Place 1 charge on Heirloom of Hyperborea. (Limit once per phase.)\n[reaction] When a chaos token is revealed that is a copy of a token sealed on a card you control, exhaust Heirloom of Hyperborea and spend 1 charge: Cancel that chaos token.",
+      "text" : "Agnes Baker deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>).\nUses (1 charge).\n[reaction] When a chaos token is sealed on a card you control: Place 1 charge on Heirloom of Hyperborea. (Limit once per phase.)\n[reaction] When a chaos token is revealed that is a copy of a token sealed on a card you control, exhaust Heirloom of Hyperborea and spend 1 charge: Cancel that chaos token.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/v8ckp9aa8eb7aflke0ybf/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom-of-Hyperborea-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ldzf3bewdemariu4w2ln18yov&raw=1&cachebust=1756026442174",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/qn7s479nt30ypy51wjv7x/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?rlkey=35kdpm0haapwt92fq7khy2fyu&raw=1&cachebust=1756026443975"
+      "image_url" : "https://www.dropbox.com/scl/fi/v8ckp9aa8eb7aflke0ybf/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom-of-Hyperborea-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ldzf3bewdemariu4w2ln18yov&raw=1&cachebust=1756553630440",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/qn7s479nt30ypy51wjv7x/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?rlkey=35kdpm0haapwt92fq7khy2fyu&raw=1&cachebust=1756553631615"
     }, {
       "code" : "a7b29dd2-dbeb-47c7-bc1d-836911dfac13",
       "deck_limit" : 1,
@@ -344,11 +362,11 @@
       "position" : 12,
       "quantity" : 1,
       "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
-      "text" : "Agnes Baker deck only.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory",
+      "text" : "Agnes Baker deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>).\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory",
       "traits" : "Curse. Omen.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/5t7r8u0xuowwzmo73mhlb/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark-Memory-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zqesovg0ixxi9oystqi8rtrek&raw=1&cachebust=1756026490624",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mz1rswyapen8lkqgewgtq/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?rlkey=krx5ed9b58evz2whqyst07ywo&raw=1&cachebust=1756026492255"
+      "image_url" : "https://www.dropbox.com/scl/fi/5t7r8u0xuowwzmo73mhlb/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark-Memory-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zqesovg0ixxi9oystqi8rtrek&raw=1&cachebust=1756553619607",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mz1rswyapen8lkqgewgtq/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?rlkey=krx5ed9b58evz2whqyst07ywo&raw=1&cachebust=1756553620910"
     }, {
       "back_flavor" : "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
       "back_name" : "Wendy Adams",
@@ -399,10 +417,10 @@
       "text" : "[reaction] After you play or commit a <b><i>Fortune</i></b> card: You may return it to your hand instead of discarding it. (Limit once per round.)\n[elder_sign] effect: +1. You may return a <b><i>Fortune</i></b> card from your discard pile to your hand.",
       "traits" : "Drifter.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/rk0qt05cgzyeq6rc0vaac/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=da40lzk9qxd2ye0lodudp1f5i&raw=1&cachebust=1756026526890",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/99vhhn3983rbvv27070pe/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?rlkey=4kw8mf09yl0d71osblcjeexgv&raw=1&cachebust=1756026528453",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/henfqr304ycg0fwgfq11k/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=oesvxl69zhwjfszkuy7o70cfj&raw=1&cachebust=1756026531525",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/el3kx68efh3e9jueg5kyx/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?rlkey=os7dpwnoa3ggjepm8y1askjfp&raw=1&cachebust=1756026533221"
+      "image_url" : "https://www.dropbox.com/scl/fi/rk0qt05cgzyeq6rc0vaac/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=da40lzk9qxd2ye0lodudp1f5i&raw=1&cachebust=1756553637681",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/99vhhn3983rbvv27070pe/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?rlkey=4kw8mf09yl0d71osblcjeexgv&raw=1&cachebust=1756553639191",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/henfqr304ycg0fwgfq11k/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=oesvxl69zhwjfszkuy7o70cfj&raw=1&cachebust=1756553641195",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/el3kx68efh3e9jueg5kyx/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?rlkey=os7dpwnoa3ggjepm8y1askjfp&raw=1&cachebust=1756553642673"
     }, {
       "code" : "9873ff45-a720-4ed5-8df4-b4f81a43a52d",
       "cost" : 2,
@@ -417,11 +435,11 @@
       "skill_wild" : 1,
       "skill_willpower" : 1,
       "slot" : "Accessory",
-      "text" : "Wendy Adams deck only. Uses (0 charges).\n[reaction] After you play or commit a <b><i>Fortune</i></b> card: Place 2 charges on Wendy's Amulet (to a maximum of 6).\n[free] Spend X charges and exhaust Wendy's Amulet: Reveal the top X cards of your deck. Set aside any Fortune cards revealed this way. Shuffle your deck. Until the end of the round, you may play or commit those cards as if they were in your hand. At the end of the round, shuffle any set-aside cards back into your deck.",
+      "text" : "Wendy Adams deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>). Uses (0 charges).\n[reaction] After you play or commit a <b><i>Fortune</i></b> card: Place 2 charges on Wendy's Amulet (to a maximum of 6).\n[free] Spend X charges and exhaust Wendy's Amulet: Reveal the top X cards of your deck. Set aside any Fortune cards revealed this way. Shuffle your deck. Until the end of the round, you may play or commit those cards as if they were in your hand. At the end of the round, shuffle any set-aside cards back into your deck.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/gu3yxndp7hvulesz8tql3/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy-s-Amulet-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=afqbbvdoghvlcfs7gb0fhjj12&raw=1&cachebust=1756026389861",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/1awk6c1rc48ep5b3ietxq/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?rlkey=p0zaoizcqw65i6l58us3rmz43&raw=1&cachebust=1756026391719"
+      "image_url" : "https://www.dropbox.com/scl/fi/gu3yxndp7hvulesz8tql3/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy-s-Amulet-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=afqbbvdoghvlcfs7gb0fhjj12&raw=1&cachebust=1756553665105",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/1awk6c1rc48ep5b3ietxq/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?rlkey=p0zaoizcqw65i6l58us3rmz43&raw=1&cachebust=1756553666294"
     }, {
       "code" : "853483fa-6c6f-4a25-addd-3bf492f8d0a0",
       "deck_limit" : 1,
@@ -431,11 +449,11 @@
       "position" : 15,
       "quantity" : 1,
       "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
-      "text" : "Wendy Adams deck only.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nWhile Abandoned and Alone is in play, the text box of each <b><i>Fortune</i></b> card you control is considered blank (except for <b><i>Traits</i></b>).\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard Abandoned and Alone.",
+      "text" : "Wendy Adams deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>).\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nWhile Abandoned and Alone is in play, the text box of each <b><i>Fortune</i></b> card you control is considered blank (except for <b><i>Traits</i></b>).\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard Abandoned and Alone.",
       "traits" : "Curse.",
       "type_code" : "asset",
-      "image_url" : "https://www.dropbox.com/scl/fi/7lebogbi9z1afd1htbih7/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned-and-Alone-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jk3xeq26bicau1fj7e3727hlh&raw=1&cachebust=1756026321205",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mn17z8fgd11ca5tf6t2wm/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-thumbnail.png?rlkey=keexh102hxl9ajfs7slglgigg&raw=1&cachebust=1756026324255"
+      "image_url" : "https://www.dropbox.com/scl/fi/7lebogbi9z1afd1htbih7/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned-and-Alone-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jk3xeq26bicau1fj7e3727hlh&raw=1&cachebust=1756553625729",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/mn17z8fgd11ca5tf6t2wm/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-thumbnail.png?rlkey=keexh102hxl9ajfs7slglgigg&raw=1&cachebust=1756553627063"
     }, {
       "code" : "65d2caa3-55a1-495c-8538-445c3b874d88",
       "cost" : 4,
