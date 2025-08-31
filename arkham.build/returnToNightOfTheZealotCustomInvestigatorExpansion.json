@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-08-31T17:24:13.129",
+    "date_updated" : "2025-08-31T17:46:41.485",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -457,7 +457,7 @@
     }, {
       "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?",
       "back_name" : "Yithian",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-5 from any class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Out of Body Experience (can be found in \"The City of Archives\" scenario), 1 random basic weakness.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-5 from any class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Out of Body Experience (can be found in \"The City of Archives\" scenario), 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 5 cards each with 4 unique <b><i>Traits</i></b>.",
       "code" : "2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
       "deck_requirements" : "size:30, card:9189bc89-5511-49ad-a1fa-218f58d44fe5, random:subtype:basicweakness",
       "deck_options" : [ {
@@ -515,10 +515,10 @@
       "text" : "Each of your <b><i>Ally</i></b> assets gains the <b><i>Yithian</i></b> trait.\n[reaction] After you commit a card to a skill test you are performing: Double the skill icons on that card. (Limit once per test.)\n[elder_sign] effect: +2. Draw 1 card.",
       "traits" : "Monster. Yithian.",
       "type_code" : "investigator",
-      "image_url" : "https://www.dropbox.com/scl/fi/nbt3s75gbg5gntj42nz0z/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=tk0l47zk34kb9lrgb4pr2nsn2&raw=1&cachebust=1756668027369",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/b83w17t8lmistx7ivgvbm/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-thumbnail.png?rlkey=sqm8m3hsjimfg4ffz73f63m6e&raw=1&cachebust=1756668029106",
-      "back_image_url" : "https://www.dropbox.com/scl/fi/glpii4v5mhbf92bvov4f8/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fpqfftygqjqffyn2tw0if0gg6&raw=1&cachebust=1756668031137",
-      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/plo1qwdwqv5wsik4xwm5c/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-thumbnail.png?rlkey=fw9o31gatbpxb6f65jblp9bkt&raw=1&cachebust=1756668032509"
+      "image_url" : "https://www.dropbox.com/scl/fi/nbt3s75gbg5gntj42nz0z/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=tk0l47zk34kb9lrgb4pr2nsn2&raw=1&cachebust=1756676796393",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/b83w17t8lmistx7ivgvbm/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-thumbnail.png?rlkey=sqm8m3hsjimfg4ffz73f63m6e&raw=1&cachebust=1756676797609",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/glpii4v5mhbf92bvov4f8/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fpqfftygqjqffyn2tw0if0gg6&raw=1&cachebust=1756676799635",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/plo1qwdwqv5wsik4xwm5c/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-thumbnail.png?rlkey=fw9o31gatbpxb6f65jblp9bkt&raw=1&cachebust=1756676800901"
     }, {
       "code" : "9189bc89-5511-49ad-a1fa-218f58d44fe5",
       "deck_limit" : 1,

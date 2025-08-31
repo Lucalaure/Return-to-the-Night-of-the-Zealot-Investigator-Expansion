@@ -2,7 +2,7 @@
 # see this as a project/task folder!
 selected-members = 
 first-row = 0
-open-folders = :1st Set:1st Set/Neutral:1st Set/Neutral/Investigator
+open-folders = :1st Set:1st Set/Neutral:1st Set/Neutral/Investigator:Contracts
 notes = 
 res-id = lucanlaurence
 type = PROJECT
