@@ -9,11 +9,92 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-08-30T13:26:24.927",
+    "date_updated" : "2025-08-31T14:50:11.327",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
+      "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?",
+      "back_name" : "Yithian",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-5 from any class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Out of Body Experience (can be found in \"The City of Archives\" scenario), 1 random basic weakness.",
+      "code" : "2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
+      "deck_requirements" : "size:30, card:9189bc89-5511-49ad-a1fa-218f58d44fe5, random:subtype:basicweakness",
+      "deck_options" : [ {
+        "faction" : [ "neutral" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      }, {
+        "faction" : [ "rogue" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      }, {
+        "faction" : [ "survivor" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      }, {
+        "faction" : [ "seeker" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      }, {
+        "faction" : [ "guardian" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      }, {
+        "faction" : [ "mystic" ],
+        "level" : {
+          "min" : 0,
+          "max" : 5
+        }
+      } ],
+      "deck_limit" : 1,
+      "double_sided" : true,
+      "faction_code" : "neutral",
+      "health" : 7,
+      "is_unique" : true,
+      "name" : "Yithian",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 1,
+      "quantity" : 1,
+      "sanity" : 7,
+      "skill_agility" : 2,
+      "skill_combat" : 2,
+      "skill_intellect" : 2,
+      "skill_willpower" : 2,
+      "subname" : "A Curious Explorer",
+      "text" : "Each of your <b><i>Ally</i></b> assets gains the <b><i>Yithian</i></b> trait.\n[reaction] After you commit a card to a skill test you are performing: Double the skill icons on that card. (Limit once per test.)\n[elder_sign] effect: +2. Draw 1 card.",
+      "traits" : "Monster. Yithian.",
+      "type_code" : "investigator",
+      "image_url" : "https://www.dropbox.com/scl/fi/nbt3s75gbg5gntj42nz0z/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=tk0l47zk34kb9lrgb4pr2nsn2&raw=1&cachebust=1756666202780",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/b83w17t8lmistx7ivgvbm/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-thumbnail.png?rlkey=sqm8m3hsjimfg4ffz73f63m6e&raw=1&cachebust=1756666205219",
+      "back_image_url" : "https://www.dropbox.com/scl/fi/glpii4v5mhbf92bvov4f8/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fpqfftygqjqffyn2tw0if0gg6&raw=1&cachebust=1756666208088",
+      "back_thumbnail_url" : "https://www.dropbox.com/scl/fi/plo1qwdwqv5wsik4xwm5c/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-thumbnail.png?rlkey=fw9o31gatbpxb6f65jblp9bkt&raw=1&cachebust=1756666210412"
+    }, {
+      "code" : "9189bc89-5511-49ad-a1fa-218f58d44fe5",
+      "deck_limit" : 1,
+      "faction_code" : "neutral",
+      "name" : "Thirst for Knowledge",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "permanent" : true,
+      "position" : 1,
+      "quantity" : 1,
+      "restrictions" : "investigator:2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
+      "subname" : "There's nothing you can't learn",
+      "text" : "Permanent. Yithian only.\nYou can only play, commit, or trigger abilities on player cards if all the <b><i>Traits</i></b> on that card have been learned and/or are printed on your investigator.\n[action] Reveal a non-weakness card from your hand, or choose a non-weakness card you control, and choose one of its <b><i>Traits</i></b>: Test [intellect] (X). X is equal to half the <b><i>Traits</i></b> you have learned (rounded up). If you fail, discard that card. If you succeed, record that you have learned that <b><i>Trait</i></b>.",
+      "traits" : "Yithian.",
+      "type_code" : "asset",
+      "image_url" : "https://www.dropbox.com/scl/fi/v90ownb8ror6d5cla58u8/9189bc89-5511-49ad-a1fa-218f58d44fe5-Front-Thirst-for-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s1tye49py5r6dqq8ewbdxxdvi&raw=1&cachebust=1756666195129",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/4jn8riy26hl8wn80dt04g/9189bc89-5511-49ad-a1fa-218f58d44fe5-Front-thumbnail.png?rlkey=sf7argu6qe0arxwuri80ordmz&raw=1&cachebust=1756666197544"
+    }, {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
       "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards or <b><i>Criminal</i></b> cards.",
