@@ -2720,8 +2720,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1046" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/nbt3s75gbg5gntj42nz0z/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=tk0l47zk34kb9lrgb4pr2nsn2&raw=1&cachebust=1756676796393",
-                "BackURL" : "https://www.dropbox.com/scl/fi/glpii4v5mhbf92bvov4f8/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fpqfftygqjqffyn2tw0if0gg6&raw=1&cachebust=1756676799635",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/nbt3s75gbg5gntj42nz0z/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=tk0l47zk34kb9lrgb4pr2nsn2&raw=1&cachebust=1756719462317",
+                "BackURL" : "https://www.dropbox.com/scl/fi/glpii4v5mhbf92bvov4f8/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fpqfftygqjqffyn2tw0if0gg6&raw=1&cachebust=1756719466181",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -2729,7 +2729,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"2f687951-04fa-40ba-b21a-9c2cf4c2e9e2\",\"id\":\"2f687951-04fa-40ba-b21a-9c2cf4c2e9e2\",\"type\":\"Investigator\",\"class\":\"Neutral\",\"traits\":\"Monster. Yithian.\",\"agilityIcons\":2,\"combatIcons\":2,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"9189bc89-5511-49ad-a1fa-218f58d44fe5\":1}]}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"2f687951-04fa-40ba-b21a-9c2cf4c2e9e2\",\"id\":\"2f687951-04fa-40ba-b21a-9c2cf4c2e9e2\",\"type\":\"Investigator\",\"class\":\"Neutral\",\"traits\":\"Monster. Yithian.\",\"agilityIcons\":2,\"combatIcons\":2,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"9189bc89-5511-49ad-a1fa-218f58d44fe5\":1,\"70ccabf5-4f44-4ec2-b677-fa54ce9a864f\":1}]}",
             "Tags" : [ "PlayerCard", "Investigator" ]
           }, {
             "Locked" : false,
@@ -2745,8 +2745,49 @@
             "Hands" : true,
             "GUID" : "e00042",
             "Name" : "Card",
-            "Nickname" : "Thirst for Knowledge",
-            "Description" : "There's nothing you can't learn",
+            "Nickname" : "",
+            "Transform" : {
+              "posX" : 0.0,
+              "posY" : 0.0,
+              "posZ" : 0.0,
+              "rotX" : 0.0,
+              "rotY" : 270.0,
+              "rotZ" : 0.0,
+              "scaleX" : 0.6,
+              "scaleY" : 1.0,
+              "scaleZ" : 0.6
+            },
+            "HideWhenFaceDown" : true,
+            "CardID" : 104700,
+            "SidewaysCard" : false,
+            "CustomDeck" : {
+              "1047" : {
+                "FaceURL" : "https://www.dropbox.com/scl/fi/jdf5vaoya3ljcw6n6ru2a/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Front-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0o63ub38v2kmyr27d669fdpmq&raw=1&cachebust=1756719522975",
+                "BackURL" : "https://www.dropbox.com/scl/fi/gdak6zpxneksdj9z7q7mo/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Back-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=2fnv39vkldh42f8df5vdtq6uh&raw=1&cachebust=1756719525332",
+                "NumWidth" : 1,
+                "NumHeight" : 1,
+                "BackIsHidden" : true,
+                "UniqueBack" : true,
+                "Type" : 0
+              }
+            },
+            "GMNotes" : "{\"TtsZoopGuid\":\"866bcea9-e0e6-4bb0-8c51-1b6105250cc4\",\"type\":\"Minicard\"}",
+            "Tags" : [ "Minicard", "ScenarioCard" ]
+          }, {
+            "Locked" : false,
+            "Grid" : true,
+            "Snap" : true,
+            "IgnoreFoW" : false,
+            "MeasureMovement" : false,
+            "DragSelectable" : true,
+            "Autoraise" : true,
+            "Sticky" : true,
+            "Tooltip" : true,
+            "GridProjection" : false,
+            "Hands" : true,
+            "GUID" : "e00043",
+            "Name" : "Deck",
+            "Nickname" : "Investigator - Portrait",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -2759,11 +2800,20 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 104700,
             "SidewaysCard" : false,
+            "DeckIDs" : [ 104800, 104900 ],
             "CustomDeck" : {
-              "1047" : {
+              "1049" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/v90ownb8ror6d5cla58u8/9189bc89-5511-49ad-a1fa-218f58d44fe5-Front-Thirst-for-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s1tye49py5r6dqq8ewbdxxdvi&raw=1&cachebust=1756668062628",
+                "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                "NumWidth" : 1,
+                "NumHeight" : 1,
+                "BackIsHidden" : true,
+                "UniqueBack" : false,
+                "Type" : 0
+              },
+              "1048" : {
+                "FaceURL" : "https://www.dropbox.com/scl/fi/qeknodrh5au0kk0ae2ptx/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-Forgotten-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=epck2tmmo16rgcm8rwkabwuwo&raw=1&cachebust=1756719470593",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -2772,8 +2822,92 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"9189bc89-5511-49ad-a1fa-218f58d44fe5\",\"id\":\"9189bc89-5511-49ad-a1fa-218f58d44fe5\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Yithian.\",\"level\":0,\"permanent\":true}",
-            "Tags" : [ "PlayerCard", "Asset" ]
+            "ContainedObjects" : [ {
+              "Locked" : false,
+              "Grid" : true,
+              "Snap" : true,
+              "IgnoreFoW" : false,
+              "MeasureMovement" : false,
+              "DragSelectable" : true,
+              "Autoraise" : true,
+              "Sticky" : true,
+              "Tooltip" : true,
+              "GridProjection" : false,
+              "Hands" : true,
+              "GUID" : "e00044",
+              "Name" : "Card",
+              "Nickname" : "Forgotten Knowledge",
+              "Transform" : {
+                "posX" : 0.0,
+                "posY" : 0.0,
+                "posZ" : 0.0,
+                "rotX" : 0.0,
+                "rotY" : 270.0,
+                "rotZ" : 0.0,
+                "scaleX" : 1.0,
+                "scaleY" : 1.0,
+                "scaleZ" : 1.0
+              },
+              "HideWhenFaceDown" : true,
+              "CardID" : 104800,
+              "SidewaysCard" : false,
+              "CustomDeck" : {
+                "1048" : {
+                  "FaceURL" : "https://www.dropbox.com/scl/fi/qeknodrh5au0kk0ae2ptx/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-Forgotten-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=epck2tmmo16rgcm8rwkabwuwo&raw=1&cachebust=1756719470593",
+                  "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "NumWidth" : 1,
+                  "NumHeight" : 1,
+                  "BackIsHidden" : true,
+                  "UniqueBack" : false,
+                  "Type" : 0
+                }
+              },
+              "GMNotes" : "{\"TtsZoopGuid\":\"70ccabf5-4f44-4ec2-b677-fa54ce9a864f\",\"id\":\"70ccabf5-4f44-4ec2-b677-fa54ce9a864f\",\"type\":\"Treachery\",\"traits\":\"Yithian.\",\"weakness\":true}",
+              "Tags" : [ "PlayerCard" ]
+            }, {
+              "Locked" : false,
+              "Grid" : true,
+              "Snap" : true,
+              "IgnoreFoW" : false,
+              "MeasureMovement" : false,
+              "DragSelectable" : true,
+              "Autoraise" : true,
+              "Sticky" : true,
+              "Tooltip" : true,
+              "GridProjection" : false,
+              "Hands" : true,
+              "GUID" : "e00045",
+              "Name" : "Card",
+              "Nickname" : "Thirst for Knowledge",
+              "Description" : "There's nothing you can't learn",
+              "Transform" : {
+                "posX" : 0.0,
+                "posY" : 0.0,
+                "posZ" : 0.0,
+                "rotX" : 0.0,
+                "rotY" : 270.0,
+                "rotZ" : 0.0,
+                "scaleX" : 1.0,
+                "scaleY" : 1.0,
+                "scaleZ" : 1.0
+              },
+              "HideWhenFaceDown" : true,
+              "CardID" : 104900,
+              "SidewaysCard" : false,
+              "CustomDeck" : {
+                "1049" : {
+                  "FaceURL" : "https://www.dropbox.com/scl/fi/v90ownb8ror6d5cla58u8/9189bc89-5511-49ad-a1fa-218f58d44fe5-Front-Thirst-for-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s1tye49py5r6dqq8ewbdxxdvi&raw=1&cachebust=1756668062628",
+                  "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "NumWidth" : 1,
+                  "NumHeight" : 1,
+                  "BackIsHidden" : true,
+                  "UniqueBack" : false,
+                  "Type" : 0
+                }
+              },
+              "GMNotes" : "{\"TtsZoopGuid\":\"9189bc89-5511-49ad-a1fa-218f58d44fe5\",\"id\":\"9189bc89-5511-49ad-a1fa-218f58d44fe5\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Yithian.\",\"level\":0,\"permanent\":true}",
+              "Tags" : [ "PlayerCard", "Asset" ]
+            } ]
           } ]
         } ]
       }, {
@@ -2788,7 +2922,7 @@
         "Tooltip" : true,
         "GridProjection" : false,
         "Hands" : true,
-        "GUID" : "e00043",
+        "GUID" : "e00046",
         "Name" : "Bag",
         "Nickname" : "Rogue",
         "Transform" : {
@@ -2814,7 +2948,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00044",
+          "GUID" : "e00047",
           "Name" : "Deck",
           "Nickname" : "Rogue - Portrait",
           "Transform" : {
@@ -2830,27 +2964,9 @@
           },
           "HideWhenFaceDown" : true,
           "SidewaysCard" : false,
-          "DeckIDs" : [ 104800, 104900, 105000, 105100, 105200, 105300, 105400, 105500, 105600, 105700, 105800, 105900, 106000, 106100, 106200, 106300 ],
+          "DeckIDs" : [ 105000, 105100, 105200, 105300, 105400, 105500, 105600, 105700, 105800, 105900, 106000, 106100, 106200, 106300, 106400, 106500 ],
           "CustomDeck" : {
             "1055" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/pqld5tssjglt4ackf8ee2/f138241e-adec-43eb-920d-7d55b9191f00-Front-Keep-Blastin-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=19s9tofhf4h1qkbl32kt38hqp&raw=1&cachebust=1756668226620",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1054" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/fkjjraq3m4w7akf5vzfo9/28ede381-c0ee-4e32-b704-3538447c2412-Front-Intimidate-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=m9l0b5jkgrvgeu1tfpwfw0ggk&raw=1&cachebust=1756668023296",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1053" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/siehxzk69885igzhyz6jg/1723e799-953d-4106-bafe-0acba6aba5f4-Front-Inside-Job-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=g42lbnz9nfvi73ry5ivoox346&raw=1&cachebust=1756667896783",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2859,7 +2975,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1063" : {
+            "1065" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/ne00tptlxnhagv6lksm9j/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen-Idol-of-Yoth-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l7di8nu7z38mxp6jh7h1e4jpy&raw=1&cachebust=1756668234785",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2868,7 +2984,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1052" : {
+            "1054" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/3i0qpja64e6ogex70r2e4/a2c0589e-298e-4d39-a102-9062f57461ce-Front-Flash-of-Wealth-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mcsa6cjiw11ew2qo6frmter1f&raw=1&cachebust=1756668207469",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2877,7 +2993,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1062" : {
+            "1064" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/pdnkbciaa5fakkla7uolz/752da745-f58e-499b-8925-5a2e59735e87-Front-Smoke-Bomb-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=bnabz1crqk2kzgkm5369aryax&raw=1&cachebust=1756668242579",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2886,7 +3002,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1051" : {
+            "1053" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/56kelyxenyh9m9fa319nl/402dd144-75d1-4102-a782-fd716650e40a-Front-Flash-of-Wealth-4-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zi43aradm42bl60zserrkco40&raw=1&cachebust=1756668055057",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2895,7 +3011,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1061" : {
+            "1063" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/4w0jt968mieiv1cmdbjlu/d6b72d9c-2429-4315-ba9a-ba0a6ba91900-Front-Rock-Bottom-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ooijxe5arehf0wgp3n7s7e80c&raw=1&cachebust=1756667957039",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2904,7 +3020,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1050" : {
+            "1052" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/0zv4pk71mivvo58y5en35/14fe46eb-d4ff-4f45-ba02-6a744e749c72-Front-Burglary-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=t9tqnoetluz4ihybub1rneigg&raw=1&cachebust=1756667865980",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2913,7 +3029,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1060" : {
+            "1062" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/f8nanmbr6btvh2xe33ge0/66de2739-63a7-4910-85e7-ef4781bdde5b-Front-Negotiations-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=azx9p00tuxqq46tbuqqgy6vmd&raw=1&cachebust=1756668165379",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2922,7 +3038,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1049" : {
+            "1051" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/3n2to9honhdxyrmdslwsg/b384ff18-2009-4ddd-9784-bc8dddbcd1b1-Front-Bribed-Silence-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jwov8yxn27m0ofgus79a8ejez&raw=1&cachebust=1756668058540",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2931,7 +3047,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1059" : {
+            "1061" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/ur3yt06q371il20kf5gtt/8771bf35-8518-4d76-a647-b798148b7d75-Front-Molly-Brown-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=d40muh66p1tg8if5e10s8i91k&raw=1&cachebust=1756668119829",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2940,7 +3056,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1048" : {
+            "1050" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/4ixlh67lj7rl29fnfb6s9/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-Bloodwire-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=n67upp027vn52u9rzfol72si7&raw=1&cachebust=1756668019761",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2949,7 +3065,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1058" : {
+            "1060" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/hi9i37xfd2cqk1tzppipg/20d0bf71-f3ee-429a-8fd2-86615762f1d4-Front-Lucky-Strike-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mj7j64fq5p6xiqguiznvn37p4&raw=1&cachebust=1756667984479",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2958,7 +3074,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1057" : {
+            "1059" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/u1zzu3it1tq79n8i485tw/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-Last-Ditch-Effort-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=lm2pcngwngxr7n4pkhifm49u6&raw=1&cachebust=1756668154496",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -2967,8 +3083,26 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1056" : {
+            "1058" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/k7w8tufce5fpuorb65fd0/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-Last-Ditch-Effort-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=r4v5kleem37gitm5bmft7ywfc&raw=1&cachebust=1756668139122",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1057" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/pqld5tssjglt4ackf8ee2/f138241e-adec-43eb-920d-7d55b9191f00-Front-Keep-Blastin-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=19s9tofhf4h1qkbl32kt38hqp&raw=1&cachebust=1756668226620",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1056" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/fkjjraq3m4w7akf5vzfo9/28ede381-c0ee-4e32-b704-3538447c2412-Front-Intimidate-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=m9l0b5jkgrvgeu1tfpwfw0ggk&raw=1&cachebust=1756668023296",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -2989,7 +3123,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00045",
+            "GUID" : "e00048",
             "Name" : "Card",
             "Nickname" : "Bloodwire (3)",
             "Transform" : {
@@ -3004,10 +3138,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 104800,
+            "CardID" : 105000,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1048" : {
+              "1050" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/4ixlh67lj7rl29fnfb6s9/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-Bloodwire-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=n67upp027vn52u9rzfol72si7&raw=1&cachebust=1756668019761",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3031,7 +3165,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00046",
+            "GUID" : "e00049",
             "Name" : "Card",
             "Nickname" : "Bribed Silence (1)",
             "Transform" : {
@@ -3046,10 +3180,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 104900,
+            "CardID" : 105100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1049" : {
+              "1051" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/3n2to9honhdxyrmdslwsg/b384ff18-2009-4ddd-9784-bc8dddbcd1b1-Front-Bribed-Silence-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jwov8yxn27m0ofgus79a8ejez&raw=1&cachebust=1756668058540",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3073,7 +3207,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00047",
+            "GUID" : "e0004a",
             "Name" : "Card",
             "Nickname" : "Burglary (3)",
             "Transform" : {
@@ -3088,10 +3222,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105000,
+            "CardID" : 105200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1050" : {
+              "1052" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/0zv4pk71mivvo58y5en35/14fe46eb-d4ff-4f45-ba02-6a744e749c72-Front-Burglary-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=t9tqnoetluz4ihybub1rneigg&raw=1&cachebust=1756667865980",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3115,7 +3249,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00048",
+            "GUID" : "e0004b",
             "Name" : "Card",
             "Nickname" : "Flash of Wealth (4)",
             "Transform" : {
@@ -3130,10 +3264,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105100,
+            "CardID" : 105300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1051" : {
+              "1053" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/56kelyxenyh9m9fa319nl/402dd144-75d1-4102-a782-fd716650e40a-Front-Flash-of-Wealth-4-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zi43aradm42bl60zserrkco40&raw=1&cachebust=1756668055057",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3157,7 +3291,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00049",
+            "GUID" : "e0004c",
             "Name" : "Card",
             "Nickname" : "Flash of Wealth",
             "Transform" : {
@@ -3172,10 +3306,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105200,
+            "CardID" : 105400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1052" : {
+              "1054" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/3i0qpja64e6ogex70r2e4/a2c0589e-298e-4d39-a102-9062f57461ce-Front-Flash-of-Wealth-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mcsa6cjiw11ew2qo6frmter1f&raw=1&cachebust=1756668207469",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3199,7 +3333,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004a",
+            "GUID" : "e0004d",
             "Name" : "Card",
             "Nickname" : "Inside Job (1)",
             "Transform" : {
@@ -3214,10 +3348,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105300,
+            "CardID" : 105500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1053" : {
+              "1055" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/siehxzk69885igzhyz6jg/1723e799-953d-4106-bafe-0acba6aba5f4-Front-Inside-Job-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=g42lbnz9nfvi73ry5ivoox346&raw=1&cachebust=1756667896783",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3241,7 +3375,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004b",
+            "GUID" : "e0004e",
             "Name" : "Card",
             "Nickname" : "Intimidate",
             "Transform" : {
@@ -3256,10 +3390,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105400,
+            "CardID" : 105600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1054" : {
+              "1056" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/fkjjraq3m4w7akf5vzfo9/28ede381-c0ee-4e32-b704-3538447c2412-Front-Intimidate-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=m9l0b5jkgrvgeu1tfpwfw0ggk&raw=1&cachebust=1756668023296",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3283,7 +3417,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004c",
+            "GUID" : "e0004f",
             "Name" : "Card",
             "Nickname" : "\"Keep Blastin'\"",
             "Transform" : {
@@ -3298,10 +3432,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105500,
+            "CardID" : 105700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1055" : {
+              "1057" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/pqld5tssjglt4ackf8ee2/f138241e-adec-43eb-920d-7d55b9191f00-Front-Keep-Blastin-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=19s9tofhf4h1qkbl32kt38hqp&raw=1&cachebust=1756668226620",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3325,7 +3459,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004d",
+            "GUID" : "e00050",
             "Name" : "Card",
             "Nickname" : "Last Ditch Effort (2)",
             "Transform" : {
@@ -3340,10 +3474,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105600,
+            "CardID" : 105800,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1056" : {
+              "1058" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/k7w8tufce5fpuorb65fd0/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-Last-Ditch-Effort-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=r4v5kleem37gitm5bmft7ywfc&raw=1&cachebust=1756668139122",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3367,7 +3501,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004e",
+            "GUID" : "e00051",
             "Name" : "Card",
             "Nickname" : "Last Ditch Effort",
             "Transform" : {
@@ -3382,10 +3516,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105700,
+            "CardID" : 105900,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1057" : {
+              "1059" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/u1zzu3it1tq79n8i485tw/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-Last-Ditch-Effort-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=lm2pcngwngxr7n4pkhifm49u6&raw=1&cachebust=1756668154496",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3409,7 +3543,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0004f",
+            "GUID" : "e00052",
             "Name" : "Card",
             "Nickname" : "Lucky Strike",
             "Transform" : {
@@ -3424,10 +3558,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105800,
+            "CardID" : 106000,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1058" : {
+              "1060" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/hi9i37xfd2cqk1tzppipg/20d0bf71-f3ee-429a-8fd2-86615762f1d4-Front-Lucky-Strike-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mj7j64fq5p6xiqguiznvn37p4&raw=1&cachebust=1756667984479",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3451,7 +3585,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00050",
+            "GUID" : "e00053",
             "Name" : "Card",
             "Nickname" : "Molly Brown",
             "Description" : "Admirable Philanthropist ",
@@ -3467,10 +3601,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 105900,
+            "CardID" : 106100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1059" : {
+              "1061" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/ur3yt06q371il20kf5gtt/8771bf35-8518-4d76-a647-b798148b7d75-Front-Molly-Brown-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=d40muh66p1tg8if5e10s8i91k&raw=1&cachebust=1756668119829",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3494,7 +3628,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00051",
+            "GUID" : "e00054",
             "Name" : "Card",
             "Nickname" : "Negotiations (2)",
             "Transform" : {
@@ -3509,10 +3643,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106000,
+            "CardID" : 106200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1060" : {
+              "1062" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/f8nanmbr6btvh2xe33ge0/66de2739-63a7-4910-85e7-ef4781bdde5b-Front-Negotiations-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=azx9p00tuxqq46tbuqqgy6vmd&raw=1&cachebust=1756668165379",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3536,7 +3670,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00052",
+            "GUID" : "e00055",
             "Name" : "Card",
             "Nickname" : "Rock Bottom",
             "Transform" : {
@@ -3551,10 +3685,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106100,
+            "CardID" : 106300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1061" : {
+              "1063" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/4w0jt968mieiv1cmdbjlu/d6b72d9c-2429-4315-ba9a-ba0a6ba91900-Front-Rock-Bottom-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ooijxe5arehf0wgp3n7s7e80c&raw=1&cachebust=1756667957039",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3578,7 +3712,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00053",
+            "GUID" : "e00056",
             "Name" : "Card",
             "Nickname" : "Smoke Bomb",
             "Transform" : {
@@ -3593,10 +3727,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106200,
+            "CardID" : 106400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1062" : {
+              "1064" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/pdnkbciaa5fakkla7uolz/752da745-f58e-499b-8925-5a2e59735e87-Front-Smoke-Bomb-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=bnabz1crqk2kzgkm5369aryax&raw=1&cachebust=1756668242579",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3620,7 +3754,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00054",
+            "GUID" : "e00057",
             "Name" : "Card",
             "Nickname" : "Stolen Idol of Yoth (3)",
             "Transform" : {
@@ -3635,10 +3769,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106300,
+            "CardID" : 106500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1063" : {
+              "1065" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/ne00tptlxnhagv6lksm9j/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen-Idol-of-Yoth-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l7di8nu7z38mxp6jh7h1e4jpy&raw=1&cachebust=1756668234785",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3663,7 +3797,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00055",
+          "GUID" : "e00058",
           "Name" : "Bag",
           "Nickname" : "Investigator",
           "Transform" : {
@@ -3689,7 +3823,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00057",
+            "GUID" : "e0005a",
             "Name" : "Card",
             "Nickname" : "\"Skids\" O'Toole",
             "Description" : "The Ex-Con",
@@ -3705,10 +3839,10 @@
               "scaleZ" : 0.8214285714285714
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106400,
+            "CardID" : 106600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1064" : {
+              "1066" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/fvx9lpi04dtz1vpxco9tl/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ytumb787xhzap3g5bwxrsxonq&raw=1&cachebust=1756570524204",
                 "BackURL" : "https://www.dropbox.com/scl/fi/p220qv2de36dwip4kt0wn/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids-O-Toole-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=pwxpzy1n7ff333aore2v073g5&raw=1&cachebust=1756570527023",
                 "NumWidth" : 1,
@@ -3732,7 +3866,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00059",
+            "GUID" : "e0005c",
             "Name" : "Card",
             "Nickname" : "",
             "Transform" : {
@@ -3747,10 +3881,10 @@
               "scaleZ" : 0.6
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106500,
+            "CardID" : 106700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1065" : {
+              "1067" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/xbeadjrh0ebynk2ntzgwr/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Front-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=g5self7zktmw9l5lzy67aynrs&raw=1&cachebust=1756027237337",
                 "BackURL" : "https://www.dropbox.com/scl/fi/we9lf0yz2uec1odcnxtzm/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Back-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fr27aermo8tvrq2sw37mje5u9&raw=1&cachebust=1756027240416",
                 "NumWidth" : 1,
@@ -3774,7 +3908,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0005a",
+            "GUID" : "e0005d",
             "Name" : "Deck",
             "Nickname" : "Investigator - Portrait",
             "Transform" : {
@@ -3790,9 +3924,9 @@
             },
             "HideWhenFaceDown" : true,
             "SidewaysCard" : false,
-            "DeckIDs" : [ 106600, 106700 ],
+            "DeckIDs" : [ 106800, 106900 ],
             "CustomDeck" : {
-              "1067" : {
+              "1069" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/xlnyejzx54iwqhhqxtuwv/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On-the-Lam-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nlra7a8n7tokg0d58hz1sl2v4&raw=1&cachebust=1756574782027",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3801,7 +3935,7 @@
                 "UniqueBack" : false,
                 "Type" : 0
               },
-              "1066" : {
+              "1068" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/s6m2g804gl7acjt3ro7f7/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital-Debts-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=k7ocxmm9h6dwhi8o1pgbysh7d&raw=1&cachebust=1756667878371",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -3823,7 +3957,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e0005b",
+              "GUID" : "e0005e",
               "Name" : "Card",
               "Nickname" : "Hospital Debts",
               "Transform" : {
@@ -3838,10 +3972,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 106600,
+              "CardID" : 106800,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1066" : {
+                "1068" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/s6m2g804gl7acjt3ro7f7/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital-Debts-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=k7ocxmm9h6dwhi8o1pgbysh7d&raw=1&cachebust=1756667878371",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -3865,7 +3999,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e0005c",
+              "GUID" : "e0005f",
               "Name" : "Card",
               "Nickname" : "On the Lam",
               "Transform" : {
@@ -3880,10 +4014,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 106700,
+              "CardID" : 106900,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1067" : {
+                "1069" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/xlnyejzx54iwqhhqxtuwv/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On-the-Lam-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nlra7a8n7tokg0d58hz1sl2v4&raw=1&cachebust=1756574782027",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -3910,7 +4044,7 @@
         "Tooltip" : true,
         "GridProjection" : false,
         "Hands" : true,
-        "GUID" : "e0005d",
+        "GUID" : "e00060",
         "Name" : "Bag",
         "Nickname" : "Seeker",
         "Transform" : {
@@ -3936,7 +4070,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e0005e",
+          "GUID" : "e00061",
           "Name" : "Deck",
           "Nickname" : "Seeker - Portrait",
           "Transform" : {
@@ -3952,11 +4086,11 @@
           },
           "HideWhenFaceDown" : true,
           "SidewaysCard" : false,
-          "DeckIDs" : [ 106800, 106900, 107000, 107100, 107200, 107300, 107400, 107500, 107600, 107700, 107800, 107900, 108000, 108100, 108200, 108300, 108400 ],
+          "DeckIDs" : [ 107000, 107100, 107200, 107300, 107400, 107500, 107600, 107700, 107800, 107900, 108000, 108100, 108200, 108300, 108400, 108500, 108600 ],
           "CustomDeck" : {
             "1080" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/exj7d4rbf0sox1omvm1sg/d1821617-b70c-45df-b490-a9355a1058ae-Front-Seeking-Knowledge-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ak51boytscsctyvc02d5vlt2w&raw=1&cachebust=1756668142837",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "FaceURL" : "https://www.dropbox.com/scl/fi/0nokkcta34yykozuuk2yw/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-Revelation-of-Purpose-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ts27jbloc9d4x8ghtj77mzqd8&raw=1&cachebust=1756668196281",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
               "NumWidth" : 1,
               "NumHeight" : 1,
               "BackIsHidden" : true,
@@ -3964,24 +4098,6 @@
               "Type" : 0
             },
             "1077" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/gd8aa8ja3sxsesvnahmbk/d6ff5bb1-6e28-454a-acea-b69c193e12c9-Front-Pattern-Recognition-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=16zh4080uh8vm93atuwcslutu&raw=1&cachebust=1756668254560",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1076" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/qgrt8xusb31m73a4v0mv1/32262e8d-8882-4536-b657-835705aeb0c0-Front-Inspect-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s4ydchoo4qetofbaojpod2gs0&raw=1&cachebust=1756667900106",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1075" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/2vah06dclmxhn6l3qvmkc/3d36bb40-d99c-472a-a900-0771646ecaa6-Front-Fortunate-Find-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=thzmg7c9enkdmedktcj9ttzm8&raw=1&cachebust=1756667869379",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -3990,7 +4106,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1074" : {
+            "1076" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/9yas49kiklqnxnv1760im/29f41154-594b-4f5b-b035-0b74b05524cf-Front-Fortunate-Find-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3cp8gfgmeg75uo8jw26t2isip&raw=1&cachebust=1756667913783",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -3999,7 +4115,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1084" : {
+            "1086" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/8yf89piwpevfkchk05k34/1702d362-197e-400b-8217-93cf2f868021-Front-Vantage-Point-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=hii7ra11kpli9egwwp4ynyn96&raw=1&cachebust=1756668034775",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4008,7 +4124,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1073" : {
+            "1075" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/btwjo8h8jej0udq93fy52/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-Flight-or-Fright-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=j2jsitrqwraliw03wx532kxdj&raw=1&cachebust=1756667903834",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4017,7 +4133,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1083" : {
+            "1085" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/2u74shzby261aqbp10xym/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Two-Steps-Ahead-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=h3vvovlh3ake6ntsco3q1izdn&raw=1&cachebust=1756667934839",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4026,7 +4142,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1072" : {
+            "1074" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/mbuy40psdo13hz10g3iyr/3362294c-acba-4295-8014-7348ec8b1e7e-Front-Eldritch-Insight-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=9vs9ci7n34k9tqe7wgw0065t5&raw=1&cachebust=1756667991966",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4035,7 +4151,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1082" : {
+            "1084" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/eris8idjvgsljhogoyt0e/f772c0e3-ed15-40fa-a923-369df6c87f3b-Front-Slipstream-Theorem-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qptmr73dmeuwdxt3kd7mktjvh&raw=1&cachebust=1756668180591",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4044,7 +4160,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1071" : {
+            "1073" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/n87enup7wh2iodsp1j0yu/daafcbd4-15c8-4731-898d-2666636d43b7-Front-Eldritch-Insight-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vjbv0vamxnvrt5czrw157u4qy&raw=1&cachebust=1756667930657",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4053,7 +4169,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1081" : {
+            "1083" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/i7rck4xk9k3aoyjbr7s6l/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-Slip-By-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3uaw6djp83rpuan2qu5nxbq1k&raw=1&cachebust=1756667997018",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4062,7 +4178,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1070" : {
+            "1072" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/qxujthe07ltofpuh7sjen/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wdvi97epegwlkg3oi3d1u3g0o&raw=1&cachebust=1756668222905",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4071,7 +4187,16 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1069" : {
+            "1082" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/exj7d4rbf0sox1omvm1sg/d1821617-b70c-45df-b490-a9355a1058ae-Front-Seeking-Knowledge-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ak51boytscsctyvc02d5vlt2w&raw=1&cachebust=1756668142837",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1071" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/t5e5nj0u2pvk8ljbphry7/83d1a57e-b642-4afa-9f74-9503172d71f5-Front-Bookmark-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=a0k9p7d7xmnxbaokbue1iv006&raw=1&cachebust=1756668116313",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4080,7 +4205,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1079" : {
+            "1081" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/gkn4d49yih3ihehwzbrlo/38ceeed0-a9c6-4b8c-9015-b8a6aa345422-Front-Seed-of-Clarity-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wavpsoklzfzermf9cx1c7sdc7&raw=1&cachebust=1756667926945",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4089,7 +4214,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1068" : {
+            "1070" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/agw4gblxti6pqhebta8gq/a941e24e-114e-41ab-8cb7-275436a007e7-Front-Archivist-s-Lens-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zcexk6trex5n21rez42l1u9sx&raw=1&cachebust=1756668090446",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -4098,9 +4223,18 @@
               "UniqueBack" : false,
               "Type" : 0
             },
+            "1079" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/gd8aa8ja3sxsesvnahmbk/d6ff5bb1-6e28-454a-acea-b69c193e12c9-Front-Pattern-Recognition-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=16zh4080uh8vm93atuwcslutu&raw=1&cachebust=1756668254560",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
             "1078" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/0nokkcta34yykozuuk2yw/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-Revelation-of-Purpose-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ts27jbloc9d4x8ghtj77mzqd8&raw=1&cachebust=1756668196281",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL" : "https://www.dropbox.com/scl/fi/qgrt8xusb31m73a4v0mv1/32262e8d-8882-4536-b657-835705aeb0c0-Front-Inspect-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s4ydchoo4qetofbaojpod2gs0&raw=1&cachebust=1756667900106",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
               "BackIsHidden" : true,
@@ -4120,7 +4254,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0005f",
+            "GUID" : "e00062",
             "Name" : "Card",
             "Nickname" : "Archivist's Lens (3)",
             "Transform" : {
@@ -4135,10 +4269,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106800,
+            "CardID" : 107000,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1068" : {
+              "1070" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/agw4gblxti6pqhebta8gq/a941e24e-114e-41ab-8cb7-275436a007e7-Front-Archivist-s-Lens-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zcexk6trex5n21rez42l1u9sx&raw=1&cachebust=1756668090446",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4162,7 +4296,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00060",
+            "GUID" : "e00063",
             "Name" : "Card",
             "Nickname" : "Bookmark",
             "Transform" : {
@@ -4177,10 +4311,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 106900,
+            "CardID" : 107100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1069" : {
+              "1071" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/t5e5nj0u2pvk8ljbphry7/83d1a57e-b642-4afa-9f74-9503172d71f5-Front-Bookmark-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=a0k9p7d7xmnxbaokbue1iv006&raw=1&cachebust=1756668116313",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4204,7 +4338,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00061",
+            "GUID" : "e00064",
             "Name" : "Card",
             "Nickname" : "Deduction (3)",
             "Transform" : {
@@ -4219,10 +4353,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107000,
+            "CardID" : 107200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1070" : {
+              "1072" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/qxujthe07ltofpuh7sjen/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wdvi97epegwlkg3oi3d1u3g0o&raw=1&cachebust=1756668222905",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4246,7 +4380,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00062",
+            "GUID" : "e00065",
             "Name" : "Card",
             "Nickname" : "Eldritch Insight (3)",
             "Transform" : {
@@ -4261,10 +4395,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107100,
+            "CardID" : 107300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1071" : {
+              "1073" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/n87enup7wh2iodsp1j0yu/daafcbd4-15c8-4731-898d-2666636d43b7-Front-Eldritch-Insight-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vjbv0vamxnvrt5czrw157u4qy&raw=1&cachebust=1756667930657",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4288,7 +4422,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00063",
+            "GUID" : "e00066",
             "Name" : "Card",
             "Nickname" : "Eldritch Insight",
             "Transform" : {
@@ -4303,10 +4437,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107200,
+            "CardID" : 107400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1072" : {
+              "1074" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/mbuy40psdo13hz10g3iyr/3362294c-acba-4295-8014-7348ec8b1e7e-Front-Eldritch-Insight-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=9vs9ci7n34k9tqe7wgw0065t5&raw=1&cachebust=1756667991966",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4330,7 +4464,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00064",
+            "GUID" : "e00067",
             "Name" : "Card",
             "Nickname" : "Flight or Fright",
             "Transform" : {
@@ -4345,10 +4479,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107300,
+            "CardID" : 107500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1073" : {
+              "1075" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/btwjo8h8jej0udq93fy52/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-Flight-or-Fright-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=j2jsitrqwraliw03wx532kxdj&raw=1&cachebust=1756667903834",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4372,7 +4506,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00065",
+            "GUID" : "e00068",
             "Name" : "Card",
             "Nickname" : "Fortunate Find (1)",
             "Transform" : {
@@ -4387,10 +4521,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107400,
+            "CardID" : 107600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1074" : {
+              "1076" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/9yas49kiklqnxnv1760im/29f41154-594b-4f5b-b035-0b74b05524cf-Front-Fortunate-Find-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3cp8gfgmeg75uo8jw26t2isip&raw=1&cachebust=1756667913783",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4414,7 +4548,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00066",
+            "GUID" : "e00069",
             "Name" : "Card",
             "Nickname" : "Fortunate Find",
             "Transform" : {
@@ -4429,10 +4563,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107500,
+            "CardID" : 107700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1075" : {
+              "1077" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/2vah06dclmxhn6l3qvmkc/3d36bb40-d99c-472a-a900-0771646ecaa6-Front-Fortunate-Find-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=thzmg7c9enkdmedktcj9ttzm8&raw=1&cachebust=1756667869379",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4456,7 +4590,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00067",
+            "GUID" : "e0006a",
             "Name" : "Card",
             "Nickname" : "Inspect",
             "Transform" : {
@@ -4471,10 +4605,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107600,
+            "CardID" : 107800,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1076" : {
+              "1078" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/qgrt8xusb31m73a4v0mv1/32262e8d-8882-4536-b657-835705aeb0c0-Front-Inspect-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=s4ydchoo4qetofbaojpod2gs0&raw=1&cachebust=1756667900106",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4498,7 +4632,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00068",
+            "GUID" : "e0006b",
             "Name" : "Card",
             "Nickname" : "Pattern Recognition (1)",
             "Transform" : {
@@ -4513,10 +4647,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107700,
+            "CardID" : 107900,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1077" : {
+              "1079" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/gd8aa8ja3sxsesvnahmbk/d6ff5bb1-6e28-454a-acea-b69c193e12c9-Front-Pattern-Recognition-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=16zh4080uh8vm93atuwcslutu&raw=1&cachebust=1756668254560",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4540,7 +4674,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00069",
+            "GUID" : "e0006c",
             "Name" : "Card",
             "Nickname" : "Revelation of Purpose",
             "Transform" : {
@@ -4555,10 +4689,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107800,
+            "CardID" : 108000,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1078" : {
+              "1080" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/0nokkcta34yykozuuk2yw/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-Revelation-of-Purpose-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ts27jbloc9d4x8ghtj77mzqd8&raw=1&cachebust=1756668196281",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                 "NumWidth" : 1,
@@ -4582,7 +4716,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006a",
+            "GUID" : "e0006d",
             "Name" : "Card",
             "Nickname" : "Seed of Clarity (1)",
             "Transform" : {
@@ -4597,10 +4731,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 107900,
+            "CardID" : 108100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1079" : {
+              "1081" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/gkn4d49yih3ihehwzbrlo/38ceeed0-a9c6-4b8c-9015-b8a6aa345422-Front-Seed-of-Clarity-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wavpsoklzfzermf9cx1c7sdc7&raw=1&cachebust=1756667926945",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4624,7 +4758,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006b",
+            "GUID" : "e0006e",
             "Name" : "Card",
             "Nickname" : "Seeking Knowledge (2)",
             "Transform" : {
@@ -4639,10 +4773,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108000,
+            "CardID" : 108200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1080" : {
+              "1082" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/exj7d4rbf0sox1omvm1sg/d1821617-b70c-45df-b490-a9355a1058ae-Front-Seeking-Knowledge-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ak51boytscsctyvc02d5vlt2w&raw=1&cachebust=1756668142837",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4666,7 +4800,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006c",
+            "GUID" : "e0006f",
             "Name" : "Card",
             "Nickname" : "Slip By",
             "Transform" : {
@@ -4681,10 +4815,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108100,
+            "CardID" : 108300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1081" : {
+              "1083" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/i7rck4xk9k3aoyjbr7s6l/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-Slip-By-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3uaw6djp83rpuan2qu5nxbq1k&raw=1&cachebust=1756667997018",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4708,7 +4842,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006d",
+            "GUID" : "e00070",
             "Name" : "Card",
             "Nickname" : "Slipstream Theorem (1)",
             "Transform" : {
@@ -4723,10 +4857,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108200,
+            "CardID" : 108400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1082" : {
+              "1084" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/eris8idjvgsljhogoyt0e/f772c0e3-ed15-40fa-a923-369df6c87f3b-Front-Slipstream-Theorem-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qptmr73dmeuwdxt3kd7mktjvh&raw=1&cachebust=1756668180591",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4750,7 +4884,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006e",
+            "GUID" : "e00071",
             "Name" : "Card",
             "Nickname" : "Two Steps Ahead",
             "Transform" : {
@@ -4765,10 +4899,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108300,
+            "CardID" : 108500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1083" : {
+              "1085" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/2u74shzby261aqbp10xym/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Two-Steps-Ahead-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=h3vvovlh3ake6ntsco3q1izdn&raw=1&cachebust=1756667934839",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4792,7 +4926,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0006f",
+            "GUID" : "e00072",
             "Name" : "Card",
             "Nickname" : "Vantage Point",
             "Transform" : {
@@ -4807,10 +4941,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108400,
+            "CardID" : 108600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1084" : {
+              "1086" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/8yf89piwpevfkchk05k34/1702d362-197e-400b-8217-93cf2f868021-Front-Vantage-Point-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=hii7ra11kpli9egwwp4ynyn96&raw=1&cachebust=1756668034775",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4835,7 +4969,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00070",
+          "GUID" : "e00073",
           "Name" : "Bag",
           "Nickname" : "Investigator",
           "Transform" : {
@@ -4861,7 +4995,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00072",
+            "GUID" : "e00075",
             "Name" : "Card",
             "Nickname" : "Daisy Walker",
             "Description" : "The Librarian",
@@ -4877,10 +5011,10 @@
               "scaleZ" : 0.8214285714285714
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108500,
+            "CardID" : 108700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1085" : {
+              "1087" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/b4inqmhr3srtmt9hi0oy0/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=gdije24jcfd35vagjtvox55n5&raw=1&cachebust=1756553652201",
                 "BackURL" : "https://www.dropbox.com/scl/fi/t02tot4cw08g2hd1sdg0m/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-Daisy-Walker-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=po1hqvjmwslaurr9l6lt9weqr&raw=1&cachebust=1756553655581",
                 "NumWidth" : 1,
@@ -4904,7 +5038,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00074",
+            "GUID" : "e00077",
             "Name" : "Card",
             "Nickname" : "",
             "Transform" : {
@@ -4919,10 +5053,10 @@
               "scaleZ" : 0.6
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108600,
+            "CardID" : 108800,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1086" : {
+              "1088" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/68pugjyy641j105mvecug/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Front-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0infi7pnrq1omeqhlk984jwql&raw=1&cachebust=1756027244016",
                 "BackURL" : "https://www.dropbox.com/scl/fi/6jb3z4ajr7xnkdi5y8nhq/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Back-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=wyww2iapgkbnrvwpxfy2ltsz6&raw=1&cachebust=1756027246813",
                 "NumWidth" : 1,
@@ -4946,7 +5080,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00075",
+            "GUID" : "e00078",
             "Name" : "Deck",
             "Nickname" : "Investigator - Portrait",
             "Transform" : {
@@ -4962,9 +5096,9 @@
             },
             "HideWhenFaceDown" : true,
             "SidewaysCard" : false,
-            "DeckIDs" : [ 108700, 108800 ],
+            "DeckIDs" : [ 108900, 109000 ],
             "CustomDeck" : {
-              "1088" : {
+              "1090" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/qip66opemv89ys8fbct2p/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The-Necronomicon-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ol32qv3sanllgp5vtkbid9ifs&raw=1&cachebust=1756553658832",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4973,7 +5107,7 @@
                 "UniqueBack" : false,
                 "Type" : 0
               },
-              "1087" : {
+              "1089" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/5fxns0c7bm6t3asdsybll/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy-s-Tote-Bag-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=q7s324fsrhwqu8cl3z5mha2p3&raw=1&cachebust=1756553662043",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -4995,7 +5129,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e00076",
+              "GUID" : "e00079",
               "Name" : "Card",
               "Nickname" : "Daisy's Tote Bag",
               "Transform" : {
@@ -5010,10 +5144,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 108700,
+              "CardID" : 108900,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1087" : {
+                "1089" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/5fxns0c7bm6t3asdsybll/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy-s-Tote-Bag-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=q7s324fsrhwqu8cl3z5mha2p3&raw=1&cachebust=1756553662043",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -5037,7 +5171,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e00077",
+              "GUID" : "e0007a",
               "Name" : "Card",
               "Nickname" : "The Necronomicon",
               "Description" : "John Dee Translation",
@@ -5053,10 +5187,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 108800,
+              "CardID" : 109000,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1088" : {
+                "1090" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/qip66opemv89ys8fbct2p/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The-Necronomicon-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ol32qv3sanllgp5vtkbid9ifs&raw=1&cachebust=1756553658832",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -5083,7 +5217,7 @@
         "Tooltip" : true,
         "GridProjection" : false,
         "Hands" : true,
-        "GUID" : "e00078",
+        "GUID" : "e0007b",
         "Name" : "Bag",
         "Nickname" : "Survivor",
         "Transform" : {
@@ -5109,7 +5243,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00079",
+          "GUID" : "e0007c",
           "Name" : "Deck",
           "Nickname" : "Survivor - Portrait",
           "Transform" : {
@@ -5125,19 +5259,10 @@
           },
           "HideWhenFaceDown" : true,
           "SidewaysCard" : false,
-          "DeckIDs" : [ 108900, 109000, 109100, 109200, 109300, 109400, 109500, 109600, 109700, 109800, 109900, 110000, 110100, 110200, 110300, 110400 ],
+          "DeckIDs" : [ 109100, 109200, 109300, 109400, 109500, 109600, 109700, 109800, 109900, 110000, 110100, 110200, 110300, 110400, 110500, 110600 ],
           "CustomDeck" : {
             "1091" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/uscpuqt3r2fcwfly5mlek/aa9ab0da-c565-4d1d-87a6-f4d51133a609-Front-Ergonomic-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0poo3ibblntuem6vynwfu6b0o&raw=1&cachebust=1756668082871",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1090" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/h8hu364wr6qsfgiuu0fr0/20c7f505-31da-4a1a-b0b0-b988e9c7210c-Front-Ergonomic-Grip-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nrsug3iw2zmipncyjety9xv3g&raw=1&cachebust=1756667941233",
+              "FaceURL" : "https://www.dropbox.com/scl/fi/e7wvpurv9r91c69kzw7m1/dd4820e0-c7b0-47dc-bbd4-fc5363e4318d-Front-Clear-the-Deck-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vm0wb3b8excg5f767bed51ob1&raw=1&cachebust=1756668003063",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -5146,24 +5271,6 @@
               "Type" : 0
             },
             "1099" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/rvuy0g47rw1h8y0f86p7c/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night-Camp-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=2zqp8g5kkvqmcecy2ox347g2k&raw=1&cachebust=1756667973130",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1098" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/5rwp8f0kbi3r8mte7ps6w/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed-Board-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=71tzcqq02eqttc7ui1a3nixox&raw=1&cachebust=1756667881458",
-              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-              "NumWidth" : 1,
-              "NumHeight" : 1,
-              "BackIsHidden" : true,
-              "UniqueBack" : false,
-              "Type" : 0
-            },
-            "1097" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756668250312",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5172,7 +5279,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1096" : {
+            "1098" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/l3as6jxqmxvszxtrtb1jh/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-Junkyard-Instinct-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mplmstzpgyl79jphw8wug1jk9&raw=1&cachebust=1756668094204",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5181,7 +5288,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1095" : {
+            "1097" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/mtb8rm0p5nsdqg973rxvx/7cad32f3-a710-4d4f-92a2-90015d53682d-Front-It-Ain-t-Over-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=e67apufjvopahv0xocn1r60ta&raw=1&cachebust=1756668173051",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5190,7 +5297,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1094" : {
+            "1096" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/7nfvm8lc0pwuz2m53lynl/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-Gambler-s-Resolve-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=i3fcyyee21julgtyr6ohvh7rf&raw=1&cachebust=1756667920123",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5199,7 +5306,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1093" : {
+            "1095" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/761z78frx0h5ahsksvfko/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-From-the-Ashes-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=kr404hz6zam2sc7ior4tg0oi0&raw=1&cachebust=1756668079368",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5208,7 +5315,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1092" : {
+            "1094" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/whel95d6ftpir0fb1imik/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed-Token-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=85l10nobyhw77acvs73e2f48z&raw=1&cachebust=1756667907386",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5217,7 +5324,25 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1104" : {
+            "1093" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/uscpuqt3r2fcwfly5mlek/aa9ab0da-c565-4d1d-87a6-f4d51133a609-Front-Ergonomic-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0poo3ibblntuem6vynwfu6b0o&raw=1&cachebust=1756668082871",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1092" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/h8hu364wr6qsfgiuu0fr0/20c7f505-31da-4a1a-b0b0-b988e9c7210c-Front-Ergonomic-Grip-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nrsug3iw2zmipncyjety9xv3g&raw=1&cachebust=1756667941233",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1106" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/09ua95az794hr7u3b2333/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered-Oilskin-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=u44yy2i455o37im2tywr8th5k&raw=1&cachebust=1756668007859",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5226,7 +5351,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1103" : {
+            "1105" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/z9wnd1ri04ixr1bjcq90j/8dac66c4-21a7-4070-9378-8ce3d53e81c1-Front-Tenacious-Resolve-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=f7yx1pjw0h8fmh1xmlw3nd0ic&raw=1&cachebust=1756668150697",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5235,7 +5360,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1102" : {
+            "1104" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/jdeq84jccikehyl73j6d4/67f760d7-549b-4010-a37d-fca9b9fd5271-Front-Stray-Cat-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=6mh23n414wdzx0j3drvhrmjp3&raw=1&cachebust=1756668127990",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5244,7 +5369,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1101" : {
+            "1103" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/e4699ylv9d1l7sjt81a98/87740f1e-140d-45bb-82d8-e50587c560a8-Front-Rex-Trusty-Retriever-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=x8vibuqlz0ufidtn0tle4b0nu&raw=1&cachebust=1756668105072",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5253,7 +5378,7 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1100" : {
+            "1102" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/dxhrpl31nfr8diz8pknll/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-Planted-Evidence-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=knplofpg3iobhrn4v3lv8fio8&raw=1&cachebust=1756668135342",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -5262,8 +5387,17 @@
               "UniqueBack" : false,
               "Type" : 0
             },
-            "1089" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/e7wvpurv9r91c69kzw7m1/dd4820e0-c7b0-47dc-bbd4-fc5363e4318d-Front-Clear-the-Deck-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vm0wb3b8excg5f767bed51ob1&raw=1&cachebust=1756668003063",
+            "1101" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/rvuy0g47rw1h8y0f86p7c/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night-Camp-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=2zqp8g5kkvqmcecy2ox347g2k&raw=1&cachebust=1756667973130",
+              "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "NumWidth" : 1,
+              "NumHeight" : 1,
+              "BackIsHidden" : true,
+              "UniqueBack" : false,
+              "Type" : 0
+            },
+            "1100" : {
+              "FaceURL" : "https://www.dropbox.com/scl/fi/5rwp8f0kbi3r8mte7ps6w/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed-Board-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=71tzcqq02eqttc7ui1a3nixox&raw=1&cachebust=1756667881458",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -5284,7 +5418,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007a",
+            "GUID" : "e0007d",
             "Name" : "Card",
             "Nickname" : "Clear the Deck (1)",
             "Transform" : {
@@ -5299,10 +5433,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 108900,
+            "CardID" : 109100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1089" : {
+              "1091" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/e7wvpurv9r91c69kzw7m1/dd4820e0-c7b0-47dc-bbd4-fc5363e4318d-Front-Clear-the-Deck-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vm0wb3b8excg5f767bed51ob1&raw=1&cachebust=1756668003063",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5326,7 +5460,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007b",
+            "GUID" : "e0007e",
             "Name" : "Card",
             "Nickname" : "Ergonomic Grip (2)",
             "Transform" : {
@@ -5341,10 +5475,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109000,
+            "CardID" : 109200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1090" : {
+              "1092" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/h8hu364wr6qsfgiuu0fr0/20c7f505-31da-4a1a-b0b0-b988e9c7210c-Front-Ergonomic-Grip-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=nrsug3iw2zmipncyjety9xv3g&raw=1&cachebust=1756667941233",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5368,7 +5502,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007c",
+            "GUID" : "e0007f",
             "Name" : "Card",
             "Nickname" : "Ergonomic Grip",
             "Transform" : {
@@ -5383,10 +5517,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109100,
+            "CardID" : 109300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1091" : {
+              "1093" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/uscpuqt3r2fcwfly5mlek/aa9ab0da-c565-4d1d-87a6-f4d51133a609-Front-Ergonomic-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0poo3ibblntuem6vynwfu6b0o&raw=1&cachebust=1756668082871",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5410,7 +5544,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007d",
+            "GUID" : "e00080",
             "Name" : "Card",
             "Nickname" : "Frayed Token (2)",
             "Transform" : {
@@ -5425,10 +5559,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109200,
+            "CardID" : 109400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1092" : {
+              "1094" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/whel95d6ftpir0fb1imik/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed-Token-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=85l10nobyhw77acvs73e2f48z&raw=1&cachebust=1756667907386",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5452,7 +5586,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007e",
+            "GUID" : "e00081",
             "Name" : "Card",
             "Nickname" : "From the Ashes",
             "Transform" : {
@@ -5467,10 +5601,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109300,
+            "CardID" : 109500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1093" : {
+              "1095" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/761z78frx0h5ahsksvfko/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-From-the-Ashes-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=kr404hz6zam2sc7ior4tg0oi0&raw=1&cachebust=1756668079368",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5494,7 +5628,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0007f",
+            "GUID" : "e00082",
             "Name" : "Card",
             "Nickname" : "Gambler's Resolve",
             "Transform" : {
@@ -5509,10 +5643,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109400,
+            "CardID" : 109600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1094" : {
+              "1096" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/7nfvm8lc0pwuz2m53lynl/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-Gambler-s-Resolve-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=i3fcyyee21julgtyr6ohvh7rf&raw=1&cachebust=1756667920123",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5536,7 +5670,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00080",
+            "GUID" : "e00083",
             "Name" : "Card",
             "Nickname" : "\"It Ain't Over\"",
             "Transform" : {
@@ -5551,10 +5685,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109500,
+            "CardID" : 109700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1095" : {
+              "1097" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/mtb8rm0p5nsdqg973rxvx/7cad32f3-a710-4d4f-92a2-90015d53682d-Front-It-Ain-t-Over-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=e67apufjvopahv0xocn1r60ta&raw=1&cachebust=1756668173051",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5578,7 +5712,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00081",
+            "GUID" : "e00084",
             "Name" : "Card",
             "Nickname" : "Junkyard Instinct (3)",
             "Transform" : {
@@ -5593,10 +5727,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109600,
+            "CardID" : 109800,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1096" : {
+              "1098" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/l3as6jxqmxvszxtrtb1jh/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-Junkyard-Instinct-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=mplmstzpgyl79jphw8wug1jk9&raw=1&cachebust=1756668094204",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5620,7 +5754,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00082",
+            "GUID" : "e00085",
             "Name" : "Card",
             "Nickname" : "Lumberjack's Axe",
             "Transform" : {
@@ -5635,10 +5769,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109700,
+            "CardID" : 109900,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1097" : {
+              "1099" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756668250312",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5662,7 +5796,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00083",
+            "GUID" : "e00086",
             "Name" : "Card",
             "Nickname" : "Nailed Board",
             "Transform" : {
@@ -5677,10 +5811,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109800,
+            "CardID" : 110000,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1098" : {
+              "1100" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/5rwp8f0kbi3r8mte7ps6w/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed-Board-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=71tzcqq02eqttc7ui1a3nixox&raw=1&cachebust=1756667881458",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5704,7 +5838,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00084",
+            "GUID" : "e00087",
             "Name" : "Card",
             "Nickname" : "Night Camp",
             "Transform" : {
@@ -5719,10 +5853,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 109900,
+            "CardID" : 110100,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1099" : {
+              "1101" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/rvuy0g47rw1h8y0f86p7c/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night-Camp-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=2zqp8g5kkvqmcecy2ox347g2k&raw=1&cachebust=1756667973130",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5746,7 +5880,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00085",
+            "GUID" : "e00088",
             "Name" : "Card",
             "Nickname" : "Planted Evidence (2)",
             "Transform" : {
@@ -5761,10 +5895,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110000,
+            "CardID" : 110200,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1100" : {
+              "1102" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/dxhrpl31nfr8diz8pknll/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-Planted-Evidence-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=knplofpg3iobhrn4v3lv8fio8&raw=1&cachebust=1756668135342",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5788,7 +5922,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00086",
+            "GUID" : "e00089",
             "Name" : "Card",
             "Nickname" : "Rex, Trusty Retriever",
             "Transform" : {
@@ -5803,10 +5937,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110100,
+            "CardID" : 110300,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1101" : {
+              "1103" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/e4699ylv9d1l7sjt81a98/87740f1e-140d-45bb-82d8-e50587c560a8-Front-Rex-Trusty-Retriever-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=x8vibuqlz0ufidtn0tle4b0nu&raw=1&cachebust=1756668105072",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5830,7 +5964,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00087",
+            "GUID" : "e0008a",
             "Name" : "Card",
             "Nickname" : "Stray Cat (2)",
             "Transform" : {
@@ -5845,10 +5979,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110200,
+            "CardID" : 110400,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1102" : {
+              "1104" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/jdeq84jccikehyl73j6d4/67f760d7-549b-4010-a37d-fca9b9fd5271-Front-Stray-Cat-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=6mh23n414wdzx0j3drvhrmjp3&raw=1&cachebust=1756668127990",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5872,7 +6006,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00088",
+            "GUID" : "e0008b",
             "Name" : "Card",
             "Nickname" : "Tenacious Resolve (3)",
             "Transform" : {
@@ -5887,10 +6021,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110300,
+            "CardID" : 110500,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1103" : {
+              "1105" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/z9wnd1ri04ixr1bjcq90j/8dac66c4-21a7-4070-9378-8ce3d53e81c1-Front-Tenacious-Resolve-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=f7yx1pjw0h8fmh1xmlw3nd0ic&raw=1&cachebust=1756668150697",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5914,7 +6048,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e00089",
+            "GUID" : "e0008c",
             "Name" : "Card",
             "Nickname" : "Weathered Oilskin (1)",
             "Transform" : {
@@ -5929,10 +6063,10 @@
               "scaleZ" : 1.0
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110400,
+            "CardID" : 110600,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1104" : {
+              "1106" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/09ua95az794hr7u3b2333/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered-Oilskin-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=u44yy2i455o37im2tywr8th5k&raw=1&cachebust=1756668007859",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
@@ -5957,7 +6091,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e0008a",
+          "GUID" : "e0008d",
           "Name" : "Bag",
           "Nickname" : "Investigator",
           "Transform" : {
@@ -5983,7 +6117,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0008c",
+            "GUID" : "e0008f",
             "Name" : "Card",
             "Nickname" : "Wendy Adams",
             "Description" : "The Urchin",
@@ -5999,10 +6133,10 @@
               "scaleZ" : 0.8214285714285714
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110500,
+            "CardID" : 110700,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1105" : {
+              "1107" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/rk0qt05cgzyeq6rc0vaac/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=da40lzk9qxd2ye0lodudp1f5i&raw=1&cachebust=1756553637681",
                 "BackURL" : "https://www.dropbox.com/scl/fi/henfqr304ycg0fwgfq11k/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy-Adams-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=oesvxl69zhwjfszkuy7o70cfj&raw=1&cachebust=1756553641195",
                 "NumWidth" : 1,
@@ -6026,7 +6160,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0008e",
+            "GUID" : "e00091",
             "Name" : "Card",
             "Nickname" : "",
             "Transform" : {
@@ -6041,10 +6175,10 @@
               "scaleZ" : 0.6
             },
             "HideWhenFaceDown" : true,
-            "CardID" : 110600,
+            "CardID" : 110800,
             "SidewaysCard" : false,
             "CustomDeck" : {
-              "1106" : {
+              "1108" : {
                 "FaceURL" : "https://www.dropbox.com/scl/fi/6e125rlb9wnw3me75iag0/655c428d-3f42-4208-a65e-fbf86e033d82-Front-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3wpyokhus351fpi8ng0jaap38&raw=1&cachebust=1756027251556",
                 "BackURL" : "https://www.dropbox.com/scl/fi/tr17l6z6oltxeelh68lvv/655c428d-3f42-4208-a65e-fbf86e033d82-Back-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=tbx9wj1pk9i9jjx31p8qqfszl&raw=1&cachebust=1756027255503",
                 "NumWidth" : 1,
@@ -6068,7 +6202,7 @@
             "Tooltip" : true,
             "GridProjection" : false,
             "Hands" : true,
-            "GUID" : "e0008f",
+            "GUID" : "e00092",
             "Name" : "Deck",
             "Nickname" : "Investigator - Portrait",
             "Transform" : {
@@ -6084,10 +6218,10 @@
             },
             "HideWhenFaceDown" : true,
             "SidewaysCard" : false,
-            "DeckIDs" : [ 110700, 110800 ],
+            "DeckIDs" : [ 110900, 111000 ],
             "CustomDeck" : {
-              "1107" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/7lebogbi9z1afd1htbih7/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned-and-Alone-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jk3xeq26bicau1fj7e3727hlh&raw=1&cachebust=1756553625729",
+              "1110" : {
+                "FaceURL" : "https://www.dropbox.com/scl/fi/gu3yxndp7hvulesz8tql3/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy-s-Amulet-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=afqbbvdoghvlcfs7gb0fhjj12&raw=1&cachebust=1756553665105",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -6095,8 +6229,8 @@
                 "UniqueBack" : false,
                 "Type" : 0
               },
-              "1108" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/gu3yxndp7hvulesz8tql3/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy-s-Amulet-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=afqbbvdoghvlcfs7gb0fhjj12&raw=1&cachebust=1756553665105",
+              "1109" : {
+                "FaceURL" : "https://www.dropbox.com/scl/fi/7lebogbi9z1afd1htbih7/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned-and-Alone-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jk3xeq26bicau1fj7e3727hlh&raw=1&cachebust=1756553625729",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -6117,7 +6251,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e00090",
+              "GUID" : "e00093",
               "Name" : "Card",
               "Nickname" : "Abandoned and Alone",
               "Transform" : {
@@ -6132,10 +6266,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 110700,
+              "CardID" : 110900,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1107" : {
+                "1109" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/7lebogbi9z1afd1htbih7/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned-and-Alone-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jk3xeq26bicau1fj7e3727hlh&raw=1&cachebust=1756553625729",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -6159,7 +6293,7 @@
               "Tooltip" : true,
               "GridProjection" : false,
               "Hands" : true,
-              "GUID" : "e00091",
+              "GUID" : "e00094",
               "Name" : "Card",
               "Nickname" : "Wendy's Amulet",
               "Transform" : {
@@ -6174,10 +6308,10 @@
                 "scaleZ" : 1.0
               },
               "HideWhenFaceDown" : true,
-              "CardID" : 110800,
+              "CardID" : 111000,
               "SidewaysCard" : false,
               "CustomDeck" : {
-                "1108" : {
+                "1110" : {
                   "FaceURL" : "https://www.dropbox.com/scl/fi/gu3yxndp7hvulesz8tql3/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy-s-Amulet-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=afqbbvdoghvlcfs7gb0fhjj12&raw=1&cachebust=1756553665105",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
@@ -6205,7 +6339,7 @@
       "Tooltip" : true,
       "GridProjection" : false,
       "Hands" : true,
-      "GUID" : "e00092",
+      "GUID" : "e00095",
       "Name" : "Bag",
       "Nickname" : "Contracts",
       "Transform" : {
@@ -6231,7 +6365,7 @@
         "Tooltip" : true,
         "GridProjection" : false,
         "Hands" : true,
-        "GUID" : "e00093",
+        "GUID" : "e00096",
         "Name" : "Deck",
         "Nickname" : "Contracts - Portrait",
         "Transform" : {
@@ -6247,9 +6381,9 @@
         },
         "HideWhenFaceDown" : true,
         "SidewaysCard" : false,
-        "DeckIDs" : [ 110900, 111000, 111100, 111200, 111300, 111400 ],
+        "DeckIDs" : [ 111100, 111200, 111300, 111400, 111500, 111600 ],
         "CustomDeck" : {
-          "1114" : {
+          "1116" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/i2080bfpsn9eamdpos6ml/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-The-Thirteenth-Appendix-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvp8a08pdqgfvrg87528nalte&raw=1&cachebust=1756667961417",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6258,7 +6392,7 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1113" : {
+          "1115" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/vjc0061hbzp6duqxcq9wr/97e40858-5059-4efc-8d36-bd06da6598a1-Front-The-Elder-Sign-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=auizz09pctzbkk6kyf9z50g9b&raw=1&cachebust=1756667968723",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6267,7 +6401,7 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1112" : {
+          "1114" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/7ibi3jzxs1g89341mteiq/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-Reversal-of-Signs-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=de3qklbnjigj2wcd7z5wvedj0&raw=1&cachebust=1756668039327",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6276,7 +6410,7 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1111" : {
+          "1113" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/qxbymo6t10cx5hbcr0ioh/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact-of-Endurance-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qvrdlfkrxywv39w7klverw01n&raw=1&cachebust=1756667937990",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6285,7 +6419,7 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1110" : {
+          "1112" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/cqtxtmtfvoewlw8srs423/1cea414e-217c-4b52-b268-c02121dc136d-Front-Collateral-Damage-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=rsrhbrxco1wguy7gxe3jw5aco&raw=1&cachebust=1756667980024",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6294,7 +6428,7 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1109" : {
+          "1111" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/f7182efp7syp15rzg9opp/2095e49c-bd12-4ddb-a4a4-c72a81f2b039-Front-Bound-to-You-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wseukktb14kq3toba8qrx0f65&raw=1&cachebust=1756668185484",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6316,7 +6450,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00094",
+          "GUID" : "e00097",
           "Name" : "Card",
           "Nickname" : "Bound to You",
           "Transform" : {
@@ -6331,10 +6465,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 110900,
+          "CardID" : 111100,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1109" : {
+            "1111" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/f7182efp7syp15rzg9opp/2095e49c-bd12-4ddb-a4a4-c72a81f2b039-Front-Bound-to-You-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=wseukktb14kq3toba8qrx0f65&raw=1&cachebust=1756668185484",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6358,7 +6492,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00095",
+          "GUID" : "e00098",
           "Name" : "Card",
           "Nickname" : "Collateral Damage",
           "Transform" : {
@@ -6373,10 +6507,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111000,
+          "CardID" : 111200,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1110" : {
+            "1112" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/cqtxtmtfvoewlw8srs423/1cea414e-217c-4b52-b268-c02121dc136d-Front-Collateral-Damage-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=rsrhbrxco1wguy7gxe3jw5aco&raw=1&cachebust=1756667980024",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6400,7 +6534,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00096",
+          "GUID" : "e00099",
           "Name" : "Card",
           "Nickname" : "Pact of Endurance",
           "Transform" : {
@@ -6415,10 +6549,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111100,
+          "CardID" : 111300,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1111" : {
+            "1113" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/qxbymo6t10cx5hbcr0ioh/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact-of-Endurance-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qvrdlfkrxywv39w7klverw01n&raw=1&cachebust=1756667937990",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6442,7 +6576,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00097",
+          "GUID" : "e0009a",
           "Name" : "Card",
           "Nickname" : "Reversal of Signs",
           "Transform" : {
@@ -6457,10 +6591,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111200,
+          "CardID" : 111400,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1112" : {
+            "1114" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/7ibi3jzxs1g89341mteiq/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-Reversal-of-Signs-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=de3qklbnjigj2wcd7z5wvedj0&raw=1&cachebust=1756668039327",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6484,7 +6618,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00098",
+          "GUID" : "e0009b",
           "Name" : "Card",
           "Nickname" : "The Elder Sign",
           "Description" : "Sigil of Kish",
@@ -6500,10 +6634,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111300,
+          "CardID" : 111500,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1113" : {
+            "1115" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/vjc0061hbzp6duqxcq9wr/97e40858-5059-4efc-8d36-bd06da6598a1-Front-The-Elder-Sign-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=auizz09pctzbkk6kyf9z50g9b&raw=1&cachebust=1756667968723",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6527,7 +6661,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e00099",
+          "GUID" : "e0009c",
           "Name" : "Card",
           "Nickname" : "The Thirteenth Appendix",
           "Transform" : {
@@ -6542,10 +6676,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111400,
+          "CardID" : 111600,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1114" : {
+            "1116" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/i2080bfpsn9eamdpos6ml/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-The-Thirteenth-Appendix-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvp8a08pdqgfvrg87528nalte&raw=1&cachebust=1756667961417",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6571,7 +6705,7 @@
       "Tooltip" : true,
       "GridProjection" : false,
       "Hands" : true,
-      "GUID" : "e0009a",
+      "GUID" : "e0009d",
       "Name" : "Bag",
       "Nickname" : "Weaknesses",
       "Transform" : {
@@ -6597,7 +6731,7 @@
         "Tooltip" : true,
         "GridProjection" : false,
         "Hands" : true,
-        "GUID" : "e0009b",
+        "GUID" : "e0009e",
         "Name" : "Deck",
         "Nickname" : "Weaknesses - Portrait",
         "Transform" : {
@@ -6613,18 +6747,9 @@
         },
         "HideWhenFaceDown" : true,
         "SidewaysCard" : false,
-        "DeckIDs" : [ 111500, 111600, 111700 ],
+        "DeckIDs" : [ 111700, 111800, 111900 ],
         "CustomDeck" : {
-          "1117" : {
-            "FaceURL" : "https://www.dropbox.com/scl/fi/rrqxboz98xmt55zhigch3/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned-Coat-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=7hleafg676kjg8insfu0yjcjn&raw=1&cachebust=1756667893379",
-            "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-            "NumWidth" : 1,
-            "NumHeight" : 1,
-            "BackIsHidden" : true,
-            "UniqueBack" : false,
-            "Type" : 0
-          },
-          "1116" : {
+          "1118" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/ncq6m5qxsiietcazuxdph/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l0x5hfo4zhizhfatjlkflympu&raw=1&cachebust=1756667875761",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
@@ -6633,8 +6758,17 @@
             "UniqueBack" : false,
             "Type" : 0
           },
-          "1115" : {
+          "1117" : {
             "FaceURL" : "https://www.dropbox.com/scl/fi/x74h131xn9hdicjec7z7d/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken-Seal-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=4nhwxcaxhei4get55obxpp1tk&raw=1&cachebust=1756668086611",
+            "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+            "NumWidth" : 1,
+            "NumHeight" : 1,
+            "BackIsHidden" : true,
+            "UniqueBack" : false,
+            "Type" : 0
+          },
+          "1119" : {
+            "FaceURL" : "https://www.dropbox.com/scl/fi/rrqxboz98xmt55zhigch3/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned-Coat-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=7hleafg676kjg8insfu0yjcjn&raw=1&cachebust=1756667893379",
             "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
             "NumWidth" : 1,
             "NumHeight" : 1,
@@ -6655,7 +6789,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e0009c",
+          "GUID" : "e0009f",
           "Name" : "Card",
           "Nickname" : "Broken Seal",
           "Transform" : {
@@ -6670,10 +6804,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111500,
+          "CardID" : 111700,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1115" : {
+            "1117" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/x74h131xn9hdicjec7z7d/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken-Seal-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=4nhwxcaxhei4get55obxpp1tk&raw=1&cachebust=1756668086611",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6697,7 +6831,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e0009d",
+          "GUID" : "e000a0",
           "Name" : "Card",
           "Nickname" : "Slippery Grip",
           "Transform" : {
@@ -6712,10 +6846,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111600,
+          "CardID" : 111800,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1116" : {
+            "1118" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/ncq6m5qxsiietcazuxdph/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l0x5hfo4zhizhfatjlkflympu&raw=1&cachebust=1756667875761",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
@@ -6739,7 +6873,7 @@
           "Tooltip" : true,
           "GridProjection" : false,
           "Hands" : true,
-          "GUID" : "e0009e",
+          "GUID" : "e000a1",
           "Name" : "Card",
           "Nickname" : "Turned Coat",
           "Transform" : {
@@ -6754,10 +6888,10 @@
             "scaleZ" : 1.0
           },
           "HideWhenFaceDown" : true,
-          "CardID" : 111700,
+          "CardID" : 111900,
           "SidewaysCard" : false,
           "CustomDeck" : {
-            "1117" : {
+            "1119" : {
               "FaceURL" : "https://www.dropbox.com/scl/fi/rrqxboz98xmt55zhigch3/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned-Coat-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=7hleafg676kjg8insfu0yjcjn&raw=1&cachebust=1756667893379",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
