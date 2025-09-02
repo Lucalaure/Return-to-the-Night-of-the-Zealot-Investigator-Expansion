@@ -1012,7 +1012,7 @@
             "Hands" : true,
             "GUID" : "e00018",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "Roland Banks",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -1029,8 +1029,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1017" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/zglbnraj26dt9jvy51xfr/66fb2c07-412b-4701-850d-0d1be39996e0-Front-Roland-Banks-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=cq7tzry9vwc13jsk7ld3df8f7&raw=1&cachebust=1756027224937",
-                "BackURL" : "https://www.dropbox.com/scl/fi/4keta12pu3dvr678qyeow/66fb2c07-412b-4701-850d-0d1be39996e0-Back-Roland-Banks-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=jw6ynh9gxem9fmpvqk4d11f5w&raw=1&cachebust=1756027227768",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/zglbnraj26dt9jvy51xfr/66fb2c07-412b-4701-850d-0d1be39996e0-Front-Roland-Banks-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=cq7tzry9vwc13jsk7ld3df8f7&raw=1&cachebust=1756801732252",
+                "BackURL" : "https://www.dropbox.com/scl/fi/4keta12pu3dvr678qyeow/66fb2c07-412b-4701-850d-0d1be39996e0-Back-Roland-Banks-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=jw6ynh9gxem9fmpvqk4d11f5w&raw=1&cachebust=1756801733864",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -1038,7 +1038,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"66fb2c07-412b-4701-850d-0d1be39996e0\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"66fb2c07-412b-4701-850d-0d1be39996e0\",\"id\":\"d545b38e-f3cf-486a-a026-12ed94b33453-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
@@ -2133,7 +2133,7 @@
             "Hands" : true,
             "GUID" : "e00032",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "Agnes Baker",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -2150,8 +2150,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1037" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/81smm35wa0pucj6dbcgbn/ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246-Front-Agnes-Baked-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3sev01khib58lzolplflv0nr8&raw=1&cachebust=1756027231477",
-                "BackURL" : "https://www.dropbox.com/scl/fi/cke39on8qngvbi1njjui6/ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246-Back-Agnes-Baked-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=28istl1azkuksaui3knurmwfs&raw=1&cachebust=1756027233935",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/81smm35wa0pucj6dbcgbn/ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246-Front-Agnes-Baked-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3sev01khib58lzolplflv0nr8&raw=1&cachebust=1756801735243",
+                "BackURL" : "https://www.dropbox.com/scl/fi/cke39on8qngvbi1njjui6/ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246-Back-Agnes-Baked-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=28istl1azkuksaui3knurmwfs&raw=1&cachebust=1756801736622",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -2159,7 +2159,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"ebf7ace8-3b4a-4ed8-b71a-5c7f04f45246\",\"id\":\"43c6f1af-6bfc-40f6-af6c-a597816517b1-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
@@ -2745,7 +2745,7 @@
             "Hands" : true,
             "GUID" : "e00042",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "Yithian",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -2762,8 +2762,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1047" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/jdf5vaoya3ljcw6n6ru2a/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Front-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0o63ub38v2kmyr27d669fdpmq&raw=1&cachebust=1756719522975",
-                "BackURL" : "https://www.dropbox.com/scl/fi/gdak6zpxneksdj9z7q7mo/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Back-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=2fnv39vkldh42f8df5vdtq6uh&raw=1&cachebust=1756719525332",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/jdf5vaoya3ljcw6n6ru2a/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Front-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0o63ub38v2kmyr27d669fdpmq&raw=1&cachebust=1756801737859",
+                "BackURL" : "https://www.dropbox.com/scl/fi/gdak6zpxneksdj9z7q7mo/866bcea9-e0e6-4bb0-8c51-1b6105250cc4-Back-Yithian-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=2fnv39vkldh42f8df5vdtq6uh&raw=1&cachebust=1756801739132",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -2771,7 +2771,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"866bcea9-e0e6-4bb0-8c51-1b6105250cc4\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"866bcea9-e0e6-4bb0-8c51-1b6105250cc4\",\"id\":\"2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
@@ -3852,7 +3852,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"id\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"type\":\"Investigator\",\"class\":\"Rogue\",\"traits\":\"Criminal.\",\"agilityIcons\":5,\"combatIcons\":3,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"45be196b-4f6a-494d-85c9-3b2521e7d557\":1,\"c9e03dde-f067-48a5-8063-839f82167d9c\":1}]}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"id\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"type\":\"Investigator\",\"class\":\"Rogue\",\"traits\":\"Criminal.\",\"agilityIcons\":5,\"combatIcons\":3,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"c9e03dde-f067-48a5-8063-839f82167d9c\":1,\"45be196b-4f6a-494d-85c9-3b2521e7d557\":1}]}",
             "Tags" : [ "PlayerCard", "Investigator" ]
           }, {
             "Locked" : false,
@@ -3868,7 +3868,7 @@
             "Hands" : true,
             "GUID" : "e0005c",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "\"Skids\" O'Toole",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -3885,8 +3885,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1067" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/xbeadjrh0ebynk2ntzgwr/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Front-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=g5self7zktmw9l5lzy67aynrs&raw=1&cachebust=1756027237337",
-                "BackURL" : "https://www.dropbox.com/scl/fi/we9lf0yz2uec1odcnxtzm/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Back-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fr27aermo8tvrq2sw37mje5u9&raw=1&cachebust=1756027240416",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/xbeadjrh0ebynk2ntzgwr/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Front-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=g5self7zktmw9l5lzy67aynrs&raw=1&cachebust=1756801740495",
+                "BackURL" : "https://www.dropbox.com/scl/fi/we9lf0yz2uec1odcnxtzm/708ceb02-19f7-43fc-ad5a-0d2f06597bc1-Back-Skids-O-Toole-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=fr27aermo8tvrq2sw37mje5u9&raw=1&cachebust=1756801741796",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -3894,7 +3894,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"708ceb02-19f7-43fc-ad5a-0d2f06597bc1\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"708ceb02-19f7-43fc-ad5a-0d2f06597bc1\",\"id\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
@@ -5040,7 +5040,7 @@
             "Hands" : true,
             "GUID" : "e00077",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "Daisy Walker",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -5057,8 +5057,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1088" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/68pugjyy641j105mvecug/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Front-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0infi7pnrq1omeqhlk984jwql&raw=1&cachebust=1756027244016",
-                "BackURL" : "https://www.dropbox.com/scl/fi/6jb3z4ajr7xnkdi5y8nhq/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Back-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=wyww2iapgkbnrvwpxfy2ltsz6&raw=1&cachebust=1756027246813",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/68pugjyy641j105mvecug/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Front-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=0infi7pnrq1omeqhlk984jwql&raw=1&cachebust=1756801743078",
+                "BackURL" : "https://www.dropbox.com/scl/fi/6jb3z4ajr7xnkdi5y8nhq/a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c-Back-Daisy-Walker-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=wyww2iapgkbnrvwpxfy2ltsz6&raw=1&cachebust=1756801744365",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -5066,7 +5066,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"a48722d1-4ca9-4fa4-86e6-1cfb480e1d3c\",\"id\":\"7b48d829-0095-4b3e-a2c3-8fa609d111e2-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
@@ -5271,7 +5271,7 @@
               "Type" : 0
             },
             "1099" : {
-              "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756668250312",
+              "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756800929760",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -5773,7 +5773,7 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1099" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756668250312",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/y9wmfr9mxloq0j4ndxok6/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack-s-Axe-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=jskn2yw08dwcaeswdfnqczur5&raw=1&cachebust=1756800929760",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -5782,7 +5782,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"6bbd7f4a-0317-4985-a86c-e441feea3756\",\"id\":\"6bbd7f4a-0317-4985-a86c-e441feea3756\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Item. Weapon. Melee.\",\"cost\":3,\"level\":0,\"slot\":\"Hand\",\"combatIcons\":1}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"6bbd7f4a-0317-4985-a86c-e441feea3756\",\"id\":\"6bbd7f4a-0317-4985-a86c-e441feea3756\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Item. Tool. Weapon. Melee.\",\"cost\":3,\"level\":0,\"slot\":\"Hand\",\"combatIcons\":1}",
             "Tags" : [ "PlayerCard", "Asset" ]
           }, {
             "Locked" : false,
@@ -6162,7 +6162,7 @@
             "Hands" : true,
             "GUID" : "e00091",
             "Name" : "Card",
-            "Nickname" : "",
+            "Nickname" : "Wendy Adams",
             "Transform" : {
               "posX" : 0.0,
               "posY" : 0.0,
@@ -6179,8 +6179,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1108" : {
-                "FaceURL" : "https://www.dropbox.com/scl/fi/6e125rlb9wnw3me75iag0/655c428d-3f42-4208-a65e-fbf86e033d82-Front-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3wpyokhus351fpi8ng0jaap38&raw=1&cachebust=1756027251556",
-                "BackURL" : "https://www.dropbox.com/scl/fi/tr17l6z6oltxeelh68lvv/655c428d-3f42-4208-a65e-fbf86e033d82-Back-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=tbx9wj1pk9i9jjx31p8qqfszl&raw=1&cachebust=1756027255503",
+                "FaceURL" : "https://www.dropbox.com/scl/fi/6e125rlb9wnw3me75iag0/655c428d-3f42-4208-a65e-fbf86e033d82-Front-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=3wpyokhus351fpi8ng0jaap38&raw=1&cachebust=1756801745740",
+                "BackURL" : "https://www.dropbox.com/scl/fi/tr17l6z6oltxeelh68lvv/655c428d-3f42-4208-a65e-fbf86e033d82-Back-Wendy-Adams-mini-card-resolution-300-compressionquality-1.00-bleed-1.0-Back.jpg?rlkey=tbx9wj1pk9i9jjx31p8qqfszl&raw=1&cachebust=1756801747018",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -6188,7 +6188,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"655c428d-3f42-4208-a65e-fbf86e033d82\",\"type\":\"Minicard\"}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"655c428d-3f42-4208-a65e-fbf86e033d82\",\"id\":\"fc608485-056c-4371-bc77-5b30ffe0c897-m\",\"type\":\"Minicard\"}",
             "Tags" : [ "Minicard", "ScenarioCard" ]
           }, {
             "Locked" : false,
