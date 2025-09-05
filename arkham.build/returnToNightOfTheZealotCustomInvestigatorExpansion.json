@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-02T04:28:26.984",
+    "date_updated" : "2025-09-05T03:23:48.763",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -17,7 +17,7 @@
       "code" : "70ccabf5-4f44-4ec2-b677-fa54ce9a864f",
       "deck_limit" : 1,
       "faction_code" : "neutral",
-      "flavor" : "\nWhat was once clear fades into shadow, slipping from your \n mind like water through trembling tendrils.\n",
+      "flavor" : "\nWhat was once clear fades into shadow, slipping from your mind like water through trembling tendrils.\n",
       "name" : "Forgotten Knowledge",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 1,
@@ -27,8 +27,8 @@
       "text" : "<b>Revelation</b> - Forget 1 learned <b><i>Trait</i></b> of your choice (<i>crossing it off from your records</i>). Then, discard a card with that <b><i>Trait</i></b> from your hand or play area. If you cannot, take 1 horror instead. If you have not learned any <b><i>Traits</i></b>, shuffle Forgotten Knowledge back into your deck instead.",
       "traits" : "Yithian.",
       "type_code" : "treachery",
-      "image_url" : "https://www.dropbox.com/scl/fi/qeknodrh5au0kk0ae2ptx/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-Forgotten-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=epck2tmmo16rgcm8rwkabwuwo&raw=1&cachebust=1756719470593",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/4iviqrytjmfeakirwqqyz/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-thumbnail.png?rlkey=fm07ua0nb5774t4xa08vhmr13&raw=1&cachebust=1756719473110"
+      "image_url" : "https://www.dropbox.com/scl/fi/qeknodrh5au0kk0ae2ptx/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-Forgotten-Knowledge-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=epck2tmmo16rgcm8rwkabwuwo&raw=1&cachebust=1757057005379",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/4iviqrytjmfeakirwqqyz/70ccabf5-4f44-4ec2-b677-fa54ce9a864f-Front-thumbnail.png?rlkey=fm07ua0nb5774t4xa08vhmr13&raw=1&cachebust=1757057007421"
     }, {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
@@ -616,12 +616,12 @@
       "position" : 21,
       "quantity" : 2,
       "skill_agility" : 1,
-      "text" : "Uses (2 ammo).\nAttach to a <b><i>Firearm</i></b> asset you control.\n[action] Spend 1 ammo: Resolve an [action] ability on the attached asset, ignoring all costs. If a <b>Fight</b> action is performed against an enemy with a fight value of 4 or more, this attack deals +2 damage.",
+      "text" : "Uses (2 ammo).\nAttach to a <b><i>Firearm</i></b> asset you control.\n[action] Spend 1 ammo: Resolve an [action] ability on the attached asset, ignoring all costs. If a <b>Fight</b> action is performed against an enemy with a fight value of 4 or more, this attack deals +2 damage. This action does not provoke attacks of opportunity.",
       "traits" : "Upgrade. Supply.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/zva2zqfkclkcssvgjgrp3/90f891d9-68b9-45d1-bcde-f2b60e101a0f-Front-Armor-Piercing-Rounds-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=oc0ysbzint50n8mdwragihomm&raw=1&cachebust=1756668203943",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/9rmeahcie8doupom2ygjo/90f891d9-68b9-45d1-bcde-f2b60e101a0f-Front-thumbnail.png?rlkey=flugvnbn4yz0hy9cb8i3enyge&raw=1&cachebust=1756668205227"
+      "image_url" : "https://www.dropbox.com/scl/fi/zva2zqfkclkcssvgjgrp3/90f891d9-68b9-45d1-bcde-f2b60e101a0f-Front-Armor-Piercing-Rounds-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=oc0ysbzint50n8mdwragihomm&raw=1&cachebust=1757056989896",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/9rmeahcie8doupom2ygjo/90f891d9-68b9-45d1-bcde-f2b60e101a0f-Front-thumbnail.png?rlkey=flugvnbn4yz0hy9cb8i3enyge&raw=1&cachebust=1757056991218"
     }, {
       "code" : "b85df6c2-e20f-49e7-b599-4813f62182a4",
       "cost" : 1,
@@ -925,12 +925,12 @@
       "position" : 39,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "Play only as your first action. This action does not cause attacks of opportunity.\nPut this card into play in your play area and search the chaos bag for a \"0\" or \"+1\" chaos token and seal it on this card.\n[reaction] When you or another investigator at your location would reveal a chaos token during a skill test: You may instead reveal the sealed token on this card. Then, release it.\n<b>Forced</b> - At the end of the round, if Two Steps Ahead is in your play area: Discard it.",
+      "text" : "Play only as your first action. This action does not provoke attacks of opportunity.\nPut this card into play in your play area and search the chaos bag for a \"0\" or \"+1\" chaos token and seal it on this card.\n[reaction] When you or another investigator at your location would reveal a chaos token during a skill test: You may instead reveal the sealed token on this card. Then, release it.\n<b>Forced</b> - At the end of the round, if Two Steps Ahead is in your play area: Discard it.",
       "traits" : "Insight. Tactic. Bold.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/2u74shzby261aqbp10xym/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Two-Steps-Ahead-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=h3vvovlh3ake6ntsco3q1izdn&raw=1&cachebust=1756667934839",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/l420yyi37auzydpczes1t/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-thumbnail.png?rlkey=szlbk3ulc8x8e905mrbk4zd9g&raw=1&cachebust=1756667936010"
+      "image_url" : "https://www.dropbox.com/scl/fi/2u74shzby261aqbp10xym/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Two-Steps-Ahead-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=h3vvovlh3ake6ntsco3q1izdn&raw=1&cachebust=1757057009734",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/l420yyi37auzydpczes1t/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-thumbnail.png?rlkey=szlbk3ulc8x8e905mrbk4zd9g&raw=1&cachebust=1757057011696"
     }, {
       "code" : "32262e8d-8882-4536-b657-835705aeb0c0",
       "deck_limit" : 2,
@@ -1959,12 +1959,12 @@
       "quantity" : 2,
       "skill_agility" : 1,
       "slot" : "Hand",
-      "text" : "Uses (2 supplies).\n[action] Spend 1 supply: <b>Parley.</b> Automatically evade a non-<b><i>Elite</i></b> <b><i>Monster</i></b> or <b><i>Creature</i></b> enemy engaged with an investigator at your location.",
+      "text" : "Uses (2 supplies). \n[action] Spend 1 supply: <b>Parley.</b> Automatically evade a non-<b><i>Elite</i></b> <b><i>Monster</i></b> or <b><i>Creature</i></b> enemy engaged with an investigator at your location.",
       "traits" : "Item. Tool.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/88vpig2us3xkf6t86gaqw/fc7ec242-387e-4011-a0aa-54fcd1f7dc36-Front-Bait-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=5w8128hp1p62zin9e2tm8xvoi&raw=1&cachebust=1756668161750",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/wz48dewh7gpufym97ht0a/fc7ec242-387e-4011-a0aa-54fcd1f7dc36-Front-thumbnail.png?rlkey=c1sx29njbnqs1kdjy0q056kv5&raw=1&cachebust=1756668163136"
+      "image_url" : "https://www.dropbox.com/scl/fi/88vpig2us3xkf6t86gaqw/fc7ec242-387e-4011-a0aa-54fcd1f7dc36-Front-Bait-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=5w8128hp1p62zin9e2tm8xvoi&raw=1&cachebust=1757056993415",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/wz48dewh7gpufym97ht0a/fc7ec242-387e-4011-a0aa-54fcd1f7dc36-Front-thumbnail.png?rlkey=c1sx29njbnqs1kdjy0q056kv5&raw=1&cachebust=1757056994667"
     }, {
       "code" : "2095e49c-bd12-4ddb-a4a4-c72a81f2b039",
       "deck_limit" : 2,
@@ -2006,12 +2006,12 @@
       "position" : 102,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "[action] Exhaust Forgotten Blueprint and another non-permanent neutral asset you control: Draw 2 cards. If you exhausted Old Schematics, you may instead draw 3 cards, then choose and discard a card from your hand.",
+      "text" : "[action] Exhaust Forgotten Blueprint and another non-permanent neutral asset you control: Draw 2 cards. If you exhausted Old Schematics, you may instead draw 3 cards, then choose and discard a card from your hand. ",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/37e5llaxgforg3qfodtbc/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten-Blueprint-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vny6b7kpw80y623wjqbzc6kal&raw=1&cachebust=1756668238692",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/0k2ohmhbsyjqdc8e3slan/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-thumbnail.png?rlkey=oaht7u8s5odqdw65qznjgp436&raw=1&cachebust=1756668240159"
+      "image_url" : "https://www.dropbox.com/scl/fi/37e5llaxgforg3qfodtbc/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten-Blueprint-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=vny6b7kpw80y623wjqbzc6kal&raw=1&cachebust=1757057013472",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/0k2ohmhbsyjqdc8e3slan/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-thumbnail.png?rlkey=oaht7u8s5odqdw65qznjgp436&raw=1&cachebust=1757057015339"
     }, {
       "code" : "3cf57ade-f435-4bed-8277-b9158d1c8dfa",
       "cost" : 3,
@@ -2023,12 +2023,12 @@
       "position" : 103,
       "quantity" : 2,
       "skill_agility" : 1,
-      "text" : "[action] Exhaust Old Schematics and another non-permanent neutral asset you control: One a time, take up to 2 move actions. If you exhausted Forgotten Blueprint, this action does not provoke attacks of opportunity.",
+      "text" : "[action] Exhaust Old Schematics and another non-permanent neutral asset you control: One a time, take up to 2 move actions. If you exhausted Forgotten Blueprint, this action does not provoke attacks of opportunity. ",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/r893i3mwmacpjou1uxbvz/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old-Schematics-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ljkzx8avve5k8pyewfgf70zhj&raw=1&cachebust=1756668066764",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/eouycf38hxet2ckn09ujt/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-thumbnail.png?rlkey=vqop1jiks2knyt0bc8dknk4m5&raw=1&cachebust=1756668068328"
+      "image_url" : "https://www.dropbox.com/scl/fi/r893i3mwmacpjou1uxbvz/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old-Schematics-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=ljkzx8avve5k8pyewfgf70zhj&raw=1&cachebust=1757056974621",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/eouycf38hxet2ckn09ujt/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-thumbnail.png?rlkey=vqop1jiks2knyt0bc8dknk4m5&raw=1&cachebust=1757056976004"
     }, {
       "code" : "df48250b-120a-47d5-b704-32cab6f6a3d6",
       "deck_limit" : 2,
@@ -2038,12 +2038,12 @@
       "permanent" : true,
       "position" : 104,
       "quantity" : 2,
-      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\nWhen an investigator is dealt damage or horror, all of that damage or horror must be assigned to a single card.\nIf the chosen card does not have a printed health or sanity value (e.g. Leather Coat or Cherished Keepsake), then any portion of the damage or horror that cannot be assigned to the initially chosen card must be assigned to another card.\nExcess damage or horror is not assigned elsewhere and is instead lost.",
+      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\nWhen an investigator is dealt damage or horror, all of that damage or horror must be assigned to a single card.\nIf the chosen card does not have a printed health or sanity value (e.g. Leather Coat or Cherished Keepsake), then any portion of the damage or horror that cannot be assigned to the initially chosen card must be assigned to another card.\nExcess damage or horror is not assigned elsewhere and is instead lost. ",
       "traits" : "Contract.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/qxbymo6t10cx5hbcr0ioh/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact-of-Endurance-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qvrdlfkrxywv39w7klverw01n&raw=1&cachebust=1756667937990",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/5ok9wljlc07wpvcv93m6x/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?rlkey=156osmtwb6gwhpo6h0o1gj527&raw=1&cachebust=1756667939174"
+      "image_url" : "https://www.dropbox.com/scl/fi/qxbymo6t10cx5hbcr0ioh/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact-of-Endurance-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=qvrdlfkrxywv39w7klverw01n&raw=1&cachebust=1757056985596",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/5ok9wljlc07wpvcv93m6x/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?rlkey=156osmtwb6gwhpo6h0o1gj527&raw=1&cachebust=1757056986901"
     }, {
       "code" : "4b37aaa1-86bb-47f4-a213-989c826506c0",
       "deck_limit" : 2,
@@ -2053,12 +2053,12 @@
       "permanent" : true,
       "position" : 105,
       "quantity" : 2,
-      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\n[reaction] When a [auto_fail] is revealed during a skill test: Cancel that chaos token, return it to the token pool, and reveal another token. (Group limit once per game.)\n<b>Forced</b> - The first time a [elder_sign] token is revealed during a skill test this game: Cancel that chaos token, return it to the token pool, and reveal another token.",
+      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\n[reaction] When a [auto_fail] is revealed during a skill test: Cancel that chaos token, return it to the token pool, and reveal another token. (Group limit once per game.)\n<b>Forced</b> - The first time a [elder_sign] token is revealed during a skill test this game: Cancel that chaos token, return it to the token pool, and reveal another token. ",
       "traits" : "Contract.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/7ibi3jzxs1g89341mteiq/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-Reversal-of-Signs-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=de3qklbnjigj2wcd7z5wvedj0&raw=1&cachebust=1756668039327",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/z1yacui3n5rwanftahqul/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-thumbnail.png?rlkey=ioi0c0rdbgdgd3tkmy24qc39s&raw=1&cachebust=1756668040597"
+      "image_url" : "https://www.dropbox.com/scl/fi/7ibi3jzxs1g89341mteiq/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-Reversal-of-Signs-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=de3qklbnjigj2wcd7z5wvedj0&raw=1&cachebust=1757057001010",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/z1yacui3n5rwanftahqul/4b37aaa1-86bb-47f4-a213-989c826506c0-Front-thumbnail.png?rlkey=ioi0c0rdbgdgd3tkmy24qc39s&raw=1&cachebust=1757057002860"
     }, {
       "code" : "97e40858-5059-4efc-8d36-bd06da6598a1",
       "deck_limit" : 2,
@@ -2070,12 +2070,12 @@
       "position" : 106,
       "quantity" : 2,
       "subname" : "Sigil of Kish",
-      "text" : "Permanent. Limit 1 per deck. Purchase only at deck creation. Uses (3 signs).\n[free] If you are playing true solo, exhaust The Elder Sign and spend 1 sign. Choose one:\n- Move to a connecting location.\n- You get +2 skill value for your next skill test this round.\n- Gain 1 additional action this turn, which may only be used to activate an [action] ability on a scenario card in play.\n[free] Draw the top card of the encounter deck: Replenish 2 uses on The Elder Sign.",
+      "text" : "Permanent. Limit 1 per deck. Purchase only at deck creation. Uses (3 signs).\n[free] If you are playing true solo, exhaust The Elder Sign and spend 1 sign. Choose one:\n- Move to a connecting location.\n- You get +2 skill value for your next skill test this round.\n- Gain 1 additional action this turn, which may only be used to activate an [action] ability on a scenario card in play.\n[free] Draw the top card of the encounter deck: Replenish 2 uses on The Elder Sign. ",
       "traits" : "Contract.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/vjc0061hbzp6duqxcq9wr/97e40858-5059-4efc-8d36-bd06da6598a1-Front-The-Elder-Sign-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=auizz09pctzbkk6kyf9z50g9b&raw=1&cachebust=1756667968723",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/kb9amdqy9tj24g3d5ssdz/97e40858-5059-4efc-8d36-bd06da6598a1-Front-thumbnail.png?rlkey=hys3l1lm3lpoiu9ho2e8dp0ub&raw=1&cachebust=1756667970265"
+      "image_url" : "https://www.dropbox.com/scl/fi/vjc0061hbzp6duqxcq9wr/97e40858-5059-4efc-8d36-bd06da6598a1-Front-The-Elder-Sign-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=auizz09pctzbkk6kyf9z50g9b&raw=1&cachebust=1757056970943",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/kb9amdqy9tj24g3d5ssdz/97e40858-5059-4efc-8d36-bd06da6598a1-Front-thumbnail.png?rlkey=hys3l1lm3lpoiu9ho2e8dp0ub&raw=1&cachebust=1757056972508"
     }, {
       "code" : "fe53cec4-7a5a-49b0-a81b-aae7189c7de3",
       "deck_limit" : 2,
@@ -2085,12 +2085,12 @@
       "permanent" : true,
       "position" : 107,
       "quantity" : 2,
-      "text" : "Permanent. Limit 1 per deck. Purchase only at deck creation.\nYour deck size is increased by 5. When you draw your opening hand, you may take an additional mulligan.",
+      "text" : "Permanent. Limit 1 per deck. Purchase only at deck creation.\nYour deck size is increased by 5. When you draw your opening hand, you may take an additional mulligan. ",
       "traits" : "Contract.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://www.dropbox.com/scl/fi/i2080bfpsn9eamdpos6ml/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-The-Thirteenth-Appendix-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvp8a08pdqgfvrg87528nalte&raw=1&cachebust=1756667961417",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/2941q1i1hvre7iw71qjpo/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-thumbnail.png?rlkey=b3e2bh7mqzskjqnkhjvmw1yea&raw=1&cachebust=1756667962790"
+      "image_url" : "https://www.dropbox.com/scl/fi/i2080bfpsn9eamdpos6ml/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-The-Thirteenth-Appendix-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvp8a08pdqgfvrg87528nalte&raw=1&cachebust=1757057027338",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/2941q1i1hvre7iw71qjpo/fe53cec4-7a5a-49b0-a81b-aae7189c7de3-Front-thumbnail.png?rlkey=b3e2bh7mqzskjqnkhjvmw1yea&raw=1&cachebust=1757057028717"
     }, {
       "code" : "9d69e362-18e5-425b-b31e-35d64474af27",
       "cost" : 3,
@@ -2102,12 +2102,12 @@
       "quantity" : 2,
       "skill_agility" : 2,
       "slot" : "Hand",
-      "text" : "Uses (2 supplies).\n[action] Spend 1 supply: <b>Parley.</b> Automatically evade a non-<b><i>Elite</i></b> <b><i>Monster</i></b> or <b><i>Creature</i></b> enemy engaged with an investigator at your location. You may also move that enemy to a connecting location.",
+      "text" : "Uses (2 supplies). \n[action] Spend 1 supply: <b>Parley.</b> Automatically evade a non-<b><i>Elite</i></b> <b><i>Monster</i></b> or <b><i>Creature</i></b> enemy engaged with an investigator at your location. You may also move that enemy to a connecting location.",
       "traits" : "Item. Tool.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://www.dropbox.com/scl/fi/06arnd11sxyrr772ft01z/9d69e362-18e5-425b-b31e-35d64474af27-Front-Bait-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=fpt0padzmuc1z763l0vmeg9lk&raw=1&cachebust=1756668258144",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/pkyr4lj8hucx0b3huxqhn/9d69e362-18e5-425b-b31e-35d64474af27-Front-thumbnail.png?rlkey=z3fkvs3nw7d1uudygsa8590sx&raw=1&cachebust=1756668259494"
+      "image_url" : "https://www.dropbox.com/scl/fi/06arnd11sxyrr772ft01z/9d69e362-18e5-425b-b31e-35d64474af27-Front-Bait-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=fpt0padzmuc1z763l0vmeg9lk&raw=1&cachebust=1757057023662",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/pkyr4lj8hucx0b3huxqhn/9d69e362-18e5-425b-b31e-35d64474af27-Front-thumbnail.png?rlkey=z3fkvs3nw7d1uudygsa8590sx&raw=1&cachebust=1757057025114"
     }, {
       "code" : "518d7894-fdd5-4047-861e-ed06a47398f2",
       "cost" : 2,
@@ -2120,12 +2120,12 @@
       "skill_agility" : 1,
       "skill_combat" : 1,
       "slot" : "Hand",
-      "text" : "[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed, you may spend 1 additional action to deal 1 damage to an enemy at your location.",
+      "text" : "[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed, you may spend 1 additional action to deal 1 damage to an enemy at your location. ",
       "traits" : "Item. Weapon. Melee.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://www.dropbox.com/scl/fi/1aae2n6hse6gg5710hobs/518d7894-fdd5-4047-861e-ed06a47398f2-Front-Kukri-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=5r7ax10xt3ga0cet50a6welqd&raw=1&cachebust=1756668246325",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/rsjzj45qsw9qajnbu2jt4/518d7894-fdd5-4047-861e-ed06a47398f2-Front-thumbnail.png?rlkey=tfwa1h9psdomn43kz1nqg0kff&raw=1&cachebust=1756668247826"
+      "image_url" : "https://www.dropbox.com/scl/fi/1aae2n6hse6gg5710hobs/518d7894-fdd5-4047-861e-ed06a47398f2-Front-Kukri-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=5r7ax10xt3ga0cet50a6welqd&raw=1&cachebust=1757056978762",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/rsjzj45qsw9qajnbu2jt4/518d7894-fdd5-4047-861e-ed06a47398f2-Front-thumbnail.png?rlkey=tfwa1h9psdomn43kz1nqg0kff&raw=1&cachebust=1757056980101"
     }, {
       "code" : "b00ca6a6-40c3-4653-b345-0f764deb17ee",
       "cost" : 1,
@@ -2137,13 +2137,13 @@
       "quantity" : 2,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Fast.\nResolve an [action] ability on two different neutral assets you control, ignoring all [action] costs.\nIf the chosen assets were Forgotten Blueprint and Old Schematics, add Recursive Directive to the victory display.",
+      "text" : "Fast.\nResolve an [action] ability on two different neutral assets you control, ignoring all [action] costs.\nIf the chosen assets were Forgotten Blueprint and Old Schematics, add Recursive Directive to the victory display. ",
       "traits" : "Tactic. Fated.",
       "type_code" : "event",
       "victory" : 1,
       "xp" : 3,
-      "image_url" : "https://www.dropbox.com/scl/fi/g11e6fk63bqh61rpd1ohl/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive-Directive-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvvqxe30gvtp08t316tim613k&raw=1&cachebust=1756668044082",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ib8p3f40mothrgv4tshsx/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-thumbnail.png?rlkey=4vlvrutnwsyk5zbk4bes2lq4t&raw=1&cachebust=1756668045367"
+      "image_url" : "https://www.dropbox.com/scl/fi/g11e6fk63bqh61rpd1ohl/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive-Directive-3-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=zvvqxe30gvtp08t316tim613k&raw=1&cachebust=1757056982304",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/ib8p3f40mothrgv4tshsx/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-thumbnail.png?rlkey=4vlvrutnwsyk5zbk4bes2lq4t&raw=1&cachebust=1757056983658"
     }, {
       "code" : "6f078742-9846-48ef-bf79-3c2716fa2f94",
       "deck_limit" : 2,
@@ -2153,12 +2153,12 @@
       "position" : 111,
       "quantity" : 2,
       "slot" : "Accessory. Arcane",
-      "text" : "Broken Seal can only be included in your deck if your deck contains at least 3 cards that take up one or more accessory or arcane slots.\n<b>Revelation</b> - Return all cards in play that take up accessory slots and arcane slots to your hand. Put Broken Seal into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one accessory or arcane slot: Discard Broken Seal.",
+      "text" : "Broken Seal can only be included in your deck if your deck contains at least 3 cards that take up one or more accessory or arcane slots.\n<b>Revelation</b> - Return all cards in play that take up accessory slots and arcane slots to your hand. Put Broken Seal into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one accessory or arcane slot: Discard Broken Seal. ",
       "traits" : "Omen.",
       "type_code" : "treachery",
       "subtype_code" : "basicweakness",
-      "image_url" : "https://www.dropbox.com/scl/fi/x74h131xn9hdicjec7z7d/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken-Seal-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=4nhwxcaxhei4get55obxpp1tk&raw=1&cachebust=1756668086611",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/t231wksvjyknev08v7b6o/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-thumbnail.png?rlkey=sxq54yczwxa7mh2ql2yw56emm&raw=1&cachebust=1756668088207"
+      "image_url" : "https://www.dropbox.com/scl/fi/x74h131xn9hdicjec7z7d/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken-Seal-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=4nhwxcaxhei4get55obxpp1tk&raw=1&cachebust=1757057020323",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/t231wksvjyknev08v7b6o/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-thumbnail.png?rlkey=sxq54yczwxa7mh2ql2yw56emm&raw=1&cachebust=1757057021725"
     }, {
       "code" : "5a36dddf-e339-4a15-a575-f39b7226a4ef",
       "deck_limit" : 2,
@@ -2168,12 +2168,12 @@
       "position" : 112,
       "quantity" : 2,
       "slot" : "Hand x2",
-      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up one or more hand slots.\n<b>Revelation</b> - Return all cards in play that take up hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip.",
+      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up one or more hand slots.\n<b>Revelation</b> - Return all cards in play that take up hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip. ",
       "traits" : "Curse. Blunder.",
       "type_code" : "treachery",
       "subtype_code" : "basicweakness",
-      "image_url" : "https://www.dropbox.com/scl/fi/ncq6m5qxsiietcazuxdph/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l0x5hfo4zhizhfatjlkflympu&raw=1&cachebust=1756667875761",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/qdp4g8crj5jjt5gz6aiyz/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?rlkey=vpb7fm398ocmkqt2kg2veg6nk&raw=1&cachebust=1756667876992"
+      "image_url" : "https://www.dropbox.com/scl/fi/ncq6m5qxsiietcazuxdph/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery-Grip-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=l0x5hfo4zhizhfatjlkflympu&raw=1&cachebust=1757056996950",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/qdp4g8crj5jjt5gz6aiyz/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?rlkey=vpb7fm398ocmkqt2kg2veg6nk&raw=1&cachebust=1757056998741"
     }, {
       "code" : "648efc85-f82f-4e8c-9145-f104664bd82a",
       "deck_limit" : 2,
@@ -2183,12 +2183,12 @@
       "position" : 113,
       "quantity" : 2,
       "slot" : "Ally",
-      "text" : "Turned Coat can only be included in your deck if your deck contains at least 3 cards that take up an ally slot.\n<b>Revelation</b> - Return all cards in play that take up an ally slot to your hand. Put Turned Coat into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one ally slot: Discard Turned Coat.",
+      "text" : "Turned Coat can only be included in your deck if your deck contains at least 3 cards that take up an ally slot. \n<b>Revelation</b> - Return all cards in play that take up an ally slot to your hand. Put Turned Coat into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one ally slot: Discard Turned Coat.",
       "traits" : "Madness.",
       "type_code" : "treachery",
       "subtype_code" : "basicweakness",
-      "image_url" : "https://www.dropbox.com/scl/fi/rrqxboz98xmt55zhigch3/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned-Coat-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=7hleafg676kjg8insfu0yjcjn&raw=1&cachebust=1756667893379",
-      "thumbnail_url" : "https://www.dropbox.com/scl/fi/l068j23ol3x4f8je5nahn/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?rlkey=9edb3etb1mp8odrokkchnsl4d&raw=1&cachebust=1756667894744"
+      "image_url" : "https://www.dropbox.com/scl/fi/rrqxboz98xmt55zhigch3/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned-Coat-resolution-300-compressionquality-1.00-bleed-1.0-Front.jpg?rlkey=7hleafg676kjg8insfu0yjcjn&raw=1&cachebust=1757057017169",
+      "thumbnail_url" : "https://www.dropbox.com/scl/fi/l068j23ol3x4f8je5nahn/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?rlkey=9edb3etb1mp8odrokkchnsl4d&raw=1&cachebust=1757057018532"
     } ],
     "encounter_sets" : [ ],
     "packs" : [ {

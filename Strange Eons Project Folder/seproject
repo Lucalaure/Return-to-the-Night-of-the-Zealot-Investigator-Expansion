@@ -6,7 +6,7 @@ open-folders = :1st Set:1st Set/Guardian:1st Set/Guardian/Investigator:1st \
     Set/Mystic:1st Set/Mystic/Investigator:1st Set/Neutral:1st \
     Set/Neutral/Investigator:1st Set/Rogue:1st Set/Rogue/Investigator:1st \
     Set/Seeker:1st Set/Seeker/Investigator:1st Set/Survivor:1st \
-    Set/Survivor/Investigator:Contracts
+    Set/Survivor/Investigator:Contracts:Weaknesses
 notes = 
 res-id = lucanlaurence
 type = PROJECT
