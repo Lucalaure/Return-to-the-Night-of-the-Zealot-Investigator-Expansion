@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-07T07:50:44.506",
+    "date_updated" : "2025-09-12T03:44:24.689",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -190,8 +190,7 @@
       "subname" : "John Dee Translation",
       "text" : "Daisy Walker deck only. Advanced.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area.\nWhile The Necronomicon is in play, revelation effects on non-weakness treachery cards you draw resolve twice.\n[reaction] After you successfully investigate: Place 1 secret on The Necronomicon. Then, if there are 3 or more secrets on it, discard The Necronomicon.",
       "traits" : "Item. Tome.",
-      "type_code" : "treachery",
-      "subtype_code" : "weakness",
+      "type_code" : "asset",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The%20Necronomicon-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245734420",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?cachebust=1757245734635"
     }, {
@@ -365,8 +364,7 @@
       "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
       "text" : "Agnes Baker deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>).\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory",
       "traits" : "Curse. Omen.",
-      "type_code" : "treachery",
-      "subtype_code" : "weakness",
+      "type_code" : "asset",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245757365",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?cachebust=1757245757573"
     }, {
@@ -453,8 +451,7 @@
       "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
       "text" : "Wendy Adams deck only. Advanced 1 (<i>This card must be upgraded alongside a signiture with the same Advanced number</i>).\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nWhile Abandoned and Alone is in play, the text box of each <b><i>Fortune</i></b> card you control is considered blank (except for <b><i>Traits</i></b>).\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard Abandoned and Alone.",
       "traits" : "Curse.",
-      "type_code" : "treachery",
-      "subtype_code" : "weakness",
+      "type_code" : "asset",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245839065",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-thumbnail.png?cachebust=1757245839283"
     }, {
@@ -565,12 +562,12 @@
       "quantity" : 2,
       "skill_combat" : 1,
       "slot" : "Hand",
-      "text" : "Uses (3 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. You may spend 1 additional ammo as part of this action. If you do, and this attack succeeds, deal 2 damage to a different enemy at your location with a fight value equal to or lower than the attacked enemy.",
+      "text" : "Uses (3 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. You may spend 1 additional ammo as part of this action. If you do, and this attack succeeds, deal 2 damage to a different enemy at your location with a fight value equal to or lower than that of the attacked enemy.",
       "traits" : "Item. Weapon. Firearm.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/65d2caa3-55a1-495c-8538-445c3b874d88-Front-Ithaca%2037-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245806277",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/65d2caa3-55a1-495c-8538-445c3b874d88-Front-thumbnail.png?cachebust=1757245806491"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/65d2caa3-55a1-495c-8538-445c3b874d88-Front-Ithaca%2037-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663056830",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/65d2caa3-55a1-495c-8538-445c3b874d88-Front-thumbnail.png?cachebust=1757663057120"
     }, {
       "code" : "fa4fc03d-1518-410f-9907-13b5d033d3bf",
       "cost" : 2,
@@ -668,12 +665,12 @@
       "position" : 25,
       "quantity" : 2,
       "skill_wild" : 1,
-      "text" : "Fast. As an additional cost to play this card, discard an asset you control.\nPlay an asset from your hand, reducing its cost by X, where X is the printed cost of the discarded asset.",
+      "text" : "Fast. Play only during your turn. As an additional cost to play this card, discard an asset you control.\nPlay an asset from your hand, reducing its cost by X, where X is the printed cost of the discarded asset.",
       "traits" : "Tactic.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-Resourcefulness-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245801684",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-thumbnail.png?cachebust=1757245801895"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-Resourcefulness-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663050850",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-thumbnail.png?cachebust=1757663051059"
     }, {
       "code" : "012db1e8-d517-4b56-b7e4-6b835194a12c",
       "deck_limit" : 2,
@@ -718,12 +715,12 @@
       "skill_agility" : 1,
       "skill_combat" : 1,
       "slot" : "Hand",
-      "text" : "Uses (3 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. This attack deals +1 damage. If this attack succeeds, for each point you succeeded by, you may deal 1 damage (to a maximum of 2) to a different enemy at your location with a fight value equal to or lower than the attacked enemy.",
+      "text" : "Uses (3 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. This attack deals +1 damage. If this attack succeeds, for each point you succeeded by, you may deal 1 damage (to a maximum of 2) to a different enemy at your location with a fight value equal to or lower than that of the attacked enemy.",
       "traits" : "Item. Weapon. Firearm.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f33256b-3f9a-4098-bbab-a3a35a2c7ce2-Front-Ithaca%2037%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245747708",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f33256b-3f9a-4098-bbab-a3a35a2c7ce2-Front-thumbnail.png?cachebust=1757245747978"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f33256b-3f9a-4098-bbab-a3a35a2c7ce2-Front-Ithaca%2037%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663049902",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f33256b-3f9a-4098-bbab-a3a35a2c7ce2-Front-thumbnail.png?cachebust=1757663050119"
     }, {
       "code" : "bf5be32c-dd7f-4343-a394-7be9e64562d1",
       "cost" : 2,
@@ -788,12 +785,12 @@
       "skill_agility" : 1,
       "skill_combat" : 1,
       "skill_wild" : 1,
-      "text" : "If this test is successful during an attack or while evading, discover 1 clue at your location for each enemy defeated this round (max 2 clues).",
+      "text" : "If this test is successful during an attack or evasion attempt, discover 1 clue at your location for each enemy defeated this round (max 2 clues).",
       "traits" : "Practiced. Expert.",
       "type_code" : "skill",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ca8debdb-ed47-4496-82f8-12b6a5d4b6de-Front-Evidence%20in%20Blood%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245739168",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ca8debdb-ed47-4496-82f8-12b6a5d4b6de-Front-thumbnail.png?cachebust=1757245739388"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ca8debdb-ed47-4496-82f8-12b6a5d4b6de-Front-Evidence%20in%20Blood%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663055643",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ca8debdb-ed47-4496-82f8-12b6a5d4b6de-Front-thumbnail.png?cachebust=1757663055850"
     }, {
       "code" : "471967ab-cdae-46af-a413-8354dfa0a637",
       "cost" : 3,
@@ -871,18 +868,18 @@
       "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "seeker",
-      "flavor" : "\n\"Aaaahhhhhhhh!\" - Clearly panicking",
+      "flavor" : "\n\"Aaaahhhhhhhh!\" - Clearly panicking\n",
       "name" : "Flight or Fright",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 37,
       "quantity" : 2,
       "skill_agility" : 1,
-      "text" : "Play only if you are engaged with an enemy. This action does not provoke attacks of opportunity.\nTake the following actions in any order: <b>Move. Evade.</b>",
+      "text" : "Play only if you are engaged to an enemy.\n<b>Evade.</b> Move to a connecting location either before or after this evasion attempt.",
       "traits" : "Trick.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-Flight%20or%20Fright-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245831492",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-thumbnail.png?cachebust=1757245831716"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-Flight%20or%20Fright-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663054149",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bb097c62-c2c0-4b13-b552-2a5006b48257-Front-thumbnail.png?cachebust=1757663054371"
     }, {
       "code" : "3d36bb40-d99c-472a-a900-0771646ecaa6",
       "cost" : 0,
@@ -909,12 +906,12 @@
       "position" : 39,
       "quantity" : 2,
       "skill_agility" : 1,
-      "text" : "Fast. Play when a non-<b><i>Elite</i></b> enemy would engage you with an evade value equal or lower than the number of clues you have.\nUntil the end of the round, that enemy cannot engage you unless you take a non-<b>Move</b> action at its location.",
+      "text" : "Fast. Play when you would be engaged by a non-<b><i>Elite</i></b> enemy with an evade value equal or lower than the number of clues you have.\nUntil the end of the round, that enemy cannot engage you unless you take a non-<b>Move</b> action at its location.",
       "traits" : "Tactic. Trick.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-Slip%20By-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245769044",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-thumbnail.png?cachebust=1757245769265"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-Slip%20By-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663062936",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-thumbnail.png?cachebust=1757663063146"
     }, {
       "code" : "17f6376f-f4fe-45e3-85e8-b1e14c55e410",
       "cost" : 0,
@@ -941,12 +938,12 @@
       "quantity" : 2,
       "skill_agility" : 1,
       "skill_intellect" : 1,
-      "text" : "If this test is successful, attach Inspect to the investigated location or evaded enemy.\nWhile attached, Inspect contributes its skill icons to all investigators when investigating the attached location, or when evading the attached enemy.",
+      "text" : "If this test is successful, attach Inspect to the investigated location or evaded enemy.\nWhile attached, Inspect contributes its skill icons to all investigation and evasion tests targeting the attached card.",
       "traits" : "Practiced.",
       "type_code" : "skill",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/32262e8d-8882-4536-b657-835705aeb0c0-Front-Inspect-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245808231",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/32262e8d-8882-4536-b657-835705aeb0c0-Front-thumbnail.png?cachebust=1757245808477"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/32262e8d-8882-4536-b657-835705aeb0c0-Front-Inspect-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663048943",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/32262e8d-8882-4536-b657-835705aeb0c0-Front-thumbnail.png?cachebust=1757663049168"
     }, {
       "code" : "1702d362-197e-400b-8217-93cf2f868021",
       "deck_limit" : 2,
@@ -1111,12 +1108,12 @@
       "position" : 51,
       "quantity" : 2,
       "skill_intellect" : 2,
-      "text" : "If this skill test is successful while investigating a location, resolve the following based on how much you exceed the skill test by:\n- By 0-1: Discover 1 additional clue at your location.\n- By 2: Discover 2 additional clues at your location.\n- By 3 or more: Discover 2 additional clues at your location or a connecting location.",
+      "text" : "If this skill test is successful while investigating a location, if you succeed by...\n- ...1 or less: Discover 1 additional clue at that location.\n- ...exactly 2: Discover 2 additional clues at that location.\n- ...3 or more: Discover 2 additional clues at that location or a connecting location.",
       "traits" : "Practiced. Expert.",
       "type_code" : "skill",
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245773850",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-thumbnail.png?cachebust=1757245774096"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663047175",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-thumbnail.png?cachebust=1757663048067"
     }, {
       "code" : "8771bf35-8518-4d76-a647-b798148b7d75",
       "cost" : 3,
@@ -1178,17 +1175,17 @@
       "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "rogue",
-      "name" : "Last Ditch Effort",
+      "name" : "Last-Ditch Effort",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 55,
       "quantity" : 2,
       "skill_intellect" : 1,
-      "text" : "As an additional cost to play Last Ditch Effort, place 1 of your clues on your location.\n<b>Investigate.</b> If this test is successful, discover 2 additional clues at your location.",
+      "text" : "As an additional cost to play Last-Ditch Effort, place 1 of your clues on your location.\n<b>Investigate.</b> If this test is successful, discover 2 additional clues at your location.",
       "traits" : "Gambit. Insight.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-Last%20Ditch%20Effort-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245786687",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-thumbnail.png?cachebust=1757245786892"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-Last%20Ditch%20Effort-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663058116",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f108dfc9-dea7-42e8-acab-a0ef7475930b-Front-thumbnail.png?cachebust=1757663058319"
     }, {
       "code" : "20d0bf71-f3ee-429a-8fd2-86615762f1d4",
       "cost" : 3,
@@ -1291,18 +1288,18 @@
       "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "rogue",
-      "name" : "Last Ditch Effort",
+      "name" : "Last-Ditch Effort",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 62,
       "quantity" : 2,
       "skill_agility" : 1,
       "skill_intellect" : 1,
-      "text" : "As an additional cost to play Last Ditch Effort, place 1 of your clues on your location.\n<b>Investigate.</b> You may investigate using [agility] instead of [intellect]. If this test is successful, discover 2 additional clues at your location or a connecting location. If you succeed by 2 or more, discover 3 additional clues instead.",
+      "text" : "As an additional cost to play Last-Ditch Effort, place 1 of your clues on your location.\n<b>Investigate.</b> You may investigate using [agility] instead of [intellect]. If this test is successful, discover 2 additional clues at your location or a connecting location. If you succeed by 2 or more, discover 3 additional clues instead.",
       "traits" : "Gambit. Insight.",
       "type_code" : "event",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-Last%20Ditch%20Effort%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245740144",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-thumbnail.png?cachebust=1757245740360"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-Last%20Ditch%20Effort%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663064171",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/bbc0713d-217d-4b80-94b0-cb8bb94b528f-Front-thumbnail.png?cachebust=1757663064378"
     }, {
       "code" : "66de2739-63a7-4910-85e7-ef4781bdde5b",
       "cost" : 0,
@@ -1421,12 +1418,12 @@
       "sanity" : 2,
       "skill_intellect" : 1,
       "slot" : "Ally",
-      "text" : "[reaction] After an investigation skill test you perform ends, exhaust Master of Secrets: If no token is sealed on this card, you may seal the revealed non-[auto_fail] token. If you seal a \"+0\", \"+1\" or [elder_sign] token this way, discover 1 clue at your location.\n<b>Forced</b> - At the end of the round, if Master of Secrets has a sealed token on it: You must either place 1 of your clues on your location or release that token.",
+      "text" : "[reaction] After you investigate, if no token is sealed here, exhaust Master of Secrets: Seal a non-[auto_fail] token revealed during that test. If you seal a \"+0,\" \"+1,\" or [elder_sign] token this way, discover 1 clue at your location.\n<b>Forced</b> - At the end of the round, if Master of Secrets has a sealed token on it: You must either place 1 doom on Master of Secrets or release that token.",
       "traits" : "Ally. Witch.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4a54b42b-c493-49b9-b81d-0e3a626ad6f5-Front-Master%20of%20Secrets-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245744859",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4a54b42b-c493-49b9-b81d-0e3a626ad6f5-Front-thumbnail.png?cachebust=1757245745077"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4a54b42b-c493-49b9-b81d-0e3a626ad6f5-Front-Master%20of%20Secrets-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663045146",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4a54b42b-c493-49b9-b81d-0e3a626ad6f5-Front-thumbnail.png?cachebust=1757663045366"
     }, {
       "code" : "631b3de0-7be9-412c-bf84-f642655b8a1b",
       "cost" : 3,
@@ -1440,17 +1437,18 @@
       "skill_agility" : 1,
       "skill_intellect" : 1,
       "slot" : "Hand",
-      "text" : "[action] Exhaust Soporific Grimoire: <b>Parley.</b> Choose an enemy at your location. Test [intellect] (X), where X is the enemy's fight value. If this test is successful, exhaust that enemy. (<i>It does not disengage</i>)",
+      "text" : "[action] Exhaust Soporific Grimoire: <b>Parley.</b> Choose an enemy at your location. Test [intellect] (X), where X is the enemy's fight value. If this test is successful, exhaust that enemy. (<i>It does not disengage.</i>)",
       "traits" : "Item. Tome. Relic. Occult.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/631b3de0-7be9-412c-bf84-f642655b8a1b-Front-Soporific%20Grimoire-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245838226",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/631b3de0-7be9-412c-bf84-f642655b8a1b-Front-thumbnail.png?cachebust=1757245838440"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/631b3de0-7be9-412c-bf84-f642655b8a1b-Front-Soporific%20Grimoire-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663060399",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/631b3de0-7be9-412c-bf84-f642655b8a1b-Front-thumbnail.png?cachebust=1757663060610"
     }, {
       "code" : "a644228e-24ea-4e43-b4b6-5cc723e70a2b",
       "cost" : 2,
       "deck_limit" : 2,
       "faction_code" : "mystic",
+      "is_unique" : true,
       "name" : "Tattoos of the Void",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 71,
@@ -1458,12 +1456,12 @@
       "sanity" : 2,
       "skill_wild" : 1,
       "slot" : "Body",
-      "text" : "[reaction] When a chaos token is sealed on another card you control and Tattoos of the Void has no sealed tokens on it: You may seal an identical token on Tattoos of the Void.\n<b>Forced</b> - At the start of the round, if Tattoos of the Void has a sealed token and the matching token on the other card has been released: You must either take 1 horror or release the token sealed on Tattoos of the Void.",
+      "text" : "[reaction] When a chaos token is sealed on another card you control, if Tattoos of the Void has no sealed tokens on it: Seal an identical token on Tattoos of the Void.\n<b>Forced</b> - At the start of the round, if Tattoos of the Void has a sealed token and no other card you control has a matching token sealed on it: Take 1 horror or release the sealed token on Tattoos of the Void.",
       "traits" : "Charm. Blessed.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a644228e-24ea-4e43-b4b6-5cc723e70a2b-Front-Tattoos%20of%20the%20Void-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245820558",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a644228e-24ea-4e43-b4b6-5cc723e70a2b-Front-thumbnail.png?cachebust=1757245820773"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a644228e-24ea-4e43-b4b6-5cc723e70a2b-Front-Tattoos%20of%20the%20Void-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663059184",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a644228e-24ea-4e43-b4b6-5cc723e70a2b-Front-thumbnail.png?cachebust=1757663059392"
     }, {
       "code" : "195aecd3-5cb5-4962-b4bd-8eed931a5565",
       "cost" : 0,
@@ -1766,12 +1764,12 @@
       "position" : 89,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "Play only if there are no enemies at your location.\nAttach to your location.\nAttached location gains \"[action]: Heal 1 damage or 1 horror. Any investigator at this location may activate this ability. (Limit once per turn.)\"\n<b>Forced</b> - After an enemy enters the attached location, discard Night Camp.",
+      "text" : "Play only if there are no enemies at your location.\nAttach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. Any investigator at this location may activate this ability. (Limit once per turn.)\"\n<b>Forced</b> - After an enemy enters the attached location, discard Night Camp.",
       "traits" : "Spirit. Improvised.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245742008",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1757245742230"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663052160",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1757663052398"
     }, {
       "code" : "d37ebe80-d340-45ae-a01c-ebac6216cbd9",
       "deck_limit" : 2,
@@ -1799,12 +1797,12 @@
       "quantity" : 2,
       "skill_agility" : 1,
       "skill_wild" : 1,
-      "text" : "Max 1 committed per skill test.\nIf this test is successful, gain 2 resources and discard the top card of your deck. If you fail, discard the top 3 cards of your deck.",
+      "text" : "Max 1 committed per skill test.\nIf this test is successful, gain 2 resources and discard the top card of your deck. Otherwise, discard the top 3 cards of your deck.",
       "traits" : "Gambit.",
       "type_code" : "skill",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-Gambler%27s%20Resolve-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245746780",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-thumbnail.png?cachebust=1757245746999"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-Gambler%27s%20Resolve-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663061665",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cc481493-e80c-4fa8-bd87-8665ea7a9f21-Front-thumbnail.png?cachebust=1757663061877"
     }, {
       "code" : "f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d",
       "cost" : 1,
@@ -1819,12 +1817,12 @@
       "sanity" : 1,
       "skill_agility" : 1,
       "slot" : "Body",
-      "text" : "You get +1 health and +1 sanity.\n[reaction] After you successfully move while engaged with an enemy, exhaust Weathered Oilskin: Automatically evade that enemy.",
+      "text" : "You get +1 health and +1 sanity.\n[reaction] After you move while engaged with an enemy, exhaust Weathered Oilskin: Automatically evade that enemy.",
       "traits" : "Item. Armor. Blessed.",
       "type_code" : "asset",
       "xp" : 1,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered%20Oilskin%20%281%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245785733",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-thumbnail.png?cachebust=1757245785952"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered%20Oilskin%20%281%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663046137",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-thumbnail.png?cachebust=1757663046357"
     }, {
       "code" : "dd4820e0-c7b0-47dc-bbd4-fc5363e4318d",
       "cost" : 3,
@@ -1854,12 +1852,12 @@
       "quantity" : 2,
       "skill_wild" : 1,
       "slot" : "Accessory",
-      "text" : "[reaction] When one of your card effects discards a card from your hand or play area, exhaust Frayed Token: Shuffle the discarded card into your deck and draw 1 card. (Limit once per round.)",
+      "text" : "[reaction] When one of your card effects discards a card from your hand or play area, exhaust Frayed Token: Shuffle the discarded card into your deck and draw 1 card.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed%20Token%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245814795",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-thumbnail.png?cachebust=1757245815015"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed%20Token%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757663053131",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-thumbnail.png?cachebust=1757663053345"
     }, {
       "code" : "67f760d7-549b-4010-a37d-fca9b9fd5271",
       "cost" : 1,
@@ -2154,8 +2152,8 @@
       "slot" : "Accessory. Arcane",
       "text" : "Broken Seal can only be included in your deck if your deck contains at least 3 cards that take up one or more accessory or arcane slots.\n<b>Revelation</b> - Return all cards in play that take up accessory slots and arcane slots to your hand. Put Broken Seal into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one accessory or arcane slot: Discard Broken Seal. ",
       "traits" : "Omen.",
-      "type_code" : "treachery",
-      "subtype_code" : "basicweakness",
+      "type_code" : "asset",
+      "xp" : 0,
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken%20Seal-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245758308",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-thumbnail.png?cachebust=1757245758526"
     }, {
@@ -2169,8 +2167,8 @@
       "slot" : "Hand x2",
       "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up one or more hand slots.\n<b>Revelation</b> - Return all cards in play that take up hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip. ",
       "traits" : "Curse. Blunder.",
-      "type_code" : "treachery",
-      "subtype_code" : "basicweakness",
+      "type_code" : "asset",
+      "xp" : 0,
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery%20Grip-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245817629",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?cachebust=1757245817965"
     }, {
@@ -2184,8 +2182,8 @@
       "slot" : "Ally",
       "text" : "Turned Coat can only be included in your deck if your deck contains at least 3 cards that take up an ally slot. \n<b>Revelation</b> - Return all cards in play that take up an ally slot to your hand. Put Turned Coat into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one ally slot: Discard Turned Coat.",
       "traits" : "Madness.",
-      "type_code" : "treachery",
-      "subtype_code" : "basicweakness",
+      "type_code" : "asset",
+      "xp" : 0,
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned%20Coat-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245769932",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?cachebust=1757245770151"
     } ],
