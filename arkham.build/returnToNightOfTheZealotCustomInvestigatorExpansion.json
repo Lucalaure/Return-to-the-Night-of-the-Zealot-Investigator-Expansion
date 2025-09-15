@@ -9,14 +9,14 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-13T16:11:55.161",
+    "date_updated" : "2025-09-15T04:54:12.254",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards or <b><i>Criminal</i></b> cards.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" level 0-1, cards with \"investigate\" level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards or <b><i>Criminal</i></b> cards.",
       "code" : "d545b38e-f3cf-486a-a026-12ed94b33453",
       "deck_requirements" : "size:30, card:3497e84b-9698-4d54-937c-65096eb6c82c, card:43433775-620b-4e10-8583-253eb3f3e6c2, random:subtype:basicweakness",
       "deck_options" : [ {
@@ -40,6 +40,18 @@
           "max" : 1
         },
         "text" : [ "clue" ]
+      }, {
+        "level" : {
+          "min" : 0,
+          "max" : 1
+        },
+        "text" : [ "investigate" ]
+      }, {
+        "level" : {
+          "min" : 0,
+          "max" : 1
+        },
+        "text" : [ "Investigate" ]
       }, {
         "faction" : [ "neutral" ],
         "level" : {
@@ -66,10 +78,10 @@
       "text" : "[reaction] After you successfully investigate: You may place 1 ammo token on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. You may spend 1 ammo from an asset you control to discover 1 clue at your location.",
       "traits" : "Agency. Detective.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245788495",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1757245788704",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757245789488",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1757245789732"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757799550850",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1757799551055",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757799551843",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1757799552053"
     }, {
       "code" : "43433775-620b-4e10-8583-253eb3f3e6c2",
       "cost" : 3,
@@ -173,11 +185,11 @@
       "skill_intellect" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Daisy Walker deck only. Advanced.\n[reaction] After Daisy's Tote Bag enters play: Discard cards from the top of the encounter deck until 4 non-<b><i>Elite</i></b> cards are discarded. Place those cards face up beneath this card.\n[reaction] When an investigator at your location would draw a card from the encounter deck: You may instead reveal a card from beneath Daisy’s Tote Bag. That investigator resolves that card's effects as if it were just drawn. Then, if this ability has been used [per_investigator] times, discard all remaining cards beneath Daisy’s Tote Bag.",
+      "text" : "Daisy Walker deck only. Advanced. Uses (3 books).\n[reaction] When you or another investigator at your location is performing a skill test on a non-weakness treachery card, spend 1 book: That investigator gets +2 skill value for that test.\n[action]: Replenish 1 book token on Daisy’s Tote Bag and ready it.",
       "traits" : "Item.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy%27s%20Tote%20Bag-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245743932",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?cachebust=1757245744152"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy%27s%20Tote%20Bag-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757926450801",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?cachebust=1757926451022"
     }, {
       "code" : "4b3bb0d8-9207-4503-9842-172a59d802d6",
       "deck_limit" : 1,
@@ -188,11 +200,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:7b48d829-0095-4b3e-a2c3-8fa609d111e2",
       "subname" : "John Dee Translation",
-      "text" : "Daisy Walker deck only. Advanced.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area.\nWhile The Necronomicon is in play, revelation effects on non-weakness treachery cards you draw resolve twice.\n[reaction] After you successfully investigate: Place 1 secret on The Necronomicon. Then, if there are 3 or more secrets on it, discard The Necronomicon.",
+      "text" : "Daisy Walker deck only. Advanced.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area, with 3 secrets on it.\n<b>Forced</b> - The first time each round you reveal an encounter card: Either that card gains surge (<i>if it doesn't already have it</i>), or you take 1 horror. Then, remove 1 secret from The Necronomicon. If there are no more secrets on it, discard it.",
       "traits" : "Item. Tome.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The%20Necronomicon-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245734420",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?cachebust=1757245734635"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The%20Necronomicon-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757926451747",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?cachebust=1757926451958"
     }, {
       "back_flavor" : "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
       "back_name" : "\"Skids\" O'Toole",
@@ -280,11 +292,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:48bd399e-1d7d-4b95-8a88-1145f95eae14",
       "subtype_code" : "weakness",
-      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it. \nEach time you play a card, increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if there are no more resources on Hospital Debts, discard it.\n",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it. \n<b>Forced</b> - Each time you play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if there are no more resources on Hospital Debts, discard it.\n",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792826553",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1757792826778"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757926446488",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1757926446708"
     }, {
       "back_flavor" : "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
       "back_name" : "Agnes Baker",
@@ -1933,18 +1945,16 @@
       "code" : "d37ebe80-d340-45ae-a01c-ebac6216cbd9",
       "deck_limit" : 2,
       "faction_code" : "survivor",
-      "flavor" : "What was lost can always be found, with a little bit of luck.",
       "name" : "From the Ashes",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 99,
       "quantity" : 2,
-      "skill_intellect" : 1,
-      "text" : "Max 1 committed per skill test.\nIf this skill test fails, return this card to your hand. You cannot commit this card to another skill test this round.",
+      "text" : "Max 1 committed per skill test. \nYou may commit From the Ashes to any type of test.\nIf this test fails, the performing investigator shuffles their discard pile (<i>without looking</i>) and returns the top 2 cards of their discard pile to their hand.",
       "traits" : "Fortune.",
       "type_code" : "skill",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-From%20the%20Ashes-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792778227",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-thumbnail.png?cachebust=1757792778450"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-From%20the%20Ashes-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757926449534",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d37ebe80-d340-45ae-a01c-ebac6216cbd9-Front-thumbnail.png?cachebust=1757926449765"
     }, {
       "code" : "cc481493-e80c-4fa8-bd87-8665ea7a9f21",
       "deck_limit" : 2,
