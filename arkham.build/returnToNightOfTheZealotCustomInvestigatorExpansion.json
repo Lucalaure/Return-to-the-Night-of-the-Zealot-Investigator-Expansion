@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-15T08:31:46.523",
+    "date_updated" : "2025-09-15T10:50:05.915",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -469,7 +469,7 @@
     }, {
       "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?\n",
       "back_name" : "Yithian",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-2* from any class.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Forgotten Knowledge, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 4 unique <b><i>Traits</i></b>, with a minimum of 5 cards for each of those <b><i>Traits</i></b> (<i>20 cards total</i>).\n<b>Additional Options</b>: * Increase the level limit for cards by (X – 4), where X is the number of unique traits in your deck that each have at least 5 cards.\n",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-2* from any class.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Forgotten Knowledge, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include cards with at least 4 unique <b><i>Traits</i></b>, with a minimum of 5 cards for each of those <b><i>Traits</i></b> (<i>20 cards total</i>).\n<b>Additional Options</b>: * Increase the level limit for cards by (X – 4) (to a maximum of 3), where X is the number of unique traits that are included on at least 5 of your cards in your deck\n",
       "code" : "2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
       "deck_requirements" : "size:30, card:70ccabf5-4f44-4ec2-b677-fa54ce9a864f, card:9189bc89-5511-49ad-a1fa-218f58d44fe5, random:subtype:basicweakness",
       "deck_options" : [ {
@@ -527,10 +527,10 @@
       "text" : "Each of your <b><i>Ally</i></b> assets gains the <b><i>Yithian</i></b> trait.\n[reaction] After you commit a card to a skill test you are performing: Double the skill icons on that card. (Limit once per test.)\n[elder_sign] effect: +2. Draw 1 card.",
       "traits" : "Monster. Yithian.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757939504114",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-thumbnail.png?cachebust=1757939504366",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757939505106",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-thumbnail.png?cachebust=1757939505399"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757947802808",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-thumbnail.png?cachebust=1757947803037",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757947803740",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-thumbnail.png?cachebust=1757947803941"
     }, {
       "code" : "9189bc89-5511-49ad-a1fa-218f58d44fe5",
       "deck_limit" : 1,

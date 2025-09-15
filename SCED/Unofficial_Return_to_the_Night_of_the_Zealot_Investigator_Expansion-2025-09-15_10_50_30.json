@@ -2925,8 +2925,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1050" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757939504114",
-                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757939505106",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757947802808",
+                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757947803740",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -4159,7 +4159,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"id\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"type\":\"Investigator\",\"class\":\"Rogue\",\"traits\":\"Criminal.\",\"agilityIcons\":5,\"combatIcons\":3,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"45be196b-4f6a-494d-85c9-3b2521e7d557\":1,\"c9e03dde-f067-48a5-8063-839f82167d9c\":1}]}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"id\":\"48bd399e-1d7d-4b95-8a88-1145f95eae14\",\"type\":\"Investigator\",\"class\":\"Rogue\",\"traits\":\"Criminal.\",\"agilityIcons\":5,\"combatIcons\":3,\"intellectIcons\":2,\"willpowerIcons\":2,\"signatures\":[{\"c9e03dde-f067-48a5-8063-839f82167d9c\":1,\"45be196b-4f6a-494d-85c9-3b2521e7d557\":1}]}",
             "Tags" : [ "PlayerCard", "Investigator" ]
           }, {
             "Locked" : false,
