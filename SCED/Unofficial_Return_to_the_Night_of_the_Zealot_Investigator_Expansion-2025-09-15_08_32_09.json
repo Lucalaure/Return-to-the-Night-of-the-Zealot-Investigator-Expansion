@@ -2925,8 +2925,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1050" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245815731",
-                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757245816727",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Front-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757939504114",
+                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2f687951-04fa-40ba-b21a-9c2cf4c2e9e2-Back-Yithian-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757939505106",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
