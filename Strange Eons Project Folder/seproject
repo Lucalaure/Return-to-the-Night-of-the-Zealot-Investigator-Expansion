@@ -1,7 +1,7 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :1st Set/Neutral/Investigator/Yithian.eon
-first-row = 34
+selected-members = :Weaknesses/Broken Seal.eon
+first-row = 105
 open-folders = :1st Set:1st Set/Guardian:1st Set/Guardian/Investigator:1st \
     Set/Mystic:1st Set/Mystic/Investigator:1st Set/Neutral:1st \
     Set/Neutral/Investigator:1st Set/Rogue:1st Set/Rogue/Investigator:1st \

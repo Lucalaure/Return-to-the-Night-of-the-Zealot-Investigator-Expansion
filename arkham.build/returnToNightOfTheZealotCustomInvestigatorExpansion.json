@@ -2,14 +2,14 @@
   "meta" : {
     "code" : "51a7b66c-983c-4903-9fae-b389689444f1",
     "name" : "Return to Night of the Zealot - Custom Investigator Expansion",
-    "description" : "A complete rework of the 5 core investigators, featuring 115 new cards: 5 investigators with unique signatures, 8 level 0 and 8 upgraded cards for each class, 11 neutral cards, and 3 basic weaknesses.",
+    "description" : "A full rework of the five Core Set investigators, along with a complete support set to reinforce early archetypes from the Core through The Forgotten Age. This set includes 124 new cards total, 6 investigators, each with unique signature cards, 9 level 0 and 9 upgraded cards for each class, 12 neutral cards and 3 basic weaknesses.",
     "author" : "seymour9297",
     "language" : "en",
     "external_link" : "",
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-15T10:50:05.915",
+    "date_updated" : "2025-09-16T06:00:25.852",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -111,10 +111,10 @@
       "position" : 3,
       "quantity" : 1,
       "restrictions" : "investigator:d545b38e-f3cf-486a-a026-12ed94b33453",
-      "subtype_code" : "weakness",
       "text" : "Roland Banks deck only. Advanced.\n<b>Revelation</b> - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n[action][action] Place 1 of your clues on your location: Discard \n                Cover Up.",
       "traits" : "Task.",
       "type_code" : "treachery",
+      "subtype_code" : "weakness",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3497e84b-9698-4d54-937c-65096eb6c82c-Front-Cover%20Up-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792830416",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3497e84b-9698-4d54-937c-65096eb6c82c-Front-thumbnail.png?cachebust=1757792830632"
     }, {
@@ -2376,7 +2376,7 @@
     "packs" : [ {
       "code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "name" : "Return to Night of the Zealot - Custom Investigator Expansion",
-      "date_release" : "2025-09-07",
+      "date_release" : "2025-09-16",
       "icon_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/51a7b66c-983c-4903-9fae-b389689444f1-collection-icon.png?cachebust=1757245844504"
     } ]
   }
