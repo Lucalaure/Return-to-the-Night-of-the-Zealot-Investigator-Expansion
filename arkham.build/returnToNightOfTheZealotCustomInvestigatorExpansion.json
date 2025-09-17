@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-16T06:00:25.852",
+    "date_updated" : "2025-09-17T17:34:46.657",
     "generator" : "Zoop 3.4, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -111,10 +111,10 @@
       "position" : 3,
       "quantity" : 1,
       "restrictions" : "investigator:d545b38e-f3cf-486a-a026-12ed94b33453",
+      "subtype_code" : "weakness",
       "text" : "Roland Banks deck only. Advanced.\n<b>Revelation</b> - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n[action][action] Place 1 of your clues on your location: Discard \n                Cover Up.",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "subtype_code" : "weakness",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3497e84b-9698-4d54-937c-65096eb6c82c-Front-Cover%20Up-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792830416",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3497e84b-9698-4d54-937c-65096eb6c82c-Front-thumbnail.png?cachebust=1757792830632"
     }, {
@@ -185,11 +185,11 @@
       "skill_intellect" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Daisy Walker deck only. Advanced. Uses (3 books).\n[reaction] When you or another investigator at your location is performing a skill test on a non-weakness treachery card, spend 1 book: That investigator gets +2 skill value for that test.\n[action]: Replenish 1 book token on Daisy’s Tote Bag and ready it.",
+      "text" : "Daisy Walker deck only. Advanced. Uses (3 books).\n[reaction] When an investigator at your location would perform a skill test on a non-weakness treachery card, exhaust Daisy's Tote Bag spend 1 book: That investigator gets +2 skill value for that test.\n[action]: Replenish 1 book token on Daisy’s Tote Bag and ready it.",
       "traits" : "Item.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy%27s%20Tote%20Bag-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757926450801",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?cachebust=1757926451022"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-Daisy%27s%20Tote%20Bag-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758144886255",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6a4fca38-d4f1-40cf-8544-15adb07f3789-Front-thumbnail.png?cachebust=1758144886465"
     }, {
       "code" : "4b3bb0d8-9207-4503-9842-172a59d802d6",
       "deck_limit" : 1,
@@ -2335,12 +2335,11 @@
       "position" : 122,
       "quantity" : 2,
       "slot" : "Accessory. Arcane",
-      "text" : "Broken Seal can only be included in your deck if your deck contains at least 3 cards that take up one or more accessory or arcane slots.\n<b>Revelation</b> - Return all cards in play that take up accessory slots and arcane slots to your hand. Put Broken Seal into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one accessory or arcane slot: Discard Broken Seal. ",
+      "text" : "Broken Seal can only be included in your deck if your deck contains at least 3 cards that take up one or more accessory and/or arcane slots.\n<b>Revelation</b> - Return 2 cards in play that take up 1 or more accessory and/or arcane slots to your hand. Put Broken Seal into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at 1 or more accessory and/or arcane slot: Discard Broken Seal. ",
       "traits" : "Omen.",
       "type_code" : "asset",
-      "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken%20Seal-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792781058",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-thumbnail.png?cachebust=1757792781273"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-Broken%20Seal-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758144885053",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6f078742-9846-48ef-bf79-3c2716fa2f94-Front-thumbnail.png?cachebust=1758144885259"
     }, {
       "code" : "5a36dddf-e339-4a15-a575-f39b7226a4ef",
       "deck_limit" : 2,
@@ -2350,12 +2349,11 @@
       "position" : 123,
       "quantity" : 2,
       "slot" : "Hand x2",
-      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up one or more hand slots.\n<b>Revelation</b> - Return all cards in play that take up hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip. ",
+      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up 1 or more hand slots.\n<b>Revelation</b> - Return 2 cards in play that take up 1 or more hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip. ",
       "traits" : "Curse. Blunder.",
       "type_code" : "asset",
-      "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery%20Grip-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792807760",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?cachebust=1757792807967"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery%20Grip-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758144883165",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?cachebust=1758144883375"
     }, {
       "code" : "648efc85-f82f-4e8c-9145-f104664bd82a",
       "deck_limit" : 2,
@@ -2364,13 +2362,12 @@
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 124,
       "quantity" : 2,
-      "slot" : "Ally",
-      "text" : "Turned Coat can only be included in your deck if your deck contains at least 3 cards that take up an ally slot. \n<b>Revelation</b> - Return all cards in play that take up an ally slot to your hand. Put Turned Coat into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one ally slot: Discard Turned Coat.",
+      "slot" : "Ally. Body",
+      "text" : "Turned Coat can only be included in your deck if your deck contains at least 3 cards that take up one or more ally and/or body slots.\n<b>Revelation</b> - Return 2 cards in play that take up 1 or more ally and/or body slots to your hand. Put Turned Coat into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at 1 or more ally and/or body slot: Discard Turned Coat. ",
       "traits" : "Madness.",
       "type_code" : "asset",
-      "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned%20Coat-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792764819",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?cachebust=1757792765178"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned%20Coat-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758144881809",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?cachebust=1758144882029"
     } ],
     "encounter_sets" : [ ],
     "packs" : [ {
