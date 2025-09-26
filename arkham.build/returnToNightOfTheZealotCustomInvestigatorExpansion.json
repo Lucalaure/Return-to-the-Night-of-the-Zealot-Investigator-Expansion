@@ -470,21 +470,6 @@
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878675421",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1758878675646"
     }, {
-      "code" : "853483fa-6c6f-4a25-addd-3bf492f8d0a0",
-      "deck_limit" : 1,
-      "faction_code" : "neutral",
-      "name" : "Abandoned and Alone",
-      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
-      "position" : 15,
-      "quantity" : 1,
-      "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
-      "subtype_code" : "weakness",
-      "text" : "Wendy Adams deck only. Advanced 1 (<i>This card must be upgraded alongside a signature with the same Advanced number</i>).\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nWhile Abandoned and Alone is in play, the text box of each <b><i>Fortune</i></b> card you control is considered blank (except for <b><i>Traits</i></b>).\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard Abandoned and Alone. ",
-      "traits" : "Curse.",
-      "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701661515",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-thumbnail.png?cachebust=1758701661875"
-    }, {
       "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?\n",
       "back_name" : "Yithian",
       "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-2* from any class.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Thirst for Knowledge, Forgotten Knowledge, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include cards with at least 4 unique <b><i>Traits</i></b>, with a minimum of 5 cards for each of those <b><i>Traits</i></b> (<i>20 cards total</i>).\n<b>Additional Options</b>: * Increase the level limit for cards by (X – 4) (to a maximum of 3), where X is the number of unique traits that are included on at least 5 of your cards in your deck\n",
