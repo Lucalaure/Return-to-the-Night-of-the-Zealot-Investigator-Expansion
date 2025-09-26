@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-24T04:14:25.834",
+    "date_updated" : "2025-09-26T05:29:13.624",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -258,13 +258,13 @@
       "skill_intellect" : 2,
       "skill_willpower" : 2,
       "subname" : "The Ex-Con",
-      "text" : "You may take an additional action each turn to play a card that costs 3 or more resources.\n[elder_sign] effect: +1. Gain resources equal to the amount of actions you have taken this round (to a maximum of 4).",
+      "text" : "You may take an additional action each turn to play a card that costs 3 or more resources.\n[elder_sign] effect: +1. Gain resources equal to the amount of actions you have spent this round (to a maximum of 4).",
       "traits" : "Criminal.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245796900",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-thumbnail.png?cachebust=1757245797113",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757245797806",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-thumbnail.png?cachebust=1757245798035"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878676398",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-thumbnail.png?cachebust=1758878676624",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758878677333",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-thumbnail.png?cachebust=1758878677556"
     }, {
       "code" : "c9e03dde-f067-48a5-8063-839f82167d9c",
       "cost" : 3,
@@ -278,11 +278,11 @@
       "skill_agility" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Forced</b> - At the end of your turn: Place 1 resource on On the Lam for each action you took beyond 3 this round.\n[free] During your turn, Exhaust On the Lam: Move all resources from On the Lam to your resource pool. If you moved 5 or more resources this way, you may take 1 additional action this turn.",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Forced</b> - At the end of your turn: Place 1 resource on On the Lam for each action you spent beyond 3 this round.\n[free] During your turn, Exhaust On the Lam: Move all resources from On the Lam to your resource pool. If you moved 5 or more resources this way, you may take 1 additional action this turn.",
       "traits" : "Talent. Illicit.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245730813",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-thumbnail.png?cachebust=1757245731030"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878678329",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-thumbnail.png?cachebust=1758878678716"
     }, {
       "code" : "45be196b-4f6a-494d-85c9-3b2521e7d557",
       "deck_limit" : 1,
@@ -293,11 +293,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:48bd399e-1d7d-4b95-8a88-1145f95eae14",
       "subtype_code" : "weakness",
-      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it. It cannot leave play while it has 1 or more resources on it.\n<b>Forced</b> - Each time you play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it as debt. It cannot leave play while it has 1 or more resources on it.\n<b>Forced</b> - Each time you play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701655416",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1758701655653"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878668352",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1758878668574"
     }, {
       "back_flavor" : "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
       "back_name" : "Agnes Baker",
@@ -361,11 +361,11 @@
       "skill_willpower" : 1,
       "slot" : "Accessory",
       "subname" : "Artifact from Another Life",
-      "text" : "Agnes Baker deck only. Advanced 1 (<i>This card must be upgraded alongside a signature with the same Advanced number</i>).\nUses (1 charge).\n[reaction] When a chaos token is sealed on a card you control: Place 1 charge on Heirloom of Hyperborea. (Limit once per phase.)\n[reaction] When a chaos token is revealed that is a copy of a token sealed on a card you control, exhaust Heirloom of Hyperborea and spend 1 charge: Cancel that chaos token.",
+      "text" : "Agnes Baker deck only. Advanced.\nUses (1 charge).\n[reaction] When a chaos token is sealed on a card you control: Place 1 charge on Heirloom of Hyperborea. (Limit once per phase.)\n[reaction] When a chaos token is revealed that is a copy of a token sealed on a card you control, exhaust Heirloom of Hyperborea and spend 1 charge: Cancel that chaos token.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792844084",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?cachebust=1757792844290"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878950415",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?cachebust=1758878950739"
     }, {
       "code" : "a7b29dd2-dbeb-47c7-bc1d-836911dfac13",
       "deck_limit" : 1,
@@ -376,17 +376,17 @@
       "quantity" : 1,
       "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
       "subtype_code" : "weakness",
-      "text" : "Agnes Baker deck only. Advanced 1 (<i>This card must be upgraded alongside a signature with the same Advanced number</i>).\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory.",
+      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory.",
       "traits" : "Curse. Omen.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701664380",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?cachebust=1758701664591"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878951301",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?cachebust=1758878951732"
     }, {
       "back_flavor" : "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
       "back_name" : "Wendy Adams",
       "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, <b><i>Fortune</i></b> cards level 0-3, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.",
       "code" : "fc608485-056c-4371-bc77-5b30ffe0c897",
-      "deck_requirements" : "size:30, card:853483fa-6c6f-4a25-addd-3bf492f8d0a0, card:9873ff45-a720-4ed5-8df4-b4f81a43a52d, random:subtype:basicweakness",
+      "deck_requirements" : "size:30, card:2e915f87-3ee3-4851-9cd1-9169910a6e14, card:9873ff45-a720-4ed5-8df4-b4f81a43a52d, random:subtype:basicweakness",
       "deck_options" : [ {
         "faction" : [ "survivor" ],
         "level" : {
@@ -428,13 +428,13 @@
       "skill_intellect" : 3,
       "skill_willpower" : 4,
       "subname" : "The Urchin",
-      "text" : "[reaction] After a <b><i>Fortune</i></b> card you control is discarded: You may place it on top of your deck facedown instead. (Limit once per round.)\n[elder_sign] effect: +1. You may return a <b><i>Fortune</i></b> card from your discard pile to your hand.",
+      "text" : "[reaction] When a <b><i>Fortune</i></b> card you control would be discarded: Shuffle that card into your deck instead. Then, draw 1 card. (Limit once per round.)\n[elder_sign] effect: +1. Until the end of the round, ignore the limit on the above [reaction] ability.",
       "traits" : "Drifter.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758661818495",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?cachebust=1758661818722",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758661819450",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?cachebust=1758661819668"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878671520",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?cachebust=1758878671877",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758878672642",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?cachebust=1758878672868"
     }, {
       "code" : "9873ff45-a720-4ed5-8df4-b4f81a43a52d",
       "cost" : 2,
@@ -449,11 +449,26 @@
       "skill_wild" : 1,
       "skill_willpower" : 1,
       "slot" : "Accessory",
-      "text" : "Wendy Adams deck only. Advanced 1 (<i>This card must be upgraded alongside a signature with the same Advanced number</i>). Uses (0 charges).\n[reaction] After you play or commit a <b><i>Fortune</i></b> card: Place 2 charges on Wendy's Amulet (to a maximum of 6).\n[free] Spend X charges and exhaust Wendy's Amulet: Reveal the top X cards of your deck. Set aside any <b><i>Fortune</i></b> cards revealed this way. Shuffle your deck. Until the end of the round, you may play or commit those cards as if they were in your hand. At the end of the round, shuffle the remaining set-aside cards back into your deck.",
+      "text" : "Wendy Adams deck only. Advanced. Uses (0 charges).\n[reaction] After you play or commit a <b><i>Fortune</i></b> card: Place 2 charges on Wendy's Amulet (to a maximum of 6).\n[free] Spend X charges and exhaust Wendy's Amulet: Reveal the top X cards of your deck. Set aside any <b><i>Fortune</i></b> cards revealed this way. Shuffle your deck. Until the end of the round, you may play or commit those cards as if they were in your hand. At the end of the round, shuffle the remaining set-aside cards back into your deck.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792745398",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?cachebust=1757792745638"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878948486",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?cachebust=1758878948685"
+    }, {
+      "code" : "2e915f87-3ee3-4851-9cd1-9169910a6e14",
+      "deck_limit" : 1,
+      "faction_code" : "neutral",
+      "name" : "Abandoned and Alone",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 15,
+      "quantity" : 1,
+      "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
+      "subtype_code" : "weakness",
+      "text" : "Wendy Adams deck only. Advanced.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nYou cannot play or commit <b><i>Fortune</i></b> cards.\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard \n               Abandoned and Alone.",
+      "traits" : "Curse.",
+      "type_code" : "treachery",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878675421",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1758878675646"
     }, {
       "code" : "853483fa-6c6f-4a25-addd-3bf492f8d0a0",
       "deck_limit" : 1,
@@ -1462,13 +1477,15 @@
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 71,
       "quantity" : 2,
-      "skill_agility" : 2,
+      "skill_agility" : 1,
+      "skill_wild" : 1,
+      "skill_willpower" : 1,
       "text" : "Fast. \n[reaction] After you evade an enemy, exhaust Pickpocketing: Draw 1 card or gain 1 resource. If you succeeded by 1 or more, do both instead. Once per turn, if you succeed by 2 or more, you may take an additional action this turn.",
       "traits" : "Talent. Illicit.",
       "type_code" : "asset",
       "xp" : 5,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701282649",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-thumbnail.png?cachebust=1758701282847"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878670268",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-thumbnail.png?cachebust=1758878670636"
     }, {
       "code" : "f5977b45-a5bf-49cb-a7c3-1df828692c3b",
       "cost" : 1,
@@ -2191,12 +2208,12 @@
       "position" : 113,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "[action] Exhaust Forgotten Blueprint and another non-permanent neutral asset you control: Draw 2 cards. If you exhausted Old Schematics, you may instead draw 3 cards, then choose and discard a card from your hand. ",
+      "text" : "[action] Exhaust Forgotten Blueprint and another non-permanent neutral asset you control: Draw 2 cards. If you exhausted Old Schematics as part of this action, you may instead draw 3 cards, then choose and discard a card from your hand. ",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792784292",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-thumbnail.png?cachebust=1757792784796"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878680384",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-thumbnail.png?cachebust=1758878680598"
     }, {
       "code" : "3cf57ade-f435-4bed-8277-b9158d1c8dfa",
       "cost" : 3,
@@ -2208,12 +2225,12 @@
       "position" : 114,
       "quantity" : 2,
       "skill_agility" : 1,
-      "text" : "[action] Exhaust Old Schematics and another non-permanent neutral asset you control: One a time, take up to 2 move actions. If you exhausted Forgotten Blueprint, this action does not provoke attacks of opportunity. ",
+      "text" : "[action] Exhaust Old Schematics and another non-permanent neutral asset you control: <b>Move.</b> Move up to 2 times. If you exhausted Forgotten Blueprint as part of this action, this action does not provoke attacks of opportunity. ",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792785568",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-thumbnail.png?cachebust=1757792785783"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878674514",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-thumbnail.png?cachebust=1758878674749"
     }, {
       "code" : "df48250b-120a-47d5-b704-32cab6f6a3d6",
       "deck_limit" : 2,
@@ -2322,13 +2339,13 @@
       "quantity" : 2,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Fast. Play only during your turn.\nResolve an [action] ability on two different neutral assets you control, ignoring all [action] costs.\nIf the chosen assets were Forgotten Blueprint and Old Schematics, add Recursive Directive to the victory display. ",
+      "text" : "Fast. Play only during your turn.\nResolve an [action] ability on two different non-weakness neutral assets you control, ignoring their [action] cost. Those assets do not exhaust as part of their ability’s cost.\nIf the chosen assets were Forgotten Blueprint and Old Schematics, add Recursive Directive to the victory display. Otherwise, remove it from the game.",
       "traits" : "Tactic. Fated.",
       "type_code" : "event",
       "victory" : 1,
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792783162",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-thumbnail.png?cachebust=1757792783537"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878681605",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-thumbnail.png?cachebust=1758878681833"
     }, {
       "code" : "6f078742-9846-48ef-bf79-3c2716fa2f94",
       "deck_limit" : 2,

@@ -2397,7 +2397,7 @@
             "DeckIDs" : [ 104200, 104300 ],
             "CustomDeck" : {
               "1043" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792844084",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878950415",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -2406,7 +2406,7 @@
                 "Type" : 0
               },
               "1042" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701664380",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878951301",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -2446,7 +2446,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1042" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701664380",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878951301",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
@@ -2489,7 +2489,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1043" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792844084",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878950415",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
@@ -2560,7 +2560,7 @@
           "DeckIDs" : [ 104400, 104500, 104600, 104700, 104800, 104900 ],
           "CustomDeck" : {
             "1049" : {
-              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792783162",
+              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878681605",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -2569,7 +2569,7 @@
               "Type" : 0
             },
             "1048" : {
-              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792785568",
+              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878674514",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -2587,7 +2587,7 @@
               "Type" : 0
             },
             "1046" : {
-              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792784292",
+              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878680384",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -2729,7 +2729,7 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1046" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792784292",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c54287e6-8eb4-473d-858e-6c84e76ab496-Front-Forgotten%20Blueprint-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878680384",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -2813,7 +2813,7 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1048" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792785568",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3cf57ade-f435-4bed-8277-b9158d1c8dfa-Front-Old%20Schematics-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878674514",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -2855,7 +2855,7 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1049" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792783162",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b00ca6a6-40c3-4653-b345-0f764deb17ee-Front-Recursive%20Directive%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878681605",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -3298,7 +3298,7 @@
               "Type" : 0
             },
             "1068" : {
-              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701282649",
+              "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878670268",
               "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth" : 1,
               "NumHeight" : 1,
@@ -3954,7 +3954,7 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1068" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701282649",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878670268",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -3963,7 +3963,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"dccfc996-aecd-4271-9bcc-52ca941382f6\",\"id\":\"dccfc996-aecd-4271-9bcc-52ca941382f6\",\"type\":\"Asset\",\"class\":\"Rogue\",\"traits\":\"Talent. Illicit.\",\"cost\":2,\"level\":5,\"agilityIcons\":2}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"dccfc996-aecd-4271-9bcc-52ca941382f6\",\"id\":\"dccfc996-aecd-4271-9bcc-52ca941382f6\",\"type\":\"Asset\",\"class\":\"Rogue\",\"traits\":\"Talent. Illicit.\",\"cost\":2,\"level\":5,\"agilityIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1}",
             "Tags" : [ "PlayerCard", "Asset" ]
           }, {
             "Locked" : false,
@@ -4150,8 +4150,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1072" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245796900",
-                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757245797806",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Front-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878676398",
+                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/48bd399e-1d7d-4b95-8a88-1145f95eae14-Back-Skids%20O%27Toole-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758878677333",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -4234,7 +4234,7 @@
             "DeckIDs" : [ 107400, 107500 ],
             "CustomDeck" : {
               "1075" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245730813",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878678329",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -4243,7 +4243,7 @@
                 "Type" : 0
               },
               "1074" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701655416",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878668352",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -4283,7 +4283,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1074" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701655416",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878668352",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
@@ -4325,7 +4325,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1075" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245730813",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c9e03dde-f067-48a5-8063-839f82167d9c-Front-On%20the%20Lam-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878678329",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
@@ -6648,8 +6648,8 @@
             "SidewaysCard" : false,
             "CustomDeck" : {
               "1117" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758661818495",
-                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758661819450",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878671520",
+                "BackURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758878672642",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
                 "BackIsHidden" : true,
@@ -6657,7 +6657,7 @@
                 "Type" : 0
               }
             },
-            "GMNotes" : "{\"TtsZoopGuid\":\"fc608485-056c-4371-bc77-5b30ffe0c897\",\"id\":\"fc608485-056c-4371-bc77-5b30ffe0c897\",\"type\":\"Investigator\",\"class\":\"Survivor\",\"traits\":\"Drifter.\",\"agilityIcons\":4,\"combatIcons\":1,\"intellectIcons\":3,\"willpowerIcons\":4,\"signatures\":[{\"9873ff45-a720-4ed5-8df4-b4f81a43a52d\":1,\"853483fa-6c6f-4a25-addd-3bf492f8d0a0\":1}]}",
+            "GMNotes" : "{\"TtsZoopGuid\":\"fc608485-056c-4371-bc77-5b30ffe0c897\",\"id\":\"fc608485-056c-4371-bc77-5b30ffe0c897\",\"type\":\"Investigator\",\"class\":\"Survivor\",\"traits\":\"Drifter.\",\"agilityIcons\":4,\"combatIcons\":1,\"intellectIcons\":3,\"willpowerIcons\":4,\"signatures\":[{\"2e915f87-3ee3-4851-9cd1-9169910a6e14\":1,\"9873ff45-a720-4ed5-8df4-b4f81a43a52d\":1}]}",
             "Tags" : [ "PlayerCard", "Investigator" ]
           }, {
             "Locked" : false,
@@ -6732,7 +6732,7 @@
             "DeckIDs" : [ 111900, 112000 ],
             "CustomDeck" : {
               "1120" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792745398",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878948486",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -6741,7 +6741,7 @@
                 "Type" : 0
               },
               "1119" : {
-                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701661515",
+                "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878675421",
                 "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                 "NumWidth" : 1,
                 "NumHeight" : 1,
@@ -6781,7 +6781,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1119" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/853483fa-6c6f-4a25-addd-3bf492f8d0a0-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701661515",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878675421",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
@@ -6790,8 +6790,8 @@
                   "Type" : 0
                 }
               },
-              "GMNotes" : "{\"TtsZoopGuid\":\"853483fa-6c6f-4a25-addd-3bf492f8d0a0\",\"id\":\"853483fa-6c6f-4a25-addd-3bf492f8d0a0\",\"type\":\"Asset\",\"traits\":\"Curse.\",\"level\":0,\"weakness\":true}",
-              "Tags" : [ "PlayerCard", "Asset" ]
+              "GMNotes" : "{\"TtsZoopGuid\":\"2e915f87-3ee3-4851-9cd1-9169910a6e14\",\"id\":\"2e915f87-3ee3-4851-9cd1-9169910a6e14\",\"type\":\"Treachery\",\"traits\":\"Curse.\",\"weakness\":true}",
+              "Tags" : [ "PlayerCard" ]
             }, {
               "Locked" : false,
               "Grid" : true,
@@ -6823,7 +6823,7 @@
               "SidewaysCard" : false,
               "CustomDeck" : {
                 "1120" : {
-                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792745398",
+                  "FaceURL" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878948486",
                   "BackURL" : "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                   "NumWidth" : 1,
                   "NumHeight" : 1,
