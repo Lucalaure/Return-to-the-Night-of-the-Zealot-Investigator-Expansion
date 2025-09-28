@@ -817,12 +817,12 @@
     "lastUploaded" : [ 2025, 9, 13, 15, 46, 27, 767000000 ]
   }, {
     "imageKey" : "df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact of Endurance-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg",
-    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact%20of%20Endurance-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792808739",
-    "lastUploaded" : [ 2025, 9, 13, 15, 46, 48, 740000000 ]
+    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact%20of%20Endurance-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759067794862",
+    "lastUploaded" : [ 2025, 9, 28, 9, 56, 34, 862000000 ]
   }, {
     "imageKey" : "df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png",
-    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?cachebust=1757792808970",
-    "lastUploaded" : [ 2025, 9, 13, 15, 46, 48, 971000000 ]
+    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?cachebust=1759067795094",
+    "lastUploaded" : [ 2025, 9, 28, 9, 56, 35, 94000000 ]
   }, {
     "imageKey" : "7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-Patrol Officer-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg",
     "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-Patrol%20Officer-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245828566",
@@ -1107,5 +1107,13 @@
     "imageKey" : "2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png",
     "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1758878675646",
     "lastUploaded" : [ 2025, 9, 26, 5, 24, 35, 647000000 ]
+  }, {
+    "imageKey" : "b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg",
+    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759067793355",
+    "lastUploaded" : [ 2025, 9, 28, 9, 56, 33, 356000000 ]
+  }, {
+    "imageKey" : "b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png",
+    "imageUrl" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1759067793568",
+    "lastUploaded" : [ 2025, 9, 28, 9, 56, 33, 568000000 ]
   } ]
 }

@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-27T19:30:37.457",
+    "date_updated" : "2025-09-28T09:56:36.087",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -303,7 +303,7 @@
       "back_name" : "Agnes Baker",
       "back_text" : "<b>Deck Size</b>: 25.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, cards with \"seal\" level 0-5, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.",
       "code" : "43c6f1af-6bfc-40f6-af6c-a597816517b1",
-      "deck_requirements" : "size:25, card:72c24b02-73a3-45d7-b3af-c3caa561e00d, card:a7b29dd2-dbeb-47c7-bc1d-836911dfac13, random:subtype:basicweakness",
+      "deck_requirements" : "size:25, card:72c24b02-73a3-45d7-b3af-c3caa561e00d, card:b1198eb7-0345-4e57-903c-a07eb3f88fc9, random:subtype:basicweakness",
       "deck_options" : [ {
         "faction" : [ "mystic" ],
         "level" : {
@@ -381,6 +381,21 @@
       "type_code" : "asset",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878951301",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a7b29dd2-dbeb-47c7-bc1d-836911dfac13-Front-thumbnail.png?cachebust=1758878951732"
+    }, {
+      "code" : "b1198eb7-0345-4e57-903c-a07eb3f88fc9",
+      "deck_limit" : 1,
+      "faction_code" : "neutral",
+      "name" : "Dark Memory",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 12,
+      "quantity" : 1,
+      "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
+      "subtype_code" : "weakness",
+      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory.\n",
+      "traits" : "Curse. Omen.",
+      "type_code" : "treachery",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759067793355",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1759067793568"
     }, {
       "back_flavor" : "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
       "back_name" : "Wendy Adams",
@@ -2225,12 +2240,12 @@
       "permanent" : true,
       "position" : 115,
       "quantity" : 2,
-      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\nWhen an investigator is dealt damage or horror, all of that damage or horror must be assigned to a single card.\nIf the chosen card does not have a printed health or sanity value (e.g. Leather Coat or Cherished Keepsake), then any portion of the damage or horror that cannot be assigned to the initially chosen card must be assigned to another card.\nExcess damage or horror is not assigned elsewhere and is instead lost. ",
+      "text" : "Permanent. Group limit 1 in play. Purchase only at deck creation.\nWhen an investigator is dealt damage or horror, all of that damage or horror must be assigned to a single card.\nIf the chosen card does not have a printed health or sanity value  (<i>e.g. Leather Coat or Cherished Keepsake</i>), then any portion of the damage or horror that cannot be assigned to the initially chosen card must be assigned to another card. Otherwise, any excess damage or horror is not assigned elsewhere and is instead lost.",
       "traits" : "Contract.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact%20of%20Endurance-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792808739",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?cachebust=1757792808970"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-Pact%20of%20Endurance-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759067794862",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/df48250b-120a-47d5-b704-32cab6f6a3d6-Front-thumbnail.png?cachebust=1759067795094"
     }, {
       "code" : "4b37aaa1-86bb-47f4-a213-989c826506c0",
       "deck_limit" : 2,
