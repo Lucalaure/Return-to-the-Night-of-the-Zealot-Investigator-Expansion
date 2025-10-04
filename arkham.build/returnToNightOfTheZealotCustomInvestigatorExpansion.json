@@ -9,14 +9,14 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-09-28T09:56:36.087",
+    "date_updated" : "2025-10-04T05:02:42.212",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" and \"investigate\" level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards, or <b><i>Criminal</i></b> cards.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, cards with \"clue\" and \"investigate\" level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards, or <b><i>Criminal</i></b> cards.",
       "code" : "d545b38e-f3cf-486a-a026-12ed94b33453",
       "deck_requirements" : "size:30, card:3497e84b-9698-4d54-937c-65096eb6c82c, card:43433775-620b-4e10-8583-253eb3f3e6c2, random:subtype:basicweakness",
       "deck_options" : [ {
@@ -37,19 +37,19 @@
       }, {
         "level" : {
           "min" : 0,
-          "max" : 1
+          "max" : 2
         },
         "text" : [ "clue" ]
       }, {
         "level" : {
           "min" : 0,
-          "max" : 1
+          "max" : 2
         },
         "text" : [ "investigate" ]
       }, {
         "level" : {
           "min" : 0,
-          "max" : 1
+          "max" : 2
         },
         "text" : [ "Investigate" ]
       }, {
@@ -78,10 +78,10 @@
       "text" : "[reaction] After you successfully investigate: Place 1 ammo token on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. You may spend 1 ammo from an asset you control to discover 1 clue at your location.",
       "traits" : "Agency. Detective.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758661823735",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1758661823943",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758661824693",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1758661824916"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568558456",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1759568558671",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1759568559408",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1759568559625"
     }, {
       "code" : "43433775-620b-4e10-8583-253eb3f3e6c2",
       "cost" : 3,
@@ -165,13 +165,13 @@
       "skill_intellect" : 4,
       "skill_willpower" : 3,
       "subname" : "The Librarian",
-      "text" : "[reaction] After you discover 1 or more clues from an investigate ability on an event or asset you control: Look at the top 2 cards of the encounter deck. You may choose 1 to place on the bottom of the encounter deck. Return the rest to the top of the encounter deck in any order. (Limit once per round.)\n[elder_sign] effect: +0. Choose and discard a non-weakness treachery card in the threat area of an investigator at your location.",
+      "text" : "[reaction] After you discover 1 or more clues from a non-basic investigate action: Look at the top 2 cards of the encounter deck. You may choose 1 to place on the bottom of the encounter deck. Return the rest to the top of the encounter deck in any order. (Limit once per round.)\n[elder_sign] effect: +0. Choose and discard a non-weakness treachery card in the threat area of an investigator at your location.",
       "traits" : "Miskatonic.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-Daisy%20Walker-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758661815057",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-thumbnail.png?cachebust=1758661815275",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-Daisy%20Walker-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758661816012",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-thumbnail.png?cachebust=1758661816229"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-Daisy%20Walker-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568549196",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Front-thumbnail.png?cachebust=1759568549538",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-Daisy%20Walker-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1759568550272",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7b48d829-0095-4b3e-a2c3-8fa609d111e2-Back-thumbnail.png?cachebust=1759568550498"
     }, {
       "code" : "6a4fca38-d4f1-40cf-8544-15adb07f3789",
       "cost" : 3,
@@ -347,7 +347,7 @@
       "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-thumbnail.png?cachebust=1757245764576"
     }, {
       "code" : "72c24b02-73a3-45d7-b3af-c3caa561e00d",
-      "cost" : 2,
+      "cost" : 3,
       "deck_limit" : 1,
       "faction_code" : "neutral",
       "is_unique" : true,
@@ -361,11 +361,11 @@
       "skill_willpower" : 1,
       "slot" : "Accessory",
       "subname" : "Artifact from Another Life",
-      "text" : "Agnes Baker deck only. Advanced.\nUses (1 charge).\n[reaction] When a chaos token is sealed on a card you control: Place 1 charge on Heirloom of Hyperborea. (Limit once per phase.)\n[reaction] When a chaos token is revealed that is a copy of a token sealed on a card you control, exhaust Heirloom of Hyperborea and spend 1 charge: Cancel that chaos token.",
+      "text" : "Agnes Baker deck only. Advanced. Seal (0 or -1).\n[reaction] If Heirloom of Hyperborea is ready, after a \"0\" or \"-1\" chaos token has been resolved during a skill test on a <i><b>Spell</i></b> card you control: Seal that token on this card. (<i>Max 3 tokens sealed.</i>)\n[reaction] When you would reveal a token from the chaos bag during a skill test on a <i><b>Spell</i></b> card you control, exhaust Heirloom of Hyperborea: Reveal a token sealed here instead, then release that token.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878950415",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?cachebust=1758878950739"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-Heirloom%20of%20Hyperborea-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568554323",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/72c24b02-73a3-45d7-b3af-c3caa561e00d-Front-thumbnail.png?cachebust=1759568554527"
     }, {
       "code" : "a7b29dd2-dbeb-47c7-bc1d-836911dfac13",
       "deck_limit" : 1,
@@ -391,15 +391,15 @@
       "quantity" : 1,
       "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
       "subtype_code" : "weakness",
-      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When a chaos token is revealed from the chaos bag that is a copy of a token sealed on a card you control: That test automatically fails. Then, place 1 horror on Dark Memory. If Dark Memory has 3 or more horror on it, you may move all horror from it to Agnes Baker to discard Dark Memory.\n",
+      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When you would succeed at a skill test on an ability printed on a <i><b>Spell</i></b> card you control, reveal an additional token for that test. If this effect causes you to succeed the test, discard Dark Memory. (Limit once per test.)\n",
       "traits" : "Curse. Omen.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759067793355",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1759067793568"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568560665",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1759568561021"
     }, {
       "back_flavor" : "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
       "back_name" : "Wendy Adams",
-      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, <b><i>Fortune</i></b> cards level 0-3, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.",
+      "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-2, <b><i>Fortune</i></b> cards level 0-3, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.",
       "code" : "fc608485-056c-4371-bc77-5b30ffe0c897",
       "deck_requirements" : "size:30, card:2e915f87-3ee3-4851-9cd1-9169910a6e14, card:9873ff45-a720-4ed5-8df4-b4f81a43a52d, random:subtype:basicweakness",
       "deck_options" : [ {
@@ -443,13 +443,13 @@
       "skill_intellect" : 3,
       "skill_willpower" : 4,
       "subname" : "The Urchin",
-      "text" : "[reaction] When a <b><i>Fortune</i></b> card you control would be discarded: Shuffle that card into your deck instead. Then, draw 1 card. (Limit once per round.)\n[elder_sign] effect: +1. Until the end of the round, ignore the limit on the above [reaction] ability.",
+      "text" : "[reaction] When a <b><i>Fortune</i></b> card you control would be discarded: Shuffle that card into your deck instead. Then, draw 1 card. (Limit once per round.)\n[elder_sign] effect: +1. Search the top 6 cards of your deck for an <b><i>Fortune</i></b> card and draw it. Shuffle your deck.",
       "traits" : "Drifter.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878671520",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?cachebust=1758878671877",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1758878672642",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?cachebust=1758878672868"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568555334",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Front-thumbnail.png?cachebust=1759568555548",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-Wendy%20Adams-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1759568556307",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/fc608485-056c-4371-bc77-5b30ffe0c897-Back-thumbnail.png?cachebust=1759568556521"
     }, {
       "code" : "9873ff45-a720-4ed5-8df4-b4f81a43a52d",
       "cost" : 2,
@@ -464,11 +464,11 @@
       "skill_wild" : 1,
       "skill_willpower" : 1,
       "slot" : "Accessory",
-      "text" : "Wendy Adams deck only. Advanced. Uses (0 charges).\n[reaction] After you play or commit a <b><i>Fortune</i></b> card: Place 2 charges on Wendy's Amulet (to a maximum of 6).\n[free] Spend X charges and exhaust Wendy's Amulet: Reveal the top X cards of your deck. Set aside any <b><i>Fortune</i></b> cards revealed this way. Shuffle your deck. Until the end of the round, you may play or commit those cards as if they were in your hand. At the end of the round, shuffle the remaining set-aside cards back into your deck.",
+      "text" : "Wendy Adams deck only. Advanced.\n[reaction] After a player card ability shuffles 1 or more cards into your deck, exhaust Wendy’s Amulet: Choose one of those cards to place on the top of your deck instead.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878948486",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?cachebust=1758878948685"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-Wendy%27s%20Amulet-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568557453",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9873ff45-a720-4ed5-8df4-b4f81a43a52d-Front-thumbnail.png?cachebust=1759568557664"
     }, {
       "code" : "2e915f87-3ee3-4851-9cd1-9169910a6e14",
       "deck_limit" : 1,
@@ -479,11 +479,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
       "subtype_code" : "weakness",
-      "text" : "Wendy Adams deck only. Advanced.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\nYou cannot play or commit <b><i>Fortune</i></b> cards.\n[action] Take 1 horror and discard the top 3 cards of your deck: If at least 1 of them is a <b><i>Fortune</i></b> card, discard \n               Abandoned and Alone.",
+      "text" : "Wendy Adams deck only. Advanced.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\n<b>Forced</b> - When a card you control is discarded: Search your deck for all other copies of that card and discard them.\n[action] Take 1 horror for every 10 cards in your discard pile (<i>rounded down</i>): If there are fewer than 20 cards in your discard pile, shuffle \n   Abandoned and Alone back into your deck. Otherwise, \n                     discard it.",
       "traits" : "Curse.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878675421",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1758878675646"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568546107",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1759568546327"
     }, {
       "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?\n",
       "back_name" : "Yithian",
@@ -1851,12 +1851,12 @@
       "quantity" : 2,
       "skill_combat" : 1,
       "slot" : "Hand",
-      "text" : "[action] If Lumberjack's Axe is ready: <b>Fight.</b> For each previous time you have used this ability this round, you get an additional +1 [combat] and deal +1 damage (to a maximum of +2 [combat] and +2 damage).\n<b>Forced</b> - After you resolve the [action] ability on Lumberjack’s Axe for the third time in a round: Exhaust Lumberjack’s Axe. It does not ready during your next upkeep phase.",
+      "text" : "[action] If Lumberjack's Axe is ready: <b>Fight.</b> You get +1 [combat] for this attack. For each previous time you have used this ability this round, you get an additional +1 [combat] and deal +1 damage (to a maximum of +2 [combat] and +2 damage).\n<b>Forced</b> - After you resolve the [action] ability on Lumberjack’s Axe for the third time in a round: Exhaust Lumberjack’s Axe. It does not ready during your next upkeep phase.",
       "traits" : "Item. Tool. Weapon. Melee.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack%27s%20Axe-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792789554",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-thumbnail.png?cachebust=1757792789768"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-Lumberjack%27s%20Axe-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568552688",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/6bbd7f4a-0317-4985-a86c-e441feea3756-Front-thumbnail.png?cachebust=1759568552910"
     }, {
       "code" : "b2166ff3-1155-4209-8055-3b14f864f0bd",
       "cost" : 0,
@@ -1868,12 +1868,12 @@
       "position" : 93,
       "quantity" : 2,
       "slot" : "Hand",
-      "text" : "Nailed Board can be played from your discard pile.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed, discard Nailed Board after the attack resolves.",
+      "text" : "Nailed Board can be played from your discard pile.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed by 2 or less, discard Nailed Board after the attack resolves.",
       "traits" : "Item. Weapon. Melee. Improvised.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed%20Board-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792815413",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-thumbnail.png?cachebust=1757792815631"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed%20Board-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568561962",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-thumbnail.png?cachebust=1759568562173"
     }, {
       "code" : "87740f1e-140d-45bb-82d8-e50587c560a8",
       "cost" : 3,
@@ -2041,12 +2041,12 @@
       "quantity" : 2,
       "skill_wild" : 1,
       "slot" : "Accessory",
-      "text" : "[reaction] When one of your card effects discards a card from your hand or play area, exhaust Frayed Token: Shuffle the discarded card into your deck and draw 1 card.",
+      "text" : "[reaction] When a player card ability would discard a card from your hand or play area, exhaust Frayed Token: Shuffle the card into your deck instead, and draw 1 card.",
       "traits" : "Item. Relic.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed%20Token%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792753812",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-thumbnail.png?cachebust=1757792754021"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-Frayed%20Token%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568547071",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d5259e9c-9c75-435f-84ff-b2f3cd66eb04-Front-thumbnail.png?cachebust=1759568547424"
     }, {
       "code" : "67f760d7-549b-4010-a37d-fca9b9fd5271",
       "cost" : 1,
@@ -2113,12 +2113,12 @@
       "quantity" : 2,
       "skill_combat" : 1,
       "skill_intellect" : 1,
-      "text" : "Limit 1 per investigator. While Junkyard Instinct is in play in your play area, the first card you play from your discard pile each round costs 1 fewer resource.\n[free] Discard Junkyard Instinct: Play a card from your discard pile. Reduce its cost by 1.",
+      "text" : "Limit 1 per investigator.\n[reaction] When you would play a card from your discard pile, exhaust Junkyard Instinct: Reduce the cost of that card by 1.\n[free] Discard Junkyard Instinct: Play a card from your discard pile. Reduce its cost by 1.",
       "traits" : "Talent.",
       "type_code" : "asset",
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-Junkyard%20Instinct%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792805923",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-thumbnail.png?cachebust=1757792806148"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-Junkyard%20Instinct%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568551501",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/04045206-a2ee-445d-9c97-36e7a9aa32e0-Front-thumbnail.png?cachebust=1759568551717"
     }, {
       "code" : "43e5c76c-d4a3-42ce-834c-e3c62522b0d7",
       "cost" : 0,
