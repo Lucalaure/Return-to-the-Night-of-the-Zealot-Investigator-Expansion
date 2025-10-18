@@ -9,11 +9,39 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-10-07T08:06:06.904",
+    "date_updated" : "2025-10-18T17:29:00.713",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
+      "code" : "9e67ad62-fa4b-45e5-8e06-d592916da3ff",
+      "cost" : 0,
+      "deck_limit" : 2,
+      "faction_code" : "neutral",
+      "name" : "Focused Field",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 1,
+      "quantity" : 2,
+      "text" : "Bonded (Archivist's Lens). Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
+      "traits" : "Insight.",
+      "type_code" : "event",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760822938126",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-thumbnail.png?cachebust=1760822938307"
+    }, {
+      "code" : "9fc6cf40-f893-4e2d-b743-fe0692ddeddd",
+      "cost" : 0,
+      "deck_limit" : 2,
+      "faction_code" : "neutral",
+      "name" : "Focused Field",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 1,
+      "quantity" : 2,
+      "text" : "Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
+      "traits" : "Insight.",
+      "type_code" : "event",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9fc6cf40-f893-4e2d-b743-fe0692ddeddd-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812236444",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9fc6cf40-f893-4e2d-b743-fe0692ddeddd-Front-thumbnail.png?cachebust=1760812236750"
+    }, {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
       "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards, <b><i>Criminal</i></b> cards or <b><i>Trick</i></b> cards.",
@@ -627,12 +655,12 @@
       "sanity" : 1,
       "skill_willpower" : 1,
       "slot" : "Ally",
-      "text" : "[reaction] When Patrol Officer enters play: Choose an enemy at your location or a connecting location. Move to that enemy’s location and engage it. Until the end of the round, ignore the retaliate keyword when attacking that enemy.",
+      "text" : "[reaction] When Patrol Officer enters or leaves play: Choose an enemy at your location or a connecting location. Move to that enemy’s location and engage it. Until the end of the round, ignore the retaliate keyword when attacking that enemy.",
       "traits" : "Ally. Police.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-Patrol%20Officer-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245828566",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-thumbnail.png?cachebust=1757245828796"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-Patrol%20Officer-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812235131",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7acb0b77-618e-4ecf-8b40-f73ea408b7ce-Front-thumbnail.png?cachebust=1760812235305"
     }, {
       "code" : "90f891d9-68b9-45d1-bcde-f2b60e101a0f",
       "cost" : 3,
@@ -963,7 +991,7 @@
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/3d36bb40-d99c-472a-a900-0771646ecaa6-Front-thumbnail.png?cachebust=1757792845477"
     }, {
       "code" : "17f6376f-f4fe-45e3-85e8-b1e14c55e410",
-      "cost" : 0,
+      "cost" : 1,
       "deck_limit" : 2,
       "faction_code" : "seeker",
       "name" : "Proof of Concept",
@@ -975,8 +1003,8 @@
       "traits" : "Insight. Tactic.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Proof%20of%20Concept-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757794226492",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-thumbnail.png?cachebust=1757794226708"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-Proof%20of%20Concept-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812237201",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/17f6376f-f4fe-45e3-85e8-b1e14c55e410-Front-thumbnail.png?cachebust=1760812237396"
     }, {
       "code" : "1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9",
       "cost" : 2,
@@ -995,7 +1023,7 @@
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1ed3dcf6-54aa-45ec-8800-ce7901bc7ef9-Front-thumbnail.png?cachebust=1757792822941"
     }, {
       "code" : "ae4771ef-e64c-47e2-888d-8e26b04f4fff",
-      "cost" : 0,
+      "cost" : 2,
       "deck_limit" : 2,
       "faction_code" : "seeker",
       "name" : "Two Steps Ahead",
@@ -1003,12 +1031,12 @@
       "position" : 43,
       "quantity" : 2,
       "skill_wild" : 1,
-      "text" : "Play only as your first action. This action does not provoke attacks of opportunity.\nDuring your third action this turn, if you perform a skill test with a difficulty less than or equal to your skill value, you automatically succeed.",
+      "text" : "Play only as your first action. Put this card into play in your play area. This action does not provoke attacks of opportunity.\n[reaction] When the investigation phase begins, discard Two Steps Ahead and choose a skill ([willpower], [intellect], [combat] or [agility]): For the remainder of the round, you get +2 to the chosen skill.",
       "traits" : "Insight. Tactic. Bold.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ae4771ef-e64c-47e2-888d-8e26b04f4fff-Front-Two%20Steps%20Ahead-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757794313333",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ae4771ef-e64c-47e2-888d-8e26b04f4fff-Front-thumbnail.png?cachebust=1757794313547"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ae4771ef-e64c-47e2-888d-8e26b04f4fff-Front-Two%20Steps%20Ahead-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760822940353",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/ae4771ef-e64c-47e2-888d-8e26b04f4fff-Front-thumbnail.png?cachebust=1760822940549"
     }, {
       "code" : "32262e8d-8882-4536-b657-835705aeb0c0",
       "deck_limit" : 2,
@@ -1036,12 +1064,12 @@
       "quantity" : 2,
       "skill_intellect" : 1,
       "skill_wild" : 1,
-      "text" : "This card can only be committed to a skill test being performed by another investigator either at your location, or at a connecting location. If this skill test succeeds by 1 or more, return this card to your hand.",
+      "text" : "This card can only be committed to a skill test being performed by another investigator either at your location, or at a connecting location. If this skill test succeeds by 2 or more, return this card to your hand.",
       "traits" : "Practiced.",
       "type_code" : "skill",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1702d362-197e-400b-8217-93cf2f868021-Front-Shared%20Insight-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792797773",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1702d362-197e-400b-8217-93cf2f868021-Front-thumbnail.png?cachebust=1757792797975"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1702d362-197e-400b-8217-93cf2f868021-Front-Shared%20Insight-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812243807",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/1702d362-197e-400b-8217-93cf2f868021-Front-thumbnail.png?cachebust=1760812243998"
     }, {
       "code" : "38ceeed0-a9c6-4b8c-9015-b8a6aa345422",
       "cost" : 0,
@@ -1070,11 +1098,11 @@
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 47,
       "quantity" : 2,
-      "text" : "Bonded (Seed of Clarity).\n<b>Revelation</b> - Search the top 6 cards of your deck. Choose 1 card to draw. Until the end of the round, reduce the cost of that card by 2. Shuffle the remaining cards back into your deck. Then, set this card aside out of play.",
+      "text" : "Bonded (Seed of Clarity).\n<b>Revelation</b> - Search the top 6 cards of your deck for any card and draw it. Until the end of the round, reduce the cost of that card by 2. Shuffle your deck. Then, set this card aside out of play.",
       "traits" : "Fortune. Blessed.",
       "type_code" : "event",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-Revelation%20of%20Purpose-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792821634",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-thumbnail.png?cachebust=1757792821977"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-Revelation%20of%20Purpose-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812241546",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9685ec95-f2a8-4042-b6ee-b026d279d59e-Front-thumbnail.png?cachebust=1760812241724"
     }, {
       "code" : "f772c0e3-ed15-40fa-a923-369df6c87f3b",
       "cost" : 2,
@@ -1156,12 +1184,12 @@
       "skill_intellect" : 1,
       "skill_wild" : 1,
       "slot" : "Hand",
-      "text" : "Fast. Uses (2 secrets).\n[reaction] After you look at 1 or more cards from the encounter deck or your deck, exhaust Archivist's Lens: Place 1 secret on it (max 3).\n[action] Spend 3 secrets: Discover 2 clues at your location or heal 2 horror from an investigator at your location.",
+      "text" : "Uses (2 secrets).\n[reaction] After you look at 1 or more cards from the encounter deck or your deck, exhaust Archivist's Lens: Place 1 secret on it.\n[free] Spend 3 secrets: Search your bonded cards for 1 copy of Focused Field and add it to your hand.",
       "traits" : "Item. Tool. Relic. Science.",
       "type_code" : "asset",
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a941e24e-114e-41ab-8cb7-275436a007e7-Front-Archivist%27s%20Lens%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792799858",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a941e24e-114e-41ab-8cb7-275436a007e7-Front-thumbnail.png?cachebust=1757792800081"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a941e24e-114e-41ab-8cb7-275436a007e7-Front-Archivist%27s%20Lens%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812234564",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/a941e24e-114e-41ab-8cb7-275436a007e7-Front-thumbnail.png?cachebust=1760812234750"
     }, {
       "code" : "daafcbd4-15c8-4731-898d-2666636d43b7",
       "cost" : 3,
@@ -1630,12 +1658,12 @@
       "position" : 79,
       "quantity" : 2,
       "skill_combat" : 1,
-      "text" : "Fast. Play only during your turn.\nMove up to 3 horror from an investigator at your location onto you and/or assets you control, split in any way. For each horror moved this way, deal 1 damage to an enemy at your location.",
+      "text" : "Move up to 3 horror from an investigator at your location onto you and/or assets you control, split in any way. For each horror moved this way, deal 1 damage to an enemy at your location.",
       "traits" : "Spell. Spirit.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/195aecd3-5cb5-4962-b4bd-8eed931a5565-Front-Burden%20of%20Souls-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792782071",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/195aecd3-5cb5-4962-b4bd-8eed931a5565-Front-thumbnail.png?cachebust=1757792782299"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/195aecd3-5cb5-4962-b4bd-8eed931a5565-Front-Burden%20of%20Souls-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812243114",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/195aecd3-5cb5-4962-b4bd-8eed931a5565-Front-thumbnail.png?cachebust=1760812243423"
     }, {
       "code" : "f987fdca-7704-426f-abc1-97b4a5bf5df2",
       "cost" : 3,
@@ -1646,29 +1674,29 @@
       "position" : 80,
       "quantity" : 2,
       "skill_intellect" : 1,
-      "text" : "Attach to your location. Attached location cannot be investigated.\nEach non-<b><i>Elite</i></b> enemy at the attached location gets -1 fight and -1 evade.\n<b>Forced</b> - If there are no investigators at attached location: Discard Inscription of Power.",
+      "text" : "Attach to your location. Limit 1 per location. Attached location cannot be investigated.\nEach non-<b><i>Elite</i></b> enemy at the attached location gets -1 fight and -1 evade.\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Discard Inscription of Power.",
       "traits" : "Ritual.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f987fdca-7704-426f-abc1-97b4a5bf5df2-Front-Inscription%20of%20Power-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792798766",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f987fdca-7704-426f-abc1-97b4a5bf5df2-Front-thumbnail.png?cachebust=1757792799104"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f987fdca-7704-426f-abc1-97b4a5bf5df2-Front-Inscription%20of%20Power-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812237926",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f987fdca-7704-426f-abc1-97b4a5bf5df2-Front-thumbnail.png?cachebust=1760812238110"
     }, {
       "code" : "4d982555-89c2-45f1-a5ae-c25d35ffc17d",
       "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "mystic",
-      "flavor" : "Power never vanishes. It only finds a new shape.",
+      "flavor" : "\nPower never vanishes. It only finds a new shape.",
       "name" : "Spellshifting",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 81,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "Fast. Play only during your turn.\nMove up to 3 charges from one asset you control, onto another asset at your location. For each charge moved this way, gain 1 resource.",
+      "text" : "Move up to 3 charges from one asset you control, onto another asset at your location. For each charge moved this way, gain 1 resource.",
       "traits" : "Spell. Ritual. ",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4d982555-89c2-45f1-a5ae-c25d35ffc17d-Front-Spellshifting-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792803983",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4d982555-89c2-45f1-a5ae-c25d35ffc17d-Front-thumbnail.png?cachebust=1757792804221"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4d982555-89c2-45f1-a5ae-c25d35ffc17d-Front-Spellshifting-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760822939709",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4d982555-89c2-45f1-a5ae-c25d35ffc17d-Front-thumbnail.png?cachebust=1760822939891"
     }, {
       "code" : "1441364e-7f05-4a0a-a786-31a95fe1b317",
       "deck_limit" : 2,
@@ -1746,12 +1774,12 @@
       "skill_combat" : 1,
       "skill_willpower" : 1,
       "slot" : "Accessory",
-      "text" : "Uses (0 charges).\n[reaction] After you take 1 or more horror: Place 1 charge on Vessel of Agonies (max once per phase).\n[free] If Vessel of Agonies has 5 or more charges on it: Deal 5 damage to an enemy at your location. Then, discard Vessel of Agonies.",
+      "text" : "Uses (0 charges).\n[reaction] After you take 1 or more horror: Place 1 charge on Vessel of Agonies.\n[free] Spend 3 charges: Deal 3 damage to an enemy at your location. You may remove Vessel of Agonies from the game to heal 2 horror from an investigator at your location.",
       "traits" : "Item. Relic. Cursed.",
       "type_code" : "asset",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b895ff2e-d029-46a6-9075-3ae9bd2acb43-Front-Vessel%20of%20Agonies%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792823643",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b895ff2e-d029-46a6-9075-3ae9bd2acb43-Front-thumbnail.png?cachebust=1757792823843"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b895ff2e-d029-46a6-9075-3ae9bd2acb43-Front-Vessel%20of%20Agonies%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812242695",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b895ff2e-d029-46a6-9075-3ae9bd2acb43-Front-thumbnail.png?cachebust=1760812242860"
     }, {
       "code" : "9d384665-fa53-40e8-b297-4386bbfac2fd",
       "cost" : 2,
@@ -1834,12 +1862,12 @@
       "skill_intellect" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Attach to your location. Attached location cannot be investigated.\nAttached location gains \"[action]: Test [willpower] (5). If you succeed, return Inscription of Power to its owner's hand. Any investigator at this location may activate this ability.\"\nEach investigator at the attached location gets +2 [willpower]. Each enemy at the attached location gets -2 fight and -2 evade.",
+      "text" : "Attach to your location. Limit 1 per location. Attached location cannot be investigated.\nAttached location gains: \"[action]: Test [willpower] (5). If you succeed, return Inscription of Power to its owner's hand.\"\nEach investigator at the attached location gets +2 [willpower]. Each enemy at the attached location gets -2 fight and -2 evade.",
       "traits" : "Ritual.",
       "type_code" : "event",
       "xp" : 4,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cdcc7546-3ada-4a26-a7ff-a6b15711cd71-Front-Inscription%20of%20Power%20%284%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792775980",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cdcc7546-3ada-4a26-a7ff-a6b15711cd71-Front-thumbnail.png?cachebust=1757792776462"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cdcc7546-3ada-4a26-a7ff-a6b15711cd71-Front-Inscription%20of%20Power%20%284%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812242055",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/cdcc7546-3ada-4a26-a7ff-a6b15711cd71-Front-thumbnail.png?cachebust=1760812242355"
     }, {
       "code" : "6bbd7f4a-0317-4985-a86c-e441feea3756",
       "cost" : 3,
@@ -1862,24 +1890,24 @@
       "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "survivor",
-      "flavor" : "Sometimes, the house fights back.",
+      "flavor" : "Sometimes, the house fights back.\n",
       "name" : "Nailed Board",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 93,
       "quantity" : 2,
       "slot" : "Hand",
-      "text" : "Nailed Board can be played from your discard pile.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed by 2 or less, discard Nailed Board after the attack resolves.",
+      "text" : "Nailed Board can be played from your discard pile for 1 additional resource.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If you succeed by 2 or less, discard Nailed Board after the attack resolves.",
       "traits" : "Item. Weapon. Melee. Improvised.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed%20Board-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568561962",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-thumbnail.png?cachebust=1759568562173"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-Nailed%20Board-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812244314",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b2166ff3-1155-4209-8055-3b14f864f0bd-Front-thumbnail.png?cachebust=1760812244824"
     }, {
       "code" : "87740f1e-140d-45bb-82d8-e50587c560a8",
       "cost" : 3,
       "deck_limit" : 2,
       "faction_code" : "survivor",
-      "flavor" : "\"Good boy, Rex! Always knows just what I need, even when I don’t.\"",
+      "flavor" : "\"Good boy, Rex! Always knows just what I need, even when I don’t.\"\n",
       "health" : 2,
       "is_unique" : true,
       "name" : "Rex, Trusty Retriever",
@@ -1889,12 +1917,12 @@
       "sanity" : 1,
       "skill_willpower" : 1,
       "slot" : "Ally",
-      "text" : "Uses (4 dog treats).\n[reaction] After a skill test succeeds by 2 or more, if you or another investigator at your location committed a level 0–2 skill card to that test, exhaust Rex, Trusty Retriever and spend 1 dog treat: Return that skill card to its owner’s hand.",
+      "text" : "Uses (4 dog treats).\n[reaction] After a skill test fails by 2 or less, if you or another investigator at your location committed a card to that test, exhaust Rex, Trusty Retriever and spend 1 dog treat: Return that card to its owner’s hand.",
       "traits" : "Ally. Creature.",
       "type_code" : "asset",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/87740f1e-140d-45bb-82d8-e50587c560a8-Front-Rex%20Trusty%20Retriever-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792790488",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/87740f1e-140d-45bb-82d8-e50587c560a8-Front-thumbnail.png?cachebust=1757792790720"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/87740f1e-140d-45bb-82d8-e50587c560a8-Front-Rex%20Trusty%20Retriever-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812246712",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/87740f1e-140d-45bb-82d8-e50587c560a8-Front-thumbnail.png?cachebust=1760812247210"
     }, {
       "code" : "c92b8e57-0233-4238-9e78-4957122171fb",
       "cost" : 3,
@@ -2371,11 +2399,11 @@
       "quantity" : 2,
       "slot" : "Hand x2",
       "subtype_code" : "basicweakness",
-      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up 1 or more hand slots.\n<b>Revelation</b> - Return 2 cards in play that take up 1 or more hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at least one hand slot: Discard Slippery Grip.",
+      "text" : "Slippery Grip can only be included in your deck if your deck contains at least 3 cards that take up one or more hand slots.\n<b>Revelation</b> - Return 2 cards in play that take up 1 or more hand slots to your hand. Put Slippery Grip into play in your threat area. It cannot leave play except by using the ability below.\n[action] Discard a card from your hand that takes up at 1 or more hand slot: Discard Slippery Grip.",
       "traits" : "Curse. Blunder.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery%20Grip-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701659341",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?cachebust=1758701659567"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-Slippery%20Grip-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812239326",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/5a36dddf-e339-4a15-a575-f39b7226a4ef-Front-thumbnail.png?cachebust=1760812240015"
     }, {
       "code" : "648efc85-f82f-4e8c-9145-f104664bd82a",
       "deck_limit" : 2,
