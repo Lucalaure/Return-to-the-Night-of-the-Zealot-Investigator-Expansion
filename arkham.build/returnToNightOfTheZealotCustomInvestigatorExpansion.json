@@ -9,39 +9,11 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-10-18T17:29:00.713",
+    "date_updated" : "2025-10-20T04:29:55.641",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
     "cards" : [ {
-      "code" : "9e67ad62-fa4b-45e5-8e06-d592916da3ff",
-      "cost" : 0,
-      "deck_limit" : 2,
-      "faction_code" : "neutral",
-      "name" : "Focused Field",
-      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
-      "position" : 1,
-      "quantity" : 2,
-      "text" : "Bonded (Archivist's Lens). Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
-      "traits" : "Insight.",
-      "type_code" : "event",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760822938126",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-thumbnail.png?cachebust=1760822938307"
-    }, {
-      "code" : "9fc6cf40-f893-4e2d-b743-fe0692ddeddd",
-      "cost" : 0,
-      "deck_limit" : 2,
-      "faction_code" : "neutral",
-      "name" : "Focused Field",
-      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
-      "position" : 1,
-      "quantity" : 2,
-      "text" : "Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
-      "traits" : "Insight.",
-      "type_code" : "event",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9fc6cf40-f893-4e2d-b743-fe0692ddeddd-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760812236444",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9fc6cf40-f893-4e2d-b743-fe0692ddeddd-Front-thumbnail.png?cachebust=1760812236750"
-    }, {
       "back_flavor" : "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
       "back_name" : "Roland Banks",
       "back_text" : "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <b><i>Illicit</i></b> cards, <b><i>Criminal</i></b> cards or <b><i>Trick</i></b> cards.",
@@ -723,12 +695,12 @@
       "position" : 25,
       "quantity" : 2,
       "skill_wild" : 1,
-      "text" : "Fast. Play only during your turn. As an additional cost to play this card, discard an asset you control.\nPlay an asset from your hand, reducing its cost by X, where X is the printed cost of the discarded asset.",
+      "text" : "Fast. Play only during your turn. As an additional cost to play this card, discard an <b><i>Item</b></i> asset you control.\nPlay an <b><i>Item</b></i> asset from your hand, reducing its cost by X, where X is the printed cost of the discarded asset.",
       "traits" : "Tactic.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-Resourcefulness-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792749283",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-thumbnail.png?cachebust=1757792749499"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-Resourcefulness-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760948994219",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c7426563-ce1d-41bd-9f9f-ddc2117bee60-Front-thumbnail.png?cachebust=1760948994432"
     }, {
       "code" : "012db1e8-d517-4b56-b7e4-6b835194a12c",
       "deck_limit" : 2,
@@ -2419,6 +2391,20 @@
       "type_code" : "asset",
       "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-Turned%20Coat-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701662579",
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/648efc85-f82f-4e8c-9145-f104664bd82a-Front-thumbnail.png?cachebust=1758701662803"
+    }, {
+      "code" : "9e67ad62-fa4b-45e5-8e06-d592916da3ff",
+      "cost" : 0,
+      "deck_limit" : 2,
+      "faction_code" : "neutral",
+      "name" : "Focused Field",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 125,
+      "quantity" : 2,
+      "text" : "Bonded (Archivist's Lens). Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
+      "traits" : "Insight.",
+      "type_code" : "event",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760948991941",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-thumbnail.png?cachebust=1760948992174"
     } ],
     "encounter_sets" : [ ],
     "packs" : [ {
