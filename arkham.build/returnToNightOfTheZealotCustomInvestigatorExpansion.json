@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-10-20T04:29:55.641",
+    "date_updated" : "2025-10-22T05:29:29.919",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -679,12 +679,12 @@
       "quantity" : 2,
       "skill_combat" : 1,
       "skill_intellect" : 1,
-      "text" : "<b>Investigate.</b> You may investigate using [combat] instead [intellect].\nIf this test is successful, take 1 damage and discover 1 additional clue at your location.",
+      "text" : "As an additional cost to play this card, take 1 damage.\n<b>Investigate.</b> Investigate using [combat] instead of [intellect]. If this test is successful, discover 1 additional clue at your location.",
       "traits" : "Tactic. Insight.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c47a41b2-917c-4115-9453-a8282817b133-Front-Pull%20the%20Place%20Apart-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792850233",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c47a41b2-917c-4115-9453-a8282817b133-Front-thumbnail.png?cachebust=1757792850449"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c47a41b2-917c-4115-9453-a8282817b133-Front-Pull%20the%20Place%20Apart-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125360510",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/c47a41b2-917c-4115-9453-a8282817b133-Front-thumbnail.png?cachebust=1761125360750"
     }, {
       "code" : "c7426563-ce1d-41bd-9f9f-ddc2117bee60",
       "cost" : 0,
@@ -1446,11 +1446,11 @@
       "quantity" : 2,
       "skill_combat" : 1,
       "text" : "Limit 1 per investigator.\n[reaction] After an enemy readies at your location: Deal 1 damage to that enemy. If that enemy is defeated by this effect, gain 1 resource. (Limit once per enemy per round.)",
-      "traits" : "Talent. Trick. Illicit.",
+      "traits" : "Talent. Illicit.",
       "type_code" : "asset",
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-Bloodwire%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792838351",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-thumbnail.png?cachebust=1757792838580"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-Bloodwire%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125366431",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/af6ed499-5441-457c-9a42-6c0775f77e5d-Front-thumbnail.png?cachebust=1761125366659"
     }, {
       "code" : "14fe46eb-d4ff-4f45-ba02-6a744e749c72",
       "cost" : 1,
@@ -1489,22 +1489,21 @@
     }, {
       "code" : "f5977b45-a5bf-49cb-a7c3-1df828692c3b",
       "cost" : 1,
-      "deck_limit" : 1,
-      "exceptional" : true,
+      "deck_limit" : 2,
       "faction_code" : "rogue",
       "is_unique" : true,
       "name" : "Stolen Idol of Yoth",
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 72,
-      "quantity" : 1,
+      "quantity" : 2,
       "skill_wild" : 2,
       "slot" : "Accessory",
-      "text" : "Exceptional. Uses (0 secrets).\n[reaction] When you play Stolen Idol of Yoth: Name 1 chaos token from the chaos bag. Record it on this card.\n[reaction] After you reveal a chaos token matching the one named on this card: Place 1 secret on Stolen Idol of Yoth. (Limit once per phase.)\n<b>Forced</b> - When the game ends: Gain 1 additional experience for each secret on Stolen Idol of Yoth (to a maximum of 5).",
-      "traits" : "Item. Relic. Illicit. Blessed.",
+      "text" : "Limit 1 per deck. Uses (0 secrets).\n<b>Forced</b> - When you purchase this card: Name 1 chaos token in the chaos bag and record it in your Campaign Log. Then, search your bonded cards for 1 copy of Issith and add it to your deck (it does not count toward your deck size).\n[reaction] After you reveal the recorded token during a skill test: Place 1 secret on this card. (Limit once per phase.)\n<b>Forced</b> - When the game ends: Gain 1 additional experience for each secret on Stolen Idol of Yoth (to a maximum of 5).",
+      "traits" : "Item. Relic. Illicit. Blessed. Cursed.",
       "type_code" : "asset",
-      "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792770686",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1757792770916"
+      "xp" : 4,
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125369250",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1761125369622"
     }, {
       "code" : "402dd144-75d1-4102-a782-fd716650e40a",
       "cost" : 0,
@@ -1763,12 +1762,12 @@
       "quantity" : 2,
       "skill_intellect" : 1,
       "skill_willpower" : 1,
-      "text" : "<b>Investigate.</b> Investigate using [willpower] instead of [intellect]. When this skill test begins, name a chaos token. Reveal 3 chaos tokens and choose 1 of them to resolve for this test, ignoring the other 2. If the chosen token is the named token, discover 2 additional clues at your location. For each non-[elder_sign] symbol token revealed during this test, lose 1 resource.",
+      "text" : "<b>Investigate.</b> Investigate using [willpower] instead of [intellect]. When this test begins, name a chaos token. Reveal 3 chaos tokens instead of 1. Choose 1 to resolve and ignore the others. If the chosen token matches the named token, and the test is successful, discover 2 additional clues at your location. For each non-[elder_sign] symbol token revealed during this test, lose 1 resource.",
       "traits" : "Spell. Insight.",
       "type_code" : "event",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9d384665-fa53-40e8-b297-4386bbfac2fd-Front-Drawn%20by%20Prophecy%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792833141",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9d384665-fa53-40e8-b297-4386bbfac2fd-Front-thumbnail.png?cachebust=1757792833490"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9d384665-fa53-40e8-b297-4386bbfac2fd-Front-Drawn%20by%20Prophecy%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125364304",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9d384665-fa53-40e8-b297-4386bbfac2fd-Front-thumbnail.png?cachebust=1761125364535"
     }, {
       "code" : "2bbfffba-21a0-4bb0-9c1e-7edc9b1846ea",
       "cost" : 3,
@@ -1955,12 +1954,12 @@
       "position" : 98,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "Play only if there are no enemies at your location.\nAttach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. Any investigator at this location may activate this ability. (Limit once per turn.)\"\n<b>Forced</b> - After an enemy enters the attached location, discard Night Camp.",
+      "text" : "Play only if there are no enemies at your location. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
       "traits" : "Spirit. Improvised.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792777248",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1757792777477"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125361683",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1761125361915"
     }, {
       "code" : "d37ebe80-d340-45ae-a01c-ebac6216cbd9",
       "deck_limit" : 2,
@@ -2007,11 +2006,11 @@
       "skill_agility" : 1,
       "slot" : "Body",
       "text" : "You get +1 health and +1 sanity.\n[reaction] After you move while engaged with an enemy, exhaust Weathered Oilskin: Automatically evade that enemy.",
-      "traits" : "Item. Armor. Blessed.",
+      "traits" : "Item. Armor.",
       "type_code" : "asset",
       "xp" : 1,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered%20Oilskin%20%281%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792767829",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-thumbnail.png?cachebust=1757792768040"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-Weathered%20Oilskin%20%281%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125359344",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f6ff98c1-f744-4d11-a1e6-a3f46d8cc50d-Front-thumbnail.png?cachebust=1761125359582"
     }, {
       "code" : "dd4820e0-c7b0-47dc-bbd4-fc5363e4318d",
       "cost" : 3,
@@ -2400,11 +2399,33 @@
       "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
       "position" : 125,
       "quantity" : 2,
-      "text" : "Bonded (Archivist's Lens). Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Limit once per investigator per round.)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
+      "text" : "Bonded (Archivist's Lens). Attach to your location. Limit 1 per location.\nAttached location gains: “[reaction] When you would draw a card during the investigation phase: Search the top 3 cards of your deck for any card and draw it instead. Shuffle your deck. (Group limit once per round)”\n<b>Forced</b> - At the end of the round, if there are no investigators at attached location: Set Focused Field aside out of play.",
       "traits" : "Insight.",
       "type_code" : "event",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1760948991941",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-thumbnail.png?cachebust=1760948992174"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-Focused%20Field-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125365317",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/9e67ad62-fa4b-45e5-8e06-d592916da3ff-Front-thumbnail.png?cachebust=1761125365547"
+    }, {
+      "bonded_count" : 1,
+      "bonded_to" : "Stolen Idol of Yoth",
+      "code" : "4ac58d97-9521-4609-bcc0-a1d88d494289",
+      "deck_limit" : 0,
+      "enemy_damage" : 1,
+      "enemy_evade" : 2,
+      "enemy_fight" : 3,
+      "enemy_horror" : 1,
+      "faction_code" : "neutral",
+      "health" : 3,
+      "health_per_investigator" : false,
+      "name" : "Issith",
+      "pack_code" : "51a7b66c-983c-4903-9fae-b389689444f1",
+      "position" : 126,
+      "quantity" : 1,
+      "subtype_code" : "weakness",
+      "text" : "Bonded (Stolen Idol of Yoth).\n<b>Prey</b> - Bearer.\nAlert. Hunter.\n<b>Forced</b> - After you reveal the recorded chaos token during a skill test: Ready Issith and resolve its hunter keyword. (Limit once per round.)",
+      "traits" : "Humanoid. Monster. Serpent.",
+      "type_code" : "enemy",
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-Issith-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125368072",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-thumbnail.png?cachebust=1761125368298"
     } ],
     "encounter_sets" : [ ],
     "packs" : [ {
