@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-10-22T05:29:29.919",
+    "date_updated" : "2025-10-28T18:38:33.817",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -353,13 +353,13 @@
       "skill_intellect" : 2,
       "skill_willpower" : 5,
       "subname" : "The Waitress",
-      "text" : "[reaction] When a chaos token is sealed on a card you control:\n- If the sealed token has a negative modifier, deal 1 damage to an enemy at your location. (Limit once per round.)\n- If the sealed token has a positive modifier, discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. You may release a chaos token sealed on a card you control. Then, you may choose and seal a different non-[auto_fail] chaos token on that card.",
+      "text" : "[reaction] When a chaos token is sealed on a card you control (limit once per round):\n- If the sealed token has a negative modifier, deal 1 damage to an enemy at your location.\n- If the sealed token has a positive or neutral modifier, discover 1 clue at your location.\n[elder_sign] effect: +1. You may release a chaos token sealed on a card you control. Then, you may choose and seal a different non-[auto_fail] chaos token on that card.",
       "traits" : "Sorcerer.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-Agnes%20Baker-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757245763306",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-thumbnail.png?cachebust=1757245763529",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-Agnes%20Baker-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1757245764353",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-thumbnail.png?cachebust=1757245764576"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-Agnes%20Baker-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691108019",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Front-thumbnail.png?cachebust=1761691108239",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-Agnes%20Baker-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1761691108967",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43c6f1af-6bfc-40f6-af6c-a597816517b1-Back-thumbnail.png?cachebust=1761691109195"
     }, {
       "code" : "72c24b02-73a3-45d7-b3af-c3caa561e00d",
       "cost" : 3,
@@ -1210,8 +1210,8 @@
       "traits" : "Practiced. Expert.",
       "type_code" : "skill",
       "xp" : 3,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792835241",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-thumbnail.png?cachebust=1757792835475"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-Deduction%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691106828",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/565ba68d-5c47-41a0-9b44-8711846f5890-Front-thumbnail.png?cachebust=1761691107054"
     }, {
       "code" : "a510f888-7351-4f79-a4a6-cb2d609fa8c1",
       "cost" : 2,
@@ -1480,12 +1480,12 @@
       "skill_agility" : 1,
       "skill_wild" : 1,
       "skill_willpower" : 1,
-      "text" : "Fast. \n[reaction] After you evade an enemy, exhaust Pickpocketing: Draw 1 card or gain 1 resource. If you succeeded by 1 or more, do both instead. Once per turn, if you succeed by 2 or more, you may take an additional action this turn.",
+      "text" : "Fast.\nYou get +1 [agility] during evasion attempts.\n[reaction] After you evade an enemy, exhaust Pickpocketing: Draw 1 card or gain 1 resource. If you succeeded by 2 or more, do both instead. Once per turn, if you succeed by 3 or more, you may take an additional action this turn.",
       "traits" : "Talent. Illicit.",
       "type_code" : "asset",
       "xp" : 5,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878670268",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-thumbnail.png?cachebust=1758878670636"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-Pickpocketing%20%285%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691113344",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/dccfc996-aecd-4271-9bcc-52ca941382f6-Front-thumbnail.png?cachebust=1761691113571"
     }, {
       "code" : "f5977b45-a5bf-49cb-a7c3-1df828692c3b",
       "cost" : 1,
@@ -1498,12 +1498,13 @@
       "quantity" : 2,
       "skill_wild" : 2,
       "slot" : "Accessory",
-      "text" : "Limit 1 per deck. Uses (0 secrets).\n<b>Forced</b> - When you purchase this card: Name 1 chaos token in the chaos bag and record it in your Campaign Log. Then, search your bonded cards for 1 copy of Issith and add it to your deck (it does not count toward your deck size).\n[reaction] After you reveal the recorded token during a skill test: Place 1 secret on this card. (Limit once per phase.)\n<b>Forced</b> - When the game ends: Gain 1 additional experience for each secret on Stolen Idol of Yoth (to a maximum of 5).",
+      "text" : "Limit 1 per deck. Uses (0 secrets).\n<b>Forced</b> - When you purchase this card: Name 1 chaos token in the chaos bag and record it in your Campaign Log. Then, search your bonded cards for 1 copy of Issith and add it to your deck (it does not count toward your deck size).\n[reaction] After you reveal the recorded token during a skill test: Place 1 secret on this card. Then, if Stolen Idol of Yoth has 5 or more secrets on it, place it in the victory display. (Limit once per phase.)",
       "traits" : "Item. Relic. Illicit. Blessed. Cursed.",
       "type_code" : "asset",
+      "victory" : 5,
       "xp" : 4,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125369250",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1761125369622"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691112210",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1761691112461"
     }, {
       "code" : "402dd144-75d1-4102-a782-fd716650e40a",
       "cost" : 0,
@@ -1946,7 +1947,7 @@
       "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/7cad32f3-a710-4d4f-92a2-90015d53682d-Front-thumbnail.png?cachebust=1757792751490"
     }, {
       "code" : "2419ec6d-41ff-4046-9d15-c97cba10b794",
-      "cost" : 3,
+      "cost" : 0,
       "deck_limit" : 2,
       "faction_code" : "survivor",
       "name" : "Night Camp",
@@ -1954,12 +1955,12 @@
       "position" : 98,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "Play only if there are no enemies at your location. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
+      "text" : "As an additional cost to play Night Camp, spend 1[per_investigator] resource. Play only if there are no enemies at your location. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
       "traits" : "Spirit. Improvised.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125361683",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1761125361915"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691111219",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1761691111454"
     }, {
       "code" : "d37ebe80-d340-45ae-a01c-ebac6216cbd9",
       "deck_limit" : 2,
