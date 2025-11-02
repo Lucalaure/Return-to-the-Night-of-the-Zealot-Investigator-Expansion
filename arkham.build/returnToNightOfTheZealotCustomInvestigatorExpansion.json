@@ -9,7 +9,7 @@
     "banner_url" : "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
     "types" : [ "player_cards" ],
     "status" : "complete",
-    "date_updated" : "2025-10-28T18:38:33.817",
+    "date_updated" : "2025-11-02T13:59:54.313",
     "generator" : "Zoop 2.5, AHLCG plugin 9.7, Strange Eons 3.3.4241"
   },
   "data" : {
@@ -90,13 +90,13 @@
       "skill_intellect" : 3,
       "skill_willpower" : 3,
       "subname" : "The Fed",
-      "text" : "[reaction] After you successfully investigate: Place 1 ammo token on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. You may spend 1 ammo from an asset you control to discover 1 clue at your location.",
+      "text" : "[reaction] After you successfully investigate: Place 1 ammo token on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. If this skill test is successful during an attack, discover a clue at your location.",
       "traits" : "Agency. Detective.",
       "type_code" : "investigator",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759838765405",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1759838765594",
-      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1759838765801",
-      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1759838766142"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109982987",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Front-thumbnail.png?cachebust=1762109983202",
+      "back_image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-Roland%20Banks-resolution-300-compressionquality-1.00-bleed--1.0-Back.jpg?cachebust=1762109984084",
+      "back_thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d545b38e-f3cf-486a-a026-12ed94b33453-Back-thumbnail.png?cachebust=1762109984296"
     }, {
       "code" : "43433775-620b-4e10-8583-253eb3f3e6c2",
       "cost" : 3,
@@ -112,11 +112,11 @@
       "skill_wild" : 1,
       "skill_willpower" : 1,
       "slot" : "Hand",
-      "text" : "Roland Banks deck only. Advanced.\nUses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. As an additional cost to initiate this ability, you may place 1 of your clues on your location to have this attack deal +2 damage. If this attack defeats an enemy and you have no clues, discover 1 clue at your location.",
+      "text" : "Roland Banks deck only. Advanced.\nUses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. As an additional cost to initiate this ability, you may place 1 of your clues on your location to have this attack deal +2 damage. If this attack defeats an enemy, you may immediately <b>Investigate</b> your location.",
       "traits" : "Item. Weapon. Firearm.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43433775-620b-4e10-8583-253eb3f3e6c2-Front-Roland%27s%20.38%20Special-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758661822597",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43433775-620b-4e10-8583-253eb3f3e6c2-Front-thumbnail.png?cachebust=1758661822799"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43433775-620b-4e10-8583-253eb3f3e6c2-Front-Roland%27s%20.38%20Special-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109991055",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/43433775-620b-4e10-8583-253eb3f3e6c2-Front-thumbnail.png?cachebust=1762109991266"
     }, {
       "code" : "3497e84b-9698-4d54-937c-65096eb6c82c",
       "deck_limit" : 1,
@@ -214,13 +214,14 @@
       "position" : 6,
       "quantity" : 1,
       "restrictions" : "investigator:7b48d829-0095-4b3e-a2c3-8fa609d111e2",
+      "slot" : "Hand",
       "subname" : "John Dee Translation",
       "subtype_code" : "weakness",
       "text" : "Daisy Walker deck only. Advanced.\n<b>Revelation</b> - Put The Necronomicon into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.  \n<b>Forced</b> - The first time you draw an encounter card each round: Either move 1 horror from The Necronomicon to Daisy Walker, or draw an additional encounter card. If you drew an additional encounter card, remove 1 horror from The Necronomicon. Then, if The Necronomicon has no horror on it, discard it. ",
       "traits" : "Item. Tome. Cursed.",
       "type_code" : "asset",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The%20Necronomicon-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758701665450",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?cachebust=1758701665677"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-The%20Necronomicon-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109986870",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4b3bb0d8-9207-4503-9842-172a59d802d6-Front-thumbnail.png?cachebust=1762109987082"
     }, {
       "back_flavor" : "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
       "back_name" : "\"Skids\" O'Toole",
@@ -308,11 +309,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:48bd399e-1d7d-4b95-8a88-1145f95eae14",
       "subtype_code" : "weakness",
-      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it as debt. It cannot leave play while it has 1 or more resources on it.\n<b>Forced</b> - Each time you play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
+      "text" : "\"Skids\" O'Toole deck only. Advanced.\n<b>Revelation</b> - Put Hospital Debts into play in your threat area, with 3 resources on it as debt. It cannot leave play while it has 1 or more resources on it.\n<b>Forced</b> - When you would play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
       "traits" : "Task.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1758878668352",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1758878668574"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-Hospital%20Debts-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109993755",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/45be196b-4f6a-494d-85c9-3b2521e7d557-Front-thumbnail.png?cachebust=1762109993958"
     }, {
       "back_flavor" : "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
       "back_name" : "Agnes Baker",
@@ -391,11 +392,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
       "subtype_code" : "weakness",
-      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When you would succeed at a skill test on an ability printed on a <i><b>Spell</i></b> card you control, reveal an additional token for that test. If this effect causes you to succeed the test, discard Dark Memory. (Limit once per test.)\n",
+      "text" : "Agnes Baker deck only. Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area.\n<b>Forced</b> - When you would succeed at a skill test on an ability printed on a <i><b>Spell</i></b> card you control, reveal an additional token for that test. Then, if this test is successful, discard Dark Memory. (Limit once per test.)\n",
       "traits" : "Curse. Omen.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568560665",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1759568561021"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-Dark%20Memory-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109989276",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/b1198eb7-0345-4e57-903c-a07eb3f88fc9-Front-thumbnail.png?cachebust=1762109989484"
     }, {
       "back_flavor" : "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
       "back_name" : "Wendy Adams",
@@ -479,11 +480,11 @@
       "quantity" : 1,
       "restrictions" : "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
       "subtype_code" : "weakness",
-      "text" : "Wendy Adams deck only. Advanced.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area.\n<b>Forced</b> - When a card you control is discarded: Search your deck for all other copies of that card and discard them.\n[action] Take 1 horror for every 10 cards in your discard pile (<i>rounded down</i>): If there are fewer than 20 cards in your discard pile, shuffle \n   Abandoned and Alone back into your deck. Otherwise, \n                     discard it.",
+      "text" : "Wendy Adams deck only. Advanced.\n<b>Revelation</b> - Put Abandoned and Alone into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.\n<b>Forced</b> - After you trigger Wendy Adams's [reaction] ability: Move 1 horror from Abandoned and Alone to Wendy Adams. Then, if Abandoned and Alone has no horror on \n                  it, discard it.",
       "traits" : "Curse.",
       "type_code" : "treachery",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1759568546107",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1759568546327"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-Abandoned%20and%20Alone-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109988109",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2e915f87-3ee3-4851-9cd1-9169910a6e14-Front-thumbnail.png?cachebust=1762109988324"
     }, {
       "back_flavor" : "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered? Was it time for you to learn about other worlds? Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself?\n",
       "back_name" : "Yithian",
@@ -1497,14 +1498,13 @@
       "position" : 72,
       "quantity" : 2,
       "skill_wild" : 2,
-      "slot" : "Accessory",
-      "text" : "Limit 1 per deck. Uses (0 secrets).\n<b>Forced</b> - When you purchase this card: Name 1 chaos token in the chaos bag and record it in your Campaign Log. Then, search your bonded cards for 1 copy of Issith and add it to your deck (it does not count toward your deck size).\n[reaction] After you reveal the recorded token during a skill test: Place 1 secret on this card. Then, if Stolen Idol of Yoth has 5 or more secrets on it, place it in the victory display. (Limit once per phase.)",
+      "text" : "Limit 1 per deck. Uses (0 secrets).\nWhen you purchase this card, choose 1 chaos token in the chaos bag and record <i>[chosen token] has been marked by Yoth</i> in your campaign log. Then, search your bonded cards for 1 copy of Issith and add it to your deck. It does not count toward your deck size.\n[reaction] After you reveal the chosen token during a skill test: Place 1 secret on this card. Then, if Stolen Idol of Yoth has 5 or more secrets on it, place it in the victory display. (Limit once per phase.)",
       "traits" : "Item. Relic. Illicit. Blessed. Cursed.",
       "type_code" : "asset",
-      "victory" : 5,
+      "victory" : 2,
       "xp" : 4,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691112210",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1761691112461"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-Stolen%20Idol%20of%20Yoth%20%283%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109990231",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/f5977b45-a5bf-49cb-a7c3-1df828692c3b-Front-thumbnail.png?cachebust=1762109990444"
     }, {
       "code" : "402dd144-75d1-4102-a782-fd716650e40a",
       "cost" : 0,
@@ -1955,12 +1955,12 @@
       "position" : 98,
       "quantity" : 2,
       "skill_willpower" : 1,
-      "text" : "As an additional cost to play Night Camp, spend 1[per_investigator] resource. Play only if there are no enemies at your location. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
+      "text" : "Play only if there are no enemies at your location. As an additional cost to play Night Camp, spend 1[per_investigator] resource. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
       "traits" : "Spirit. Improvised.",
       "type_code" : "event",
       "xp" : 0,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761691111219",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1761691111454"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-Night%20Camp-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109992124",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/2419ec6d-41ff-4046-9d15-c97cba10b794-Front-thumbnail.png?cachebust=1762109992328"
     }, {
       "code" : "d37ebe80-d340-45ae-a01c-ebac6216cbd9",
       "deck_limit" : 2,
@@ -2096,12 +2096,12 @@
       "quantity" : 2,
       "skill_agility" : 1,
       "skill_intellect" : 1,
-      "text" : "Fast. Play after you successfully evade an  enemy. \nAttach Planted Evidence to that enemy. Limit 1 per enemy.\n[reaction] If an investigator at this enemy’s location discovers 1 or more clues: Discover 1 additional clue. (Limit once per round.)",
+      "text" : "Fast. Play after you successfully evade an  enemy. Attach Planted Evidence to that enemy. Limit 1 per enemy.\nAttached enemy gains: \"[reaction] After you discover 1 or more clues from your location and this enemy is exhausted: Discover 1 additional clue. (Limit once per round.)\" ",
       "traits" : "Illicit. Trick.",
       "type_code" : "event",
       "xp" : 2,
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-Planted%20Evidence%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1757792825712",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-thumbnail.png?cachebust=1757792825908"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-Planted%20Evidence%20%282%29-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109981092",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/d3d5dc70-58ba-4cc3-9a02-70cfaf3c4a45-Front-thumbnail.png?cachebust=1762109981294"
     }, {
       "code" : "04045206-a2ee-445d-9c97-36e7a9aa32e0",
       "cost" : 2,
@@ -2422,11 +2422,11 @@
       "position" : 126,
       "quantity" : 1,
       "subtype_code" : "weakness",
-      "text" : "Bonded (Stolen Idol of Yoth).\n<b>Prey</b> - Bearer.\nAlert. Hunter.\n<b>Forced</b> - After you reveal the recorded chaos token during a skill test: Ready Issith and resolve its hunter keyword. (Limit once per round.)",
+      "text" : "Bonded (Stolen Idol of Yoth).\n<b>Prey</b> - Bearer.\nAlert. Hunter.\n<b>Forced</b> - After you reveal the chosen chaos token during a skill test: Ready Issith and resolve its hunter keyword. (Limit once per round.)",
       "traits" : "Humanoid. Monster. Serpent.",
       "type_code" : "enemy",
-      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-Issith-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1761125368072",
-      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-thumbnail.png?cachebust=1761125368298"
+      "image_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-Issith-resolution-300-compressionquality-1.00-bleed--1.0-Front.jpg?cachebust=1762109982074",
+      "thumbnail_url" : "https://arkham-horror-rtnotz-investigator-expansion.s3.eu-north-1.amazonaws.com/4ac58d97-9521-4609-bcc0-a1d88d494289-Front-thumbnail.png?cachebust=1762109982290"
     } ],
     "encounter_sets" : [ ],
     "packs" : [ {
