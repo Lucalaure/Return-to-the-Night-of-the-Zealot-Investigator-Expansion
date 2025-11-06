@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
+    "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
+    "description": "A full rework of the five Core Set investigators, along with a complete support set to reinforce early archetypes from the Core through The Forgotten Age. This set includes 124 new cards total, 6 investigators, each with unique signature cards, 9 level 0 and 9 upgraded cards for each class, 12 neutral cards and 3 basic weaknesses.",
+    "author": "seymour9297",
+    "language": "en",
+    "banner_url": "https://i.ibb.co/NnCjYZqj/Chat-GPT-Image-Jun-2-2025-02-58-11-AM.png",
+    "types": [
+      "player_cards",
+      "investigators"
+    ],
+    "status": "final",
+    "date_updated": "2025-11-02T19:47:36.961Z",
+    "generator": "Arkham Card Maker 3.9",
+    "external_link": ""
+  },
+  "banner_base64": "",
+  "cards": [
+    {
+      "filename": "001.RolandBanks.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "002.Rolands38Special.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "003.CoverUp.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "004.DaisyWalker.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "009.HospitalDebts.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "008.OntheLam.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "007.SkidsOToole.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "006.TheNecronomicon.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "005.DaisysToteBag.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "010.AgnesBaker.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "016.Yithian.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "015.AbandonedandAlone.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "014.WendysAmulet.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "013.WendyAdams.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "012.DarkMemory.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "011.HeirloomofHyperborea.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "017.ThirstforKnowledge.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "018.ForgottenKnowledge.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "019.Ithaca37.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "020.MarkedforExposure.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "021.PatrolOfficer.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "022.ArmorPiercingRounds.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "028.GearAssignment.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "027.Technician.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "026.Looting.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "024.PullthePlaceApart.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "025.Resourcefulness.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "023.LethalLesson.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "029.Ithaca37.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "030.MarkedforExposure.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "031.TrenchKnife.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "032.WardetchedSkin.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "033.EvidenceinBlood.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "034.SisterAurelia.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "040.FortunateFind.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "046.SeedofClarity.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "045.SharedInsight.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "039.FlightorFright.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "038.Bookmark.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "044.Inspect.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "037.EldritchInsight.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "036.Bandolier.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "042.SlipBy.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "043.TwoStepsAhead.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "041.ProofofConcept.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "035.DualWielding.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "047.RevelationofPurpose.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "048.SlipstreamTheorem.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "049.FortunateFind.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "050.PatternRecognition.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "051.SeekingKnowledge.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "052.ArchivistsLens.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "058.FlashofWealth.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "064.RockBottom.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "070.Burglary.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "069.Bloodwire.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "063.KeepBlastin.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "057.MollyBrown.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "056.Informant.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "062.SmokeBomb.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "068.Negotiations.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "067.LastDitchEffort.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "061.LuckyStrike.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "055.Deduction.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "054.IntheKnow.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "060.LastDitchEffort.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "066.InsideJob.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "065.BribedSilence.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "059.Intimidate.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "053.EldritchInsight.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "071.Pickpocketing.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "077.SoporificGrimoire.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "083.BindthePulseofTime.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "084.PriceofClarity.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "078.TattoosoftheVoid.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "072.StolenIdolofYoth.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "073.FlashofWealth.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "079.BurdenofSouls.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "085.ForbiddenKnowledge.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "080.InscriptionofPower.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "086.VesselofAgonies.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "074.EyesThroughtheVeil.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "075.MasterofSecrets.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "081.Spellshifting.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "087.DrawnbyProphecy.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "088.BlessingoftheOccult.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "082.Imbue.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "076.ProfessorCyrusDelane.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "094.RexTrustyRetriever.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "093.NailedBoard.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "100.GamblersResolve.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "099.FromtheAshes.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "105.ErgonomicGrip.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "106.PlantedEvidence.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "104.StrayCat.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "098.NightCamp.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "092.LumberjacksAxe.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "091.InscriptionofPower.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "097.ItAintOver.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "103.FrayedToken.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "102.CleartheDeck.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "096.ErgonomicGrip.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "090.Fearless.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "089.EyesThroughtheVeil.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "095.BlindRage.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "101.WeatheredOilskin.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "112.CollateralDamage.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "118.TheThirteenthAppendix.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "124.TurnedCoat.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "123.SlipperyGrip.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "117.TheElderSign.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "111.BoundtoYou.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "110.Bait.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "116.ReversalofSigns.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "122.BrokenSeal.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "121.RecursiveDirective.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "115.PactofEndurance.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "109.TenaciousResolve.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "108.ButterflyEffect.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "114.OldSchematics.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "120.Kukri.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "126.Issith.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "125.FocusedField.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "119.Bait.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "113.ForgottenBlueprint.card",
+      "version": "2.0"
+    },
+    {
+      "filename": "107.JunkyardInstinct.card",
+      "version": "2.0"
+    }
+  ],
+  "encounter_sets": []
+}
