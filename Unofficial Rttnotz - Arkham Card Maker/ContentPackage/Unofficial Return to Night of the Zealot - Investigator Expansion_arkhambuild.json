@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-06T05:28:28.882958Z",
+    "date_updated": "2025-11-06T05:45:23.423576Z",
     "generator": "Arkham Card Maker 3.1.2"
   },
   "data": {
@@ -40,7 +40,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "Roland Banks",
         "back_subname": "The Fed",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <trait>Illicit</trait> cards, <trait>Criminal</trait> cards or <trait>Trick</trait> cards.\n",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No Mystic cards ([mystic]), <trait>Illicit</trait> cards, <trait>Criminal</trait> cards or <trait>Trick</trait> cards.\n",
         "back_flavor": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
         "deck_options": [
           {
@@ -667,7 +667,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "Agnes Baker",
         "back_subname": "The Waitress",
-        "back_text": "<b>Deck Size</b>: 25.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, cards with \"seal\" level 0-5, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.\n",
+        "back_text": "<b>Deck Size</b>: 25.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, cards with \"seal\" level 0-5, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.\n",
         "back_flavor": "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
         "deck_options": [
           {
@@ -692,7 +692,7 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:72c24b02-73a3-45d7-b3af-c3caa561e00d, card:b1198eb7-0345-4e57-903c-a07eb3f88fc9, random:subtype:basicweakness",
+        "deck_requirements": "size:25, card:72c24b02-73a3-45d7-b3af-c3caa561e00d, card:b1198eb7-0345-4e57-903c-a07eb3f88fc9, random:subtype:basicweakness",
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419465/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_original.jpg",
         "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419467/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_original.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419465/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_thumbnail.jpg",
@@ -809,7 +809,7 @@
         "exceptional": false,
         "myriad": false,
         "exile": false,
-        "deck_limit": 1
+        "deck_limit": 2
       },
       {
         "code": "12963369-4690-4fef-8b1d-8789d3478659",
@@ -1256,7 +1256,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "Yithian",
         "back_subname": "A Curious Explorer",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-2* from any class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: Thirst for Knowledge, Forgotten Knowledge, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include cards with at least 4 unique <trait>Traits</trait>, with a minimum of 5 cards for each of those <trait>Traits</trait> (<i>20 cards total</i>).\n<b>Additional Options</b>: * Increase the level limit for cards by (X – 4) (to a maximum of 3), where X is the number of unique traits that are included on at least 5 of your cards in your deck\n\n",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Cards level 0-2* from any class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Thirst for Knowledge, Forgotten Knowledge, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include cards with at least 4 unique <trait>Traits</trait>, with a minimum of 5 cards for each of those <trait>Traits</trait> (<i>20 cards total</i>).\n<b>Additional Options</b>: * Increase the level limit for cards by (X – 4) (to a maximum of 3), where X is the number of unique traits that are included on at least 5 of your cards in your deck\n\n",
         "back_flavor": "As a child, you never thought of yourself as an adventurous Yithian, like Yithian the Great, Achillythian or even Neilythian Clawstrong, but you knew everything about their prowesses. Knowing things was your thing. Never enough knowledge could satisfy your mind. So you kept learning until eventually you learned everything there was to know about your world. What’s next then, you wondered？ Was it time for you to learn about other worlds？ Will your infinite thirst for knowledge finally make a adventurous Yithian explorer of yourself？\n",
         "deck_options": [
           {
@@ -1735,7 +1735,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "\"Skids\" O'Toole",
         "back_subname": "The Ex-Con",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, up to five Guardian ([guardian]) cards level 0-1, up to five Survivor ([survivor]) cards level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: On the Lam, Hospital Debts, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <trait>Police</trait> cards.\n",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, up to five Guardian ([guardian]) cards level 0-1, up to five Survivor ([survivor]) cards level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): On the Lam, Hospital Debts, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <trait>Police</trait> cards.\n",
         "back_flavor": "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
         "deck_options": [
           {
@@ -2368,7 +2368,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "Daisy Walker",
         "back_subname": "The Librarian",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, up to five Mystic ([mystic]) cards level 0-1, up to five Survivor ([survivor]) cards level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: Daisy’s Tote Bag, The Necronomicon (John Dee Translation), 1 random basic weakness.\n",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, up to five Mystic ([mystic]) cards level 0-1, up to five Survivor ([survivor]) cards level 0-1, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Daisy’s Tote Bag, The Necronomicon (John Dee Translation), 1 random basic weakness.\n",
         "back_flavor": "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held...",
         "deck_options": [
           {
@@ -3002,7 +3002,7 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "back_name": "Wendy Adams",
         "back_subname": "The Urchin",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-2, <trait>Fortune</trait> cards level 0-3, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)【】: Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.\n",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-2, <trait>Fortune</trait> cards level 0-3, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.\n",
         "back_flavor": "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
         "deck_options": [
           {

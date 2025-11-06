@@ -98,8 +98,9 @@
     "subtitle": "The Waitress",
     "class": "潜修者",
     "card_back": {
-      "other": "【Deck Size】: 25.\n【Deckbuilding Options】: Mystic cards (🧘) level 0-5, cards with \"seal\" level 0-5, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size)【】: Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.",
-      "story": "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became."
+      "other": "【Deckbuilding Options】: Mystic cards (🧘) level 0-5, cards with \"seal\" level 0-5, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size): Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.",
+      "story": "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
+      "size": 25
     },
     "type": "调查员背面",
     "illustrator": "",

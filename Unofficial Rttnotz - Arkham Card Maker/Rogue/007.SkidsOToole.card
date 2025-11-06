@@ -98,8 +98,9 @@
     "subtitle": "The Ex-Con",
     "class": "流浪者",
     "card_back": {
-      "other": "【Deck Size】: 30.\n【Deckbuilding Options】: Rogue cards (🚶) level 0-5, up to five Guardian (🛡️) cards level 0-1, up to five Survivor (🏕️) cards level 0-1, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size)【】: On the Lam, Hospital Debts, 1 random basic weakness.\n【Deckbuilding Restrictions】: No {Police} cards.",
-      "story": "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers."
+      "other": "【Deckbuilding Options】: Rogue cards (🚶) level 0-5, up to five Guardian (🛡️) cards level 0-1, up to five Survivor (🏕️) cards level 0-1, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size): On the Lam, Hospital Debts, 1 random basic weakness.\n【Deckbuilding Restrictions】: No {Police} cards.",
+      "story": "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
+      "size": 30
     },
     "type": "调查员背面",
     "illustrator": "",

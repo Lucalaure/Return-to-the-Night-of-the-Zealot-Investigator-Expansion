@@ -99,8 +99,9 @@
     "subtitle": "The Fed",
     "class": "守护者",
     "card_back": {
-      "other": "【Deck Size】: 30.\n【Deckbuilding Options】: Guardian cards (🛡️) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size)【】: Roland's .38 Special, Cover Up, 1 random basic weakness.\n【Deckbuilding Restrictions】: No Mystic cards (🧘), {Illicit} cards, {Criminal} cards or {Trick} cards.",
-      "story": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand."
+      "other": "【Deckbuilding Options】: Guardian cards (🛡️) level  0-5, cards with \"investigate\", and/or \"clue\" level 0-2, up to five other level 0 cards from any other class, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness.\n【Deckbuilding Restrictions】: No Mystic cards (🧘), {Illicit} cards, {Criminal} cards or {Trick} cards.",
+      "story": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
+      "size": 30
     },
     "type": "调查员背面",
     "illustrator": "",

@@ -98,8 +98,9 @@
     "subtitle": "The Librarian",
     "class": "探求者",
     "card_back": {
-      "other": "【Deck Size】: 30.\n【Deckbuilding Options】: Seeker cards (🔍) level 0-5, up to five Mystic (🧘) cards level 0-1, up to five Survivor (🏕️) cards level 0-1, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size)【】: Daisy’s Tote Bag, The Necronomicon (John Dee Translation), 1 random basic weakness.",
-      "story": "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held..."
+      "other": "【Deckbuilding Options】: Seeker cards (🔍) level 0-5, up to five Mystic (🧘) cards level 0-1, up to five Survivor (🏕️) cards level 0-1, Neutral cards level 0-5.\n【Deckbuilding Requirements】 (do not count toward deck size): Daisy’s Tote Bag, The Necronomicon (John Dee Translation), 1 random basic weakness.",
+      "story": "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held...",
+      "size": 30
     },
     "type": "调查员背面",
     "illustrator": "",
