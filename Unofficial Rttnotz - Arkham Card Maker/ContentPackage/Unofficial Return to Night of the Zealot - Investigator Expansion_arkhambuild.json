@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-06T05:45:23.423576Z",
+    "date_updated": "2025-11-06T17:46:47.386603Z",
     "generator": "Arkham Card Maker 3.1.2"
   },
   "data": {
@@ -32,7 +32,7 @@
         "health": 9,
         "sanity": 5,
         "text": "[reaction] After you successfully investigate: Place 1 ammo token on a <trait>Firearm</trait> asset you control. (Limit once per round.)\n[elder_sign] effect: +1. If this skill test is successful during an attack, discover a clue at your location.",
-        "flavor": "\"If I stir up trouble, Sheriff, it will be because there's trouble to stir up.\"",
+        "flavor": "\"If I stir up trouble, Sheriff, it will be because there's trouble to stir up.”",
         "deck_limit": 1,
         "double_sided": true,
         "is_unique": true,
@@ -105,7 +105,7 @@
           }
         ],
         "deck_requirements": "size:30, card:43433775-620b-4e10-8583-253eb3f3e6c2, card:3497e84b-9698-4d54-937c-65096eb6c82c, random:subtype:basicweakness",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419409/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_original.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762468769/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_original.jpg",
         "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419412/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_original.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419409/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_thumbnail.jpg",
         "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419413/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_thumbnail.jpg",
@@ -809,7 +809,7 @@
         "exceptional": false,
         "myriad": false,
         "exile": false,
-        "deck_limit": 2
+        "deck_limit": 1
       },
       {
         "code": "12963369-4690-4fef-8b1d-8789d3478659",
@@ -3160,7 +3160,7 @@
         "subname": "",
         "type_code": "asset",
         "faction_code": "survivor",
-        "text": "Uses (4 dog treats).\n[reaction] After a skill test fails by 2 or less, if you or another investigator at your location committed a card to that test, exhaust Rex, Trusty Retriever and spend 1 dog treat: Return that card to its owner’s hand.",
+        "text": "Uses (3 dog treats).\n[reaction] After an investigator at your location fails a skill test by 2 or less, exhaust Rex, Trusty Retriever and spend 1 dog treat: That investigator searches the top 3 cards of their deck for a card, draws it, and shuffles their deck.",
         "flavor": "\"Good boy, Rex! Always knows just what I need, even when I don’t.\"",
         "is_unique": true,
         "illustrator": "",
@@ -3172,7 +3172,7 @@
         "slot": "Ally",
         "traits": "Ally. Creature.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419689/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762469063/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419690/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,

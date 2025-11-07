@@ -19,7 +19,7 @@
   "horror": 1,
   "slots": "盟友",
   "slots2": null,
-  "body": "Uses (4 dog treats).\n⭕ After a skill test fails by 2 or less, if you or another investigator at your location committed a card to that test, exhaust Rex, Trusty Retriever and spend 1 dog treat: Return that card to its owner’s hand.",
+  "body": "Uses (3 dog treats).\n⭕ After an investigator at your location fails a skill test by 2 or less, exhaust Rex, Trusty Retriever and spend 1 dog treat: That investigator searches the top 3 cards of their deck for a card, draws it, and shuffles their deck.",
   "flavor": "\"Good boy, Rex! Always knows just what I need, even when I don’t.\"",
   "illustrator": "",
   "card_number": "94",
