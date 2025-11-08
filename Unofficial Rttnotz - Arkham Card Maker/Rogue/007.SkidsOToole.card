@@ -116,14 +116,14 @@
   "deck_options": [
     {
       "id": "option_1",
-      "faction": [
-        "rogue",
-        "neutral"
+      "trait": [
+        "Police"
       ],
       "level": {
         "min": 0,
         "max": 5
-      }
+      },
+      "not": true
     },
     {
       "id": "option_2",
@@ -149,14 +149,14 @@
     },
     {
       "id": "option_4",
-      "trait": [
-        "Police"
+      "faction": [
+        "rogue",
+        "neutral"
       ],
       "level": {
         "min": 0,
         "max": 5
-      },
-      "not": true
+      }
     }
   ],
   "picture_layout": {
@@ -176,5 +176,6 @@
     "flip_horizontal": false,
     "flip_vertical": false
   },
-  "subtype": "平行"
+  "subtype": "平行",
+  "content_hash": "cea20188e745d0b29ba4c77ad48ee55110ecc8489615ec64b2ed10fa9f8fc3e0"
 }

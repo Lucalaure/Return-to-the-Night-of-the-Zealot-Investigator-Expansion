@@ -118,13 +118,18 @@
     {
       "id": "option_1",
       "faction": [
-        "guardian",
-        "neutral"
+        "mystic"
+      ],
+      "trait": [
+        "Illicit",
+        "Criminal",
+        "Trick"
       ],
       "level": {
         "min": 0,
         "max": 5
-      }
+      },
+      "not": true
     },
     {
       "id": "option_2",
@@ -152,28 +157,15 @@
       "limit": 5
     },
     {
-      "id": "option_4",
-      "faction": [
-        "mystic"
-      ],
-      "level": {
-        "min": 0,
-        "max": 5
-      },
-      "not": true
-    },
-    {
       "id": "option_5",
-      "trait": [
-        "Illicit",
-        "Criminal",
-        "Trick"
+      "faction": [
+        "guardian",
+        "neutral"
       ],
       "level": {
         "min": 0,
         "max": 5
-      },
-      "not": true
+      }
     }
   ],
   "picture_layout": {
@@ -193,5 +185,6 @@
     "flip_horizontal": false,
     "flip_vertical": false
   },
-  "subtype": "平行"
+  "subtype": "平行",
+  "content_hash": "b4b776c27639f3a6400e611ff83e5075e01bc73bef9f8fde7c667641b00ce580"
 }
