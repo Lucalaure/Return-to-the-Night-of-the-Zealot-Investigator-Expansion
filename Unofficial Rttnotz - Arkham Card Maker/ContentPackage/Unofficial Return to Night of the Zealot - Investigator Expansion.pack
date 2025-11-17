@@ -20,21 +20,23 @@
     {
       "filename": "Guardian/001.RolandBanks.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762468768/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front.jpg",
-      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419410/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back.jpg",
-      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762468769/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_original.jpg",
-      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419412/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_original.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415025/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415029/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back.jpg",
+      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415026/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_original.jpg",
+      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415031/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419409/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419413/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_thumbnail.jpg"
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419413/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_thumbnail.jpg",
+      "uploaded_hash": "b39a4a1a0c754b65062760180c9bb6bdadcec60cdf10537a44e6e40a24019622"
     },
     {
       "filename": "Guardian/002.Rolands38Special.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419414/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415036/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419414/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "ab93533d597935cb2c2f3a07177ab9b62408d38347f821ede7a7bdc9603ce595"
     },
     {
       "filename": "Guardian/003.CoverUp.card",
@@ -48,11 +50,12 @@
     {
       "filename": "Guardian/019.Ithaca37.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419418/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/019.Ithaca37_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415038/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/019.Ithaca37_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419418/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/019.Ithaca37_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "b6fe4a269759151eb7056ec275bd8fb74d1c43c4a7d9a6bb9697eb37fe3c1657"
     },
     {
       "filename": "Guardian/020.MarkedforExposure.card",
@@ -79,7 +82,8 @@
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419426/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/022.ArmorPiercingRounds_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "8b4dc09343557ad57ed8b87d458cc891ff6852bb97734eea1fc06ca3500297c7"
     },
     {
       "filename": "Guardian/023.LethalLesson.card",
@@ -138,11 +142,12 @@
     {
       "filename": "Guardian/029.Ithaca37.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419444/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/029.Ithaca37_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415043/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/029.Ithaca37_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419444/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/029.Ithaca37_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "c65dc31eb901534e71d79c8bf3443d72fc5ec8a6275287450f376e68dc2724d4"
     },
     {
       "filename": "Guardian/030.MarkedforExposure.card",
@@ -210,48 +215,53 @@
     {
       "filename": "Mystic/010.AgnesBaker.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419463/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front.jpg",
-      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419466/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back.jpg",
-      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419465/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_original.jpg",
-      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419467/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_original.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415046/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415049/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back.jpg",
+      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415047/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_original.jpg",
+      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415050/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419465/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419468/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_thumbnail.jpg"
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419468/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_thumbnail.jpg",
+      "uploaded_hash": "301c6a5424f619f292713ff9f01325ddcd9076cdf06801c95b037f2e07037470"
     },
     {
       "filename": "Mystic/011.HeirloomofHyperborea.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419469/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415053/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419470/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "1e4c7301ba0914642de04e1ecfb5eaec705474136cf3e022b61636c4f856499a"
     },
     {
       "filename": "Mystic/012.DarkMemory.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419471/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415055/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419472/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "b2e9f26ece6b397097a20e11dfc174403939dd3530c71eab017a40b4bab5d81f"
     },
     {
       "filename": "Mystic/074.EyesThroughtheVeil.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419473/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/074.EyesThroughtheVeil_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415058/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/074.EyesThroughtheVeil_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419473/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/074.EyesThroughtheVeil_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "12382ade2aea19055d4ee9fb29ba5b644b4d23a0272ae78797e89436a25bbd2c"
     },
     {
       "filename": "Mystic/075.MasterofSecrets.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419475/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/075.MasterofSecrets_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415060/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/075.MasterofSecrets_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419476/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/075.MasterofSecrets_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "fdb14c5471ce16bec8058a2478a0b32795076f8378f73b3c02c8105aa08f0a84"
     },
     {
       "filename": "Mystic/076.ProfessorCyrusDelane.card",
@@ -274,11 +284,12 @@
     {
       "filename": "Mystic/078.TattoosoftheVoid.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419483/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415064/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419483/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "d84a8af7228608d12c6ff18614ad2926723ac1ed7a066e91cda7ca2dea735bd1"
     },
     {
       "filename": "Mystic/079.BurdenofSouls.card",
@@ -337,11 +348,12 @@
     {
       "filename": "Mystic/085.ForbiddenKnowledge.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419498/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/085.ForbiddenKnowledge_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415067/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/085.ForbiddenKnowledge_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419499/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/085.ForbiddenKnowledge_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "15620978ba9425373e197fc2fc14fa09b74dc7594777c5e8f7108b267453f32b"
     },
     {
       "filename": "Mystic/086.VesselofAgonies.card",
@@ -364,20 +376,22 @@
     {
       "filename": "Mystic/088.BlessingoftheOccult.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419504/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/088.BlessingoftheOccult_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415070/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/088.BlessingoftheOccult_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419505/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/088.BlessingoftheOccult_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "2ce981c70f536336172a99743741a138c72da178f95f1aacdf627eb367f78f91"
     },
     {
       "filename": "Mystic/089.EyesThroughtheVeil.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419506/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/089.EyesThroughtheVeil_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415073/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/089.EyesThroughtheVeil_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419507/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/089.EyesThroughtheVeil_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "38fb11bd1d2cc00bc3d68d123baed15c54167a1ae124086739cac5a890a22cd2"
     },
     {
       "filename": "Mystic/090.Fearless.card",
@@ -410,11 +424,16 @@
     {
       "filename": "Neutral/017.ThirstforKnowledge.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419519/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415075/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419519/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "48118a16372d244d2b17dc8e90dac7c0c476991a335e995c979f25c370098142"
     },
     {
       "filename": "Neutral/018.ForgottenKnowledge.card",
@@ -428,11 +447,12 @@
     {
       "filename": "Neutral/110.Bait.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419523/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/110.Bait_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415078/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/110.Bait_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419524/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/110.Bait_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "1ed98909aff0136802c2dc80171911e0bc75f7083571a9b6d7eb6bab30a946f4"
     },
     {
       "filename": "Neutral/113.ForgottenBlueprint.card",
@@ -455,11 +475,12 @@
     {
       "filename": "Neutral/119.Bait.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419530/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/119.Bait_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415081/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/119.Bait_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419530/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/119.Bait_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "5f709308b5d0dd71147b01649deca3815db45e21ef61774221893eb3b2d394f1"
     },
     {
       "filename": "Neutral/120.Kukri.card",
@@ -482,56 +503,82 @@
     {
       "filename": "Other/111.BoundtoYou.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419536/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/111.BoundtoYou_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415083/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/111.BoundtoYou_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419536/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/111.BoundtoYou_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "4dbcd9708a1ea8f4905b5d2988e0943e71c0f9c2ef679b2d81a96bd2e1e26b33"
     },
     {
       "filename": "Other/112.CollateralDamage.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419537/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/112.CollateralDamage_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415086/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/112.CollateralDamage_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419538/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/112.CollateralDamage_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "b5d09f6bbbf335748b0e8455ea8d4cc7543377c813373d2393dc1f01df1a404b"
     },
     {
       "filename": "Other/115.PactofEndurance.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419540/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/115.PactofEndurance_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415090/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/115.PactofEndurance_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419541/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/115.PactofEndurance_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "3695e31d5c9b4de5562bf8a7de3cbad2b6f709049e922145bb8e472804626189"
     },
     {
       "filename": "Other/116.ReversalofSigns.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419542/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/116.ReversalofSigns_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415092/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/116.ReversalofSigns_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419544/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/116.ReversalofSigns_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "72e575c9db6483250129b9d435f8fb75314612016c8ceb6b0a658ec9f27b3972"
     },
     {
       "filename": "Other/117.TheElderSign.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419545/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/117.TheElderSign_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415096/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/117.TheElderSign_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419546/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/117.TheElderSign_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false,
+      "uploaded_hash": "3821638e9dff9771470890abf27be5e56b796bcf51763e56d3f4589f957da27e"
     },
     {
       "filename": "Other/118.TheThirteenthAppendix.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419547/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415098/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419548/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "e7580c293cf09a4d74b77c6fd1836ce99b95bcbd7aa515ddfa98bec3796af06e"
     },
     {
       "filename": "Other/122.BrokenSeal.card",
@@ -563,30 +610,33 @@
     {
       "filename": "Rogue/007.SkidsOToole.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419556/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front.jpg",
-      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419560/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back.jpg",
-      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419558/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front_original.jpg",
-      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419561/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back_original.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415101/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415104/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back.jpg",
+      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415102/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front_original.jpg",
+      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415106/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419559/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419562/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back_thumbnail.jpg"
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419562/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back_thumbnail.jpg",
+      "uploaded_hash": "d8a175e958e80f94862373bb75f6f263d3b3fce6b038ce0085fc9ce83b535ad2"
     },
     {
       "filename": "Rogue/008.OntheLam.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419564/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/008.OntheLam_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415108/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/008.OntheLam_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419564/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/008.OntheLam_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "51ee1eb04893a8af7b2e352852e2ea2eb48f1c03a7f351c549604409581f3742"
     },
     {
       "filename": "Rogue/009.HospitalDebts.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419565/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/009.HospitalDebts_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415110/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/009.HospitalDebts_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419566/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/009.HospitalDebts_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "31e71c6a16a98e1416b436985613f61a2d4c8e14ebefb990e2de8b29f037d315"
     },
     {
       "filename": "Rogue/056.Informant.card",
@@ -762,39 +812,43 @@
     {
       "filename": "Seeker/004.DaisyWalker.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419609/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front.jpg",
-      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419612/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back.jpg",
-      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419610/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front_original.jpg",
-      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419613/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back_original.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415113/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415117/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back.jpg",
+      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415114/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front_original.jpg",
+      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415118/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419611/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419614/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back_thumbnail.jpg"
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419614/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back_thumbnail.jpg",
+      "uploaded_hash": "ad410d3b8fe6b62a564bd1fcc607a921c18aa5204228fd76cce44366e37bb7eb"
     },
     {
       "filename": "Seeker/005.DaisysToteBag.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419615/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/005.DaisysToteBag_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415121/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/005.DaisysToteBag_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419616/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/005.DaisysToteBag_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "49254b3d4c4119cf81962ab3b1a44548b0a6fe5d8295c8ca7b09dd1995264287"
     },
     {
       "filename": "Seeker/006.TheNecronomicon.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419618/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/006.TheNecronomicon_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415124/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/006.TheNecronomicon_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419618/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/006.TheNecronomicon_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "8f1d23c9454d0cb4352538cd8f629c53cc7f64e50beadf5e042f116b6890e4ea"
     },
     {
       "filename": "Seeker/037.EldritchInsight.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419620/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/037.EldritchInsight_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415126/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/037.EldritchInsight_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419620/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/037.EldritchInsight_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "f1bd478956426c4a78ffa4fe34ccedea543da44af2eda4f14d0c30a1350afca5"
     },
     {
       "filename": "Seeker/038.Bookmark.card",
@@ -830,7 +884,8 @@
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419629/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/041.ProofofConcept_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "e942515da236d802ebf56951082d7eea05a94b3cb8c521544a58c1a5d410847a"
     },
     {
       "filename": "Seeker/042.SlipBy.card",
@@ -875,7 +930,11 @@
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419644/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/046.SeedofClarity_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "permanent": false,
+      "exceptional": true,
+      "myriad": false,
+      "exile": false
     },
     {
       "filename": "Seeker/047.RevelationofPurpose.card",
@@ -925,29 +984,32 @@
     {
       "filename": "Seeker/052.ArchivistsLens.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419659/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/052.ArchivistsLens_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415132/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/052.ArchivistsLens_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419660/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/052.ArchivistsLens_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "1540dca57c670fb619fc44a75b6e87200d4e6daea2f01c098cd3657a78cf6815"
     },
     {
       "filename": "Seeker/053.EldritchInsight.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419662/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/053.EldritchInsight_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415134/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/053.EldritchInsight_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419663/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/053.EldritchInsight_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "d7fe59e217257a805b0c9de051ab1b5f013b30723937ec037e58b38b40d23b22"
     },
     {
       "filename": "Seeker/054.IntheKnow.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419665/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/054.IntheKnow_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415137/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/054.IntheKnow_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419665/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/054.IntheKnow_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "951008b7be6115167d7914515010a7ebedcf0e184722067992b69e5b19dd0274"
     },
     {
       "filename": "Seeker/055.Deduction.card",
@@ -970,30 +1032,33 @@
     {
       "filename": "Survivor/013.WendyAdams.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419672/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front.jpg",
-      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419675/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back.jpg",
-      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419673/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front_original.jpg",
-      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419676/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back_original.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415140/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415143/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back.jpg",
+      "original_front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415141/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front_original.jpg",
+      "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415144/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419674/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419678/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back_thumbnail.jpg"
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419678/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back_thumbnail.jpg",
+      "uploaded_hash": "33c15b3cd0de59651b4f913a440b5a4fe98c7db804eb3e01245086d8c2296b68"
     },
     {
       "filename": "Survivor/014.WendysAmulet.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419679/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415146/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419680/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "48a139ccb3682a208fef353ae3b247d4571cc3e8b2c4ad3e5d61164237036ff8"
     },
     {
       "filename": "Survivor/015.AbandonedandAlone.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419681/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/015.AbandonedandAlone_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415148/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/015.AbandonedandAlone_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419682/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/015.AbandonedandAlone_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "d3d693a3848f6ed89de37edd7a39148c4fa650c2b5dd3daffb6c72c300134f7e"
     },
     {
       "filename": "Survivor/092.LumberjacksAxe.card",
@@ -1016,11 +1081,12 @@
     {
       "filename": "Survivor/094.RexTrustyRetriever.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762469063/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415151/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419690/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front_thumbnail.jpg",
-      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+      "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "uploaded_hash": "b548180cb8968295c89e8e9a5d1585093f3ac5cd6079acd6c3109b9a10c2772a"
     },
     {
       "filename": "Survivor/095.BlindRage.card",
