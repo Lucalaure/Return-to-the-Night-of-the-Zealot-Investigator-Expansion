@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-17T16:34:23.887057Z",
+    "date_updated": "2025-11-17T16:49:17.743131Z",
     "generator": "Arkham Card Maker 3.2"
   },
   "data": {
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "deck_requirements": "size:30, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:43433775-620b-4e10-8583-253eb3f3e6c2, card:3497e84b-9698-4d54-937c-65096eb6c82c, random:subtype:basicweakness",
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415026/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_original.jpg",
         "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415031/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_original.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419409/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_thumbnail.jpg",
@@ -129,6 +129,7 @@
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415036/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419414/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+        "restrictions": "investigator:d545b38e-f3cf-486a-a026-12ed94b33453",
         "permanent": false,
         "exceptional": false,
         "myriad": false,
@@ -151,6 +152,7 @@
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419416/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/003.CoverUp_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419416/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/003.CoverUp_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+        "restrictions": "investigator:d545b38e-f3cf-486a-a026-12ed94b33453",
         "permanent": false,
         "exceptional": false,
         "myriad": false,
@@ -684,7 +686,7 @@
             }
           }
         ],
-        "deck_requirements": "size:25, random:subtype:basicweakness",
+        "deck_requirements": "size:25, card:72c24b02-73a3-45d7-b3af-c3caa561e00d, card:b1198eb7-0345-4e57-903c-a07eb3f88fc9, random:subtype:basicweakness",
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415047/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_original.jpg",
         "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415050/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back_original.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419465/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front_thumbnail.jpg",
@@ -716,6 +718,7 @@
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415053/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419470/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+        "restrictions": "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
         "permanent": false,
         "exceptional": false,
         "myriad": false,
@@ -738,6 +741,7 @@
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415055/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419472/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+        "restrictions": "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
         "permanent": false,
         "exceptional": false,
         "myriad": false,
@@ -1267,8 +1271,8 @@
           }
         ],
         "deck_requirements": "size:30, card:9189bc89-5511-49ad-a1fa-218f58d44fe5, card:70ccabf5-4f44-4ec2-b677-fa54ce9a864f, random:subtype:basicweakness",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419513/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_front_original.jpg",
-        "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419515/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_back_original.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763416112/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_front_original.jpg",
+        "back_image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763416115/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_back_original.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419513/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_front_thumbnail.jpg",
         "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419517/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_back_thumbnail.jpg",
         "permanent": false,

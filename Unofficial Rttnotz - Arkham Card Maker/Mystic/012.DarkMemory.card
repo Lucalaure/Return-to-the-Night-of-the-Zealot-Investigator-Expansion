@@ -76,7 +76,13 @@
       "agilityIcons": 2
     },
     "signatures": [],
-    "entryTokens": [],
+    "entryTokens": [
+      {
+        "count": 3,
+        "type": "Charge",
+        "token": "resource"
+      }
+    ],
     "gameStart": {
       "startsInPlay": false,
       "startsInHand": false
@@ -88,5 +94,5 @@
       "max": null
     }
   },
-  "content_hash": "b2e9f26ece6b397097a20e11dfc174403939dd3530c71eab017a40b4bab5d81f"
+  "content_hash": "985972b694243c34bacc01b0d98b3d2006b3853ed0a876f0c4a8eb70eb5562a0"
 }

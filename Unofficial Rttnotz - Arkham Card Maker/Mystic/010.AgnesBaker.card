@@ -135,9 +135,11 @@
     },
     "signatures": [
       {
+        "path": "Mystic/011.HeirloomofHyperborea.card",
         "count": 1
       },
       {
+        "path": "Mystic/012.DarkMemory.card",
         "count": 1
       }
     ],
@@ -153,5 +155,5 @@
       "max": null
     }
   },
-  "content_hash": "301c6a5424f619f292713ff9f01325ddcd9076cdf06801c95b037f2e07037470"
+  "content_hash": "d7b25ce24c497128fa78a3968d08870b57a0ade2a1ddbc7010b439a438270794"
 }

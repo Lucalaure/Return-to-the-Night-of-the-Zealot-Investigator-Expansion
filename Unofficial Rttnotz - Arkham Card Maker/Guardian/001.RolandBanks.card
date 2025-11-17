@@ -118,7 +118,7 @@
     "flip_vertical": false
   },
   "subtype": "平行",
-  "content_hash": "b39a4a1a0c754b65062760180c9bb6bdadcec60cdf10537a44e6e40a24019622",
+  "content_hash": "d205752d379ed344eae2f5a07145458d9b0659ca0d38c4bf30657d51e241d637",
   "tts_config": {
     "version": "v2",
     "script_id": "d545b38e-f3cf-486a-a026-12ed94b33453",
@@ -168,9 +168,11 @@
     },
     "signatures": [
       {
+        "path": "Guardian/002.Rolands38Special.card",
         "count": 1
       },
       {
+        "path": "Guardian/003.CoverUp.card",
         "count": 1
       }
     ],
