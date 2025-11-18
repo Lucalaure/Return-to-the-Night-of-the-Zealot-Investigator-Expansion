@@ -241,7 +241,7 @@
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419472/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front_thumbnail.jpg",
       "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "uploaded_hash": "b2e9f26ece6b397097a20e11dfc174403939dd3530c71eab017a40b4bab5d81f"
+      "uploaded_hash": "985972b694243c34bacc01b0d98b3d2006b3853ed0a876f0c4a8eb70eb5562a0"
     },
     {
       "filename": "Mystic/074.EyesThroughtheVeil.card",
@@ -1223,6 +1223,60 @@
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419730/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/109.TenaciousResolve_front_thumbnail.jpg",
       "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/"
+    },
+    {
+      "filename": "Guardian/RolandBanksMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479340/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479343/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479341/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479344/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_back_thumbnail.jpg",
+      "uploaded_hash": "8d54e12e306e03513909e398a2ff99e2f8e3f722fb53616dcac05b9f83c7715d"
+    },
+    {
+      "filename": "Mystic/AgnesBakerMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479492/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479494/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479493/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479495/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_back_thumbnail.jpg",
+      "uploaded_hash": "3462e84771d08ca7cd3bad3c5e69230d319e3815b6114e4b7edfd3f512494dbe"
+    },
+    {
+      "filename": "Neutral/YithianMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479612/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479614/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479613/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479615/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_back_thumbnail.jpg",
+      "uploaded_hash": "9be5f73f285805f3355ea7cf4ce6c03c51a20149943176423c7cefa69755e2cd"
+    },
+    {
+      "filename": "Rogue/SkidsOTooleMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479616/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479617/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479617/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479618/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_back_thumbnail.jpg",
+      "uploaded_hash": "724139448a415f297f751925058f1920d30964aa95326175abc1dc0c1e237af4"
+    },
+    {
+      "filename": "Seeker/DaisyWalkerMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479619/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479620/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479619/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479621/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_back_thumbnail.jpg",
+      "uploaded_hash": "df2233a0193bb4cf9f06499fb236007ce412c9df404e95a6bcffa220542e0280"
+    },
+    {
+      "filename": "Survivor/WendyAdamsMini.card",
+      "version": "2.0",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479622/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_front.jpg",
+      "back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479623/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_back.jpg",
+      "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479622/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_front_thumbnail.jpg",
+      "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479623/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_back_thumbnail.jpg",
+      "uploaded_hash": "18e2fb23883d58d685583ce3a330d1972f117ac0595f933a5e3b57ee804de75d"
     }
   ],
   "encounter_sets": []
