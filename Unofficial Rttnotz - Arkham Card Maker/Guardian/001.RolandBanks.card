@@ -49,9 +49,6 @@
   "deck_options": [
     {
       "id": "option_1",
-      "faction": [
-        "mystic"
-      ],
       "trait": [
         "Illicit",
         "Criminal",
@@ -65,28 +62,14 @@
     },
     {
       "id": "option_2",
-      "text": [
-        "investigate",
-        "clue",
-        "Investigate"
-      ],
-      "level": {
-        "min": 0,
-        "max": 2
-      }
-    },
-    {
-      "id": "option_3",
       "faction": [
-        "seeker",
-        "rogue",
-        "survivor"
+        "mystic"
       ],
       "level": {
         "min": 0,
-        "max": 0
+        "max": 5
       },
-      "limit": 5
+      "not": true
     },
     {
       "id": "option_5",
@@ -98,6 +81,31 @@
         "min": 0,
         "max": 5
       }
+    },
+    {
+      "id": "option_5",
+      "text": [
+        "investigate",
+        "clue",
+        "Investigate"
+      ],
+      "level": {
+        "min": 0,
+        "max": 2
+      }
+    },
+    {
+      "id": "option_6",
+      "faction": [
+        "seeker",
+        "rogue",
+        "survivor"
+      ],
+      "level": {
+        "min": 0,
+        "max": 0
+      },
+      "limit": 5
     }
   ],
   "picture_layout": {
@@ -118,7 +126,7 @@
     "flip_vertical": false
   },
   "subtype": "平行",
-  "content_hash": "d205752d379ed344eae2f5a07145458d9b0659ca0d38c4bf30657d51e241d637",
+  "content_hash": "b185bf7a8e5dbe722ce691f2979d97f6b9a71ca0c65fa713913fb076c6785cb6",
   "tts_config": {
     "version": "v2",
     "script_id": "d545b38e-f3cf-486a-a026-12ed94b33453",

@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-17T16:49:17.743131Z",
+    "date_updated": "2025-11-21T05:35:43.967067Z",
     "generator": "Arkham Card Maker 3.2"
   },
   "data": {
@@ -46,9 +46,6 @@
         "deck_options": [
           {
             "id": "option_1",
-            "faction": [
-              "mystic"
-            ],
             "trait": [
               "Illicit",
               "Criminal",
@@ -62,28 +59,14 @@
           },
           {
             "id": "option_2",
-            "text": [
-              "investigate",
-              "clue",
-              "Investigate"
-            ],
-            "level": {
-              "min": 0,
-              "max": 2
-            }
-          },
-          {
-            "id": "option_3",
             "faction": [
-              "seeker",
-              "rogue",
-              "survivor"
+              "mystic"
             ],
             "level": {
               "min": 0,
-              "max": 0
+              "max": 5
             },
-            "limit": 5
+            "not": true
           },
           {
             "id": "option_5",
@@ -95,6 +78,31 @@
               "min": 0,
               "max": 5
             }
+          },
+          {
+            "id": "option_5",
+            "text": [
+              "investigate",
+              "clue",
+              "Investigate"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "id": "option_6",
+            "faction": [
+              "seeker",
+              "rogue",
+              "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 0
+            },
+            "limit": 5
           }
         ],
         "deck_requirements": "size:30, card:43433775-620b-4e10-8583-253eb3f3e6c2, card:3497e84b-9698-4d54-937c-65096eb6c82c, random:subtype:basicweakness",
@@ -3572,7 +3580,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-11-17"
+        "date_release": "2025-11-21"
       }
     ]
   },
