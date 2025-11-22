@@ -20,7 +20,7 @@
   "horror": -1,
   "slots": "饰品",
   "slots2": null,
-  "body": "Wendy Adams deck only. Advanced.\n⭕ When you would discard a card or shuffle a card into your deck due to Wendy Adams's ⭕ ability, exhaust <fullname>: Place that card beneath <fullname> instead.\n<act>: Draw a card beneath <fullname>. This action does not cause attacks of opportunity.",
+  "body": "Wendy Adams deck only. Advanced.\n⭕ When you would discard a card or shuffle a card into your deck due to Wendy Adams's ⭕ ability, exhaust <fullname>: Place that card beneath <fullname> instead.\n<act> If <fullname> is ready: Draw a card beneath <fullname>. This action does not cause attacks of opportunity. (Limit once per turn.)",
   "flavor": "",
   "illustrator": "Aleksander Karcz",
   "card_number": "14",
@@ -96,5 +96,5 @@
       "max": null
     }
   },
-  "content_hash": "48a139ccb3682a208fef353ae3b247d4571cc3e8b2c4ad3e5d61164237036ff8"
+  "content_hash": "d0ba79474433f54925c6cd53e837bfccf11a81da43cd212020eb942d11b1aef9"
 }

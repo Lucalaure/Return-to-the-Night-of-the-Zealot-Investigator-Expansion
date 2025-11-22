@@ -88,7 +88,7 @@
       "XmlUI": "",
       "ContainedObjects": [
         {
-          "GUID": "4a6b1d",
+          "GUID": "4cccd2",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -132,10 +132,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 789600,
+          "CardID": 806100,
           "SidewaysCard": true,
           "CustomDeck": {
-            "7896": {
+            "8061": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415025/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415029/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back.jpg",
               "NumWidth": 1,
@@ -150,7 +150,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "63c512",
+          "GUID": "b1e03e",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -194,10 +194,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 162600,
+          "CardID": 157200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1626": {
+            "1572": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415036/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/002.Rolands38Special_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -212,7 +212,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "5dbaec",
+          "GUID": "cba99b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -255,10 +255,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 712200,
+          "CardID": 432500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7122": {
+            "4325": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419416/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/003.CoverUp_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -273,7 +273,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "f7bcbe",
+          "GUID": "f10bc1",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -317,10 +317,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 815000,
+          "CardID": 170600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8150": {
+            "1706": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415038/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/019.Ithaca37_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -335,7 +335,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "dd982b",
+          "GUID": "f88649",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -379,10 +379,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 984300,
+          "CardID": 760400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9843": {
+            "7604": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419420/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/020.MarkedforExposure_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -397,7 +397,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "cc8483",
+          "GUID": "437872",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -441,10 +441,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 409800,
+          "CardID": 856600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4098": {
+            "8566": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419423/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/021.PatrolOfficer_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -459,7 +459,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "a0b070",
+          "GUID": "ebc589",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -502,10 +502,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 815900,
+          "CardID": 600800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8159": {
+            "6008": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419425/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/022.ArmorPiercingRounds_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -520,7 +520,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d5cd51",
+          "GUID": "93a816",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -563,10 +563,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 542600,
+          "CardID": 119600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5426": {
+            "1196": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419428/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/023.LethalLesson_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -581,7 +581,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "ed75bc",
+          "GUID": "dee9a2",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -624,10 +624,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 706600,
+          "CardID": 803000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7066": {
+            "8030": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419430/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/024.PullthePlaceApart_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -642,7 +642,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "077129",
+          "GUID": "0bd689",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -685,10 +685,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 727800,
+          "CardID": 646800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7278": {
+            "6468": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419433/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/025.Resourcefulness_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -703,7 +703,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "11b684",
+          "GUID": "74a89c",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -746,10 +746,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 975700,
+          "CardID": 350300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9757": {
+            "3503": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419434/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/026.Looting_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -764,7 +764,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9db995",
+          "GUID": "1d5570",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -807,10 +807,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 701900,
+          "CardID": 489000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7019": {
+            "4890": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419438/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/027.Technician_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -825,7 +825,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "6b7d35",
+          "GUID": "8d7534",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -868,10 +868,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 801800,
+          "CardID": 159700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8018": {
+            "1597": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419441/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/028.GearAssignment_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -886,7 +886,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "76f067",
+          "GUID": "295051",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -930,10 +930,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 930900,
+          "CardID": 145800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9309": {
+            "1458": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415043/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/029.Ithaca37_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -948,7 +948,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "2dfadc",
+          "GUID": "8707f4",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -992,10 +992,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 748000,
+          "CardID": 384400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7480": {
+            "3844": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419445/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/030.MarkedforExposure_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1010,7 +1010,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "969edd",
+          "GUID": "61ac91",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1054,10 +1054,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 970600,
+          "CardID": 402800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9706": {
+            "4028": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419449/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/031.TrenchKnife_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1072,7 +1072,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "876359",
+          "GUID": "fb1707",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1116,10 +1116,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 313100,
+          "CardID": 911300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3131": {
+            "9113": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419452/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/032.WardetchedSkin_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1134,7 +1134,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1bfc8a",
+          "GUID": "479b0f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1177,10 +1177,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 649300,
+          "CardID": 261800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6493": {
+            "2618": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419455/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/033.EvidenceinBlood_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1195,7 +1195,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "eb99c6",
+          "GUID": "717027",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1239,10 +1239,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 220200,
+          "CardID": 715300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2202": {
+            "7153": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419457/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/034.SisterAurelia_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1257,7 +1257,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "186b54",
+          "GUID": "8d137b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1300,10 +1300,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 891600,
+          "CardID": 222500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8916": {
+            "2225": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419459/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/035.DualWielding_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1318,7 +1318,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9ee3a9",
+          "GUID": "0c4c52",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1362,10 +1362,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 863100,
+          "CardID": 501900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8631": {
+            "5019": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419461/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/036.Bandolier_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1380,7 +1380,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1325a7",
+          "GUID": "834775",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1424,10 +1424,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 545500,
+          "CardID": 451000,
           "SidewaysCard": true,
           "CustomDeck": {
-            "5455": {
+            "4510": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415046/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415049/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/010.AgnesBaker_back.jpg",
               "NumWidth": 1,
@@ -1442,7 +1442,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "287e01",
+          "GUID": "5828ad",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1486,10 +1486,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 389600,
+          "CardID": 704900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3896": {
+            "7049": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415053/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/011.HeirloomofHyperborea_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1504,7 +1504,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9c5228",
+          "GUID": "6962a3",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1547,10 +1547,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 449200,
+          "CardID": 291300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4492": {
+            "2913": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415055/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1565,7 +1565,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "21b58f",
+          "GUID": "e41674",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1609,10 +1609,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 575200,
+          "CardID": 295900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5752": {
+            "2959": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415058/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/074.EyesThroughtheVeil_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1627,7 +1627,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "b92803",
+          "GUID": "47e463",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1671,10 +1671,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 988400,
+          "CardID": 689800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9884": {
+            "6898": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415060/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/075.MasterofSecrets_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1689,7 +1689,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "2f11c4",
+          "GUID": "be6a74",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1733,10 +1733,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 920600,
+          "CardID": 881000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9206": {
+            "8810": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419478/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/076.ProfessorCyrusDelane_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1751,7 +1751,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "430df9",
+          "GUID": "9bee40",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1795,10 +1795,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 857700,
+          "CardID": 113100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8577": {
+            "1131": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419481/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/077.SoporificGrimoire_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1813,7 +1813,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "138ca0",
+          "GUID": "534c4b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1857,10 +1857,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 334900,
+          "CardID": 583500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3349": {
+            "5835": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415064/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1875,7 +1875,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "81b165",
+          "GUID": "c853e9",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1918,10 +1918,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 481600,
+          "CardID": 108100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4816": {
+            "1081": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419485/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/079.BurdenofSouls_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1936,7 +1936,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "286ba9",
+          "GUID": "5e2589",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -1979,10 +1979,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 171500,
+          "CardID": 240200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1715": {
+            "2402": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419487/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/080.InscriptionofPower_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -1997,7 +1997,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "a7d0be",
+          "GUID": "7f6cb6",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2040,10 +2040,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 163400,
+          "CardID": 845400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1634": {
+            "8454": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419489/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/081.Spellshifting_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2058,7 +2058,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e8837e",
+          "GUID": "65fc6d",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2101,10 +2101,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 298100,
+          "CardID": 578400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2981": {
+            "5784": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419492/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/082.Imbue_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2119,7 +2119,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "3b30e3",
+          "GUID": "5d3515",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2162,10 +2162,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 179900,
+          "CardID": 319900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1799": {
+            "3199": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419494/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/083.BindthePulseofTime_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2180,7 +2180,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "244c0d",
+          "GUID": "9e4647",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2223,10 +2223,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 622200,
+          "CardID": 105700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6222": {
+            "1057": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419496/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/084.PriceofClarity_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2241,7 +2241,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "dcfbc7",
+          "GUID": "fa179d",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2285,10 +2285,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 628700,
+          "CardID": 362400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6287": {
+            "3624": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415067/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/085.ForbiddenKnowledge_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2303,7 +2303,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "07b220",
+          "GUID": "a83146",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2347,10 +2347,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 328000,
+          "CardID": 476100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3280": {
+            "4761": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419500/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/086.VesselofAgonies_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2365,7 +2365,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "dc5ee0",
+          "GUID": "cc91fe",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2408,10 +2408,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 450300,
+          "CardID": 894600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4503": {
+            "8946": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419502/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/087.DrawnbyProphecy_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2426,7 +2426,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "61d5fd",
+          "GUID": "7b3516",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2470,10 +2470,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 349400,
+          "CardID": 230600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3494": {
+            "2306": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415070/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/088.BlessingoftheOccult_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2488,7 +2488,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "38c20a",
+          "GUID": "885fe3",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2532,10 +2532,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 560900,
+          "CardID": 904100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5609": {
+            "9041": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415073/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/089.EyesThroughtheVeil_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2550,7 +2550,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "c1f364",
+          "GUID": "b8c5a8",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2593,10 +2593,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 500500,
+          "CardID": 332700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5005": {
+            "3327": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419508/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/090.Fearless_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2611,7 +2611,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "5f55be",
+          "GUID": "64670b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2654,10 +2654,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 322700,
+          "CardID": 781300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3227": {
+            "7813": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419510/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/091.InscriptionofPower_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2672,7 +2672,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "b71a1d",
+          "GUID": "97a13c",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2716,10 +2716,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 284400,
+          "CardID": 651000,
           "SidewaysCard": true,
           "CustomDeck": {
-            "2844": {
+            "6510": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763416111/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763416114/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/016.Yithian_back.jpg",
               "NumWidth": 1,
@@ -2734,7 +2734,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7386ee",
+          "GUID": "251fdb",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2778,10 +2778,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 155000,
+          "CardID": 278200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1550": {
+            "2782": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415075/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2796,7 +2796,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "73f10e",
+          "GUID": "7e94d5",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2839,10 +2839,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 319400,
+          "CardID": 873800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3194": {
+            "8738": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419521/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/018.ForgottenKnowledge_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2857,7 +2857,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "f0f5c1",
+          "GUID": "ae1bc4",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2901,10 +2901,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 189300,
+          "CardID": 675700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1893": {
+            "6757": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415078/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/110.Bait_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2919,7 +2919,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e883f5",
+          "GUID": "badf6b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -2963,10 +2963,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 128400,
+          "CardID": 711400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1284": {
+            "7114": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419525/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/113.ForgottenBlueprint_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -2981,7 +2981,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "856f3a",
+          "GUID": "956213",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3025,10 +3025,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 819500,
+          "CardID": 706600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8195": {
+            "7066": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419528/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/114.OldSchematics_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3043,7 +3043,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9639c1",
+          "GUID": "35c7b8",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3087,10 +3087,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 449000,
+          "CardID": 518900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4490": {
+            "5189": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415081/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/119.Bait_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3105,7 +3105,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9af28e",
+          "GUID": "cf66b1",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3149,10 +3149,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 840700,
+          "CardID": 108400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8407": {
+            "1084": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419532/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/120.Kukri_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3167,7 +3167,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e82e7b",
+          "GUID": "53b1c7",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3210,10 +3210,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 799200,
+          "CardID": 930700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7992": {
+            "9307": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419534/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/121.RecursiveDirective_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3228,7 +3228,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "28f16a",
+          "GUID": "e657f5",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3272,10 +3272,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 995600,
+          "CardID": 529800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9956": {
+            "5298": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415083/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/111.BoundtoYou_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3290,7 +3290,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "c0b810",
+          "GUID": "74f499",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3334,10 +3334,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 269600,
+          "CardID": 270800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2696": {
+            "2708": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415086/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/112.CollateralDamage_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3352,7 +3352,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "3bb113",
+          "GUID": "211585",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3396,10 +3396,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 937700,
+          "CardID": 357300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9377": {
+            "3573": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415090/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/115.PactofEndurance_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3414,7 +3414,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7a91e4",
+          "GUID": "3a1751",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3458,10 +3458,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 899200,
+          "CardID": 272200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8992": {
+            "2722": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415092/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/116.ReversalofSigns_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3476,7 +3476,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "2e0f2e",
+          "GUID": "c794b3",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3520,10 +3520,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 512300,
+          "CardID": 294400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5123": {
+            "2944": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415096/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/117.TheElderSign_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3538,7 +3538,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "573e61",
+          "GUID": "76ca24",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3582,10 +3582,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 963300,
+          "CardID": 439200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9633": {
+            "4392": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415098/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3600,7 +3600,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7107ef",
+          "GUID": "ec4ae0",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3644,10 +3644,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 164000,
+          "CardID": 349900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1640": {
+            "3499": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419550/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/122.BrokenSeal_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3662,7 +3662,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "959c25",
+          "GUID": "468d52",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3706,10 +3706,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 624000,
+          "CardID": 224100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6240": {
+            "2241": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419552/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/123.SlipperyGrip_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3724,7 +3724,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "07b717",
+          "GUID": "daa567",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3768,10 +3768,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 256600,
+          "CardID": 612300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2566": {
+            "6123": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419554/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/124.TurnedCoat_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3786,7 +3786,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e387ea",
+          "GUID": "61f987",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3830,10 +3830,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 950200,
+          "CardID": 475700,
           "SidewaysCard": true,
           "CustomDeck": {
-            "9502": {
+            "4757": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415101/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415104/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/007.SkidsOToole_back.jpg",
               "NumWidth": 1,
@@ -3848,7 +3848,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "aa2135",
+          "GUID": "e29073",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3892,10 +3892,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 350400,
+          "CardID": 823800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3504": {
+            "8238": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415108/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/008.OntheLam_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3910,7 +3910,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "51a8e4",
+          "GUID": "649737",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -3953,10 +3953,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 401600,
+          "CardID": 519400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4016": {
+            "5194": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415110/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/009.HospitalDebts_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -3971,7 +3971,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9febfd",
+          "GUID": "21e664",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4015,10 +4015,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 773200,
+          "CardID": 723600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7732": {
+            "7236": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419568/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/056.Informant_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4033,7 +4033,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "ad11cf",
+          "GUID": "edbab2",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4077,10 +4077,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 122000,
+          "CardID": 312500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1220": {
+            "3125": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419569/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/057.MollyBrown_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4095,7 +4095,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "2b4ee7",
+          "GUID": "925a79",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4138,10 +4138,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 618800,
+          "CardID": 901200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6188": {
+            "9012": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419572/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/058.FlashofWealth_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4156,7 +4156,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "b31535",
+          "GUID": "7af8b7",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4199,10 +4199,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 776300,
+          "CardID": 617000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7763": {
+            "6170": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419574/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/059.Intimidate_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4217,7 +4217,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "23016d",
+          "GUID": "3af42b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4260,10 +4260,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 300500,
+          "CardID": 230000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3005": {
+            "2300": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419575/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/060.LastDitchEffort_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4278,7 +4278,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "541df2",
+          "GUID": "37ddf6",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4321,10 +4321,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 520800,
+          "CardID": 302400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5208": {
+            "3024": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419578/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/061.LuckyStrike_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4339,7 +4339,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d3e425",
+          "GUID": "bf5b09",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4382,10 +4382,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 128000,
+          "CardID": 232100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1280": {
+            "2321": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419581/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/062.SmokeBomb_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4400,7 +4400,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "8db7df",
+          "GUID": "3ef9b5",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4443,10 +4443,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 970800,
+          "CardID": 661300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9708": {
+            "6613": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419584/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/063.KeepBlastin_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4461,7 +4461,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "80b72d",
+          "GUID": "d29e28",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4504,10 +4504,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 275300,
+          "CardID": 433500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2753": {
+            "4335": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419586/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/064.RockBottom_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4522,7 +4522,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "4c9249",
+          "GUID": "3ffac1",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4565,10 +4565,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 335000,
+          "CardID": 608600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3350": {
+            "6086": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419588/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/065.BribedSilence_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4583,7 +4583,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "aa8480",
+          "GUID": "b4223f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4626,10 +4626,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 771500,
+          "CardID": 325100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7715": {
+            "3251": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419590/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/066.InsideJob_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4644,7 +4644,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "3c3c01",
+          "GUID": "b3a918",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4687,10 +4687,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 962200,
+          "CardID": 617700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9622": {
+            "6177": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419592/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/067.LastDitchEffort_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4705,7 +4705,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "18fdf4",
+          "GUID": "bf1828",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4748,10 +4748,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 272700,
+          "CardID": 279000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2727": {
+            "2790": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419594/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/068.Negotiations_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4766,7 +4766,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1875ee",
+          "GUID": "4cc5d1",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4810,10 +4810,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 436500,
+          "CardID": 389700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4365": {
+            "3897": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419596/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/069.Bloodwire_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4828,7 +4828,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "ef0c01",
+          "GUID": "43a7ed",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4872,10 +4872,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 389100,
+          "CardID": 105600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3891": {
+            "1056": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419598/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/070.Burglary_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4890,7 +4890,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "f802a2",
+          "GUID": "09e5ca",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4934,10 +4934,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 966200,
+          "CardID": 496900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9662": {
+            "4969": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419600/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/071.Pickpocketing_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -4952,7 +4952,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "590d79",
+          "GUID": "4d58bc",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -4996,10 +4996,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 333500,
+          "CardID": 844000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3335": {
+            "8440": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419603/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/072.StolenIdolofYoth_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5014,7 +5014,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "6f6905",
+          "GUID": "4a77d0",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5057,10 +5057,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 432100,
+          "CardID": 781700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4321": {
+            "7817": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419605/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/073.FlashofWealth_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5075,7 +5075,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "f27ac0",
+          "GUID": "196eba",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5118,10 +5118,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 175300,
+          "CardID": 816000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1753": {
+            "8160": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419607/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/126.Issith_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5136,7 +5136,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7e3053",
+          "GUID": "be646f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5180,10 +5180,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 649000,
+          "CardID": 425500,
           "SidewaysCard": true,
           "CustomDeck": {
-            "6490": {
+            "4255": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415113/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415117/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/004.DaisyWalker_back.jpg",
               "NumWidth": 1,
@@ -5198,7 +5198,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "749a51",
+          "GUID": "3d4fe1",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5242,10 +5242,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 743300,
+          "CardID": 375200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7433": {
+            "3752": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415121/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/005.DaisysToteBag_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5260,7 +5260,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "48b1e4",
+          "GUID": "054774",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5304,10 +5304,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 791800,
+          "CardID": 517700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7918": {
+            "5177": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415124/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/006.TheNecronomicon_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5322,7 +5322,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9b0d93",
+          "GUID": "d9e69d",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5366,10 +5366,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 208200,
+          "CardID": 581100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2082": {
+            "5811": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415126/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/037.EldritchInsight_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5384,7 +5384,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "fbff86",
+          "GUID": "25789e",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5427,10 +5427,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 819700,
+          "CardID": 564700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8197": {
+            "5647": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419621/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/038.Bookmark_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5445,7 +5445,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "81f197",
+          "GUID": "c929f0",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5488,10 +5488,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 363700,
+          "CardID": 755400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3637": {
+            "7554": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419623/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/039.FlightorFright_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5506,7 +5506,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "0f6f9b",
+          "GUID": "981f62",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5549,10 +5549,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 856800,
+          "CardID": 817800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8568": {
+            "8178": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419626/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/040.FortunateFind_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5567,7 +5567,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7e5c5b",
+          "GUID": "fd43a0",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5610,10 +5610,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 682200,
+          "CardID": 847700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6822": {
+            "8477": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419629/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/041.ProofofConcept_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5628,7 +5628,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d5ca90",
+          "GUID": "9b91c0",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5671,10 +5671,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 621000,
+          "CardID": 580600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6210": {
+            "5806": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419631/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/042.SlipBy_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5689,7 +5689,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "76242d",
+          "GUID": "dc75fa",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5732,10 +5732,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 386900,
+          "CardID": 905100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3869": {
+            "9051": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419633/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/043.TwoStepsAhead_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5750,7 +5750,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1ff090",
+          "GUID": "e0f571",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5793,10 +5793,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 287400,
+          "CardID": 772500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2874": {
+            "7725": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419637/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/044.Inspect_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5811,7 +5811,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "ed4db0",
+          "GUID": "35651c",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5854,10 +5854,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 788600,
+          "CardID": 442800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7886": {
+            "4428": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419640/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/045.SharedInsight_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5872,7 +5872,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d6e79e",
+          "GUID": "71dd28",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5916,10 +5916,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 775700,
+          "CardID": 267700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7757": {
+            "2677": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419644/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/046.SeedofClarity_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -5934,7 +5934,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9f01f5",
+          "GUID": "59d5e5",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -5977,10 +5977,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 929000,
+          "CardID": 635300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9290": {
+            "6353": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419646/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/047.RevelationofPurpose_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
               "NumWidth": 1,
@@ -5995,7 +5995,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "b82bc7",
+          "GUID": "e21f76",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6039,10 +6039,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 200900,
+          "CardID": 515800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2009": {
+            "5158": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419648/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/048.SlipstreamTheorem_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6057,7 +6057,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "220ced",
+          "GUID": "2cc28c",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6100,10 +6100,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 689700,
+          "CardID": 275500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6897": {
+            "2755": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419651/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/049.FortunateFind_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6118,7 +6118,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e0d0da",
+          "GUID": "90eb45",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6161,10 +6161,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 531500,
+          "CardID": 220200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5315": {
+            "2202": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419654/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/050.PatternRecognition_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6179,7 +6179,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "cfdb9f",
+          "GUID": "6b99de",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6223,10 +6223,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 849700,
+          "CardID": 677500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8497": {
+            "6775": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419657/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/051.SeekingKnowledge_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6241,7 +6241,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "16ee5c",
+          "GUID": "5bbc4f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6285,10 +6285,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 435500,
+          "CardID": 500000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4355": {
+            "5000": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415132/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/052.ArchivistsLens_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6303,7 +6303,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "081568",
+          "GUID": "462595",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6347,10 +6347,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 157800,
+          "CardID": 344700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1578": {
+            "3447": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415134/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/053.EldritchInsight_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6365,7 +6365,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e5d367",
+          "GUID": "a53554",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6409,10 +6409,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 731500,
+          "CardID": 468500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7315": {
+            "4685": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415137/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/054.IntheKnow_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6427,7 +6427,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "4bc5fd",
+          "GUID": "ae30a2",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6470,10 +6470,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 417500,
+          "CardID": 495500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4175": {
+            "4955": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419667/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/055.Deduction_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6488,7 +6488,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "e29d01",
+          "GUID": "06aae5",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6531,10 +6531,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 741400,
+          "CardID": 543500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7414": {
+            "5435": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419670/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/125.FocusedField_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6549,7 +6549,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1c601b",
+          "GUID": "649342",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6593,10 +6593,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": false,
           "Hands": true,
-          "CardID": 569300,
+          "CardID": 766100,
           "SidewaysCard": true,
           "CustomDeck": {
-            "5693": {
+            "7661": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415140/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415143/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/013.WendyAdams_back.jpg",
               "NumWidth": 1,
@@ -6611,7 +6611,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "a91af1",
+          "GUID": "9a9607",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6655,11 +6655,11 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 334300,
+          "CardID": 969600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3343": {
-              "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415146/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
+            "9696": {
+              "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763805688/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
               "NumHeight": 1,
@@ -6673,7 +6673,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "3779b1",
+          "GUID": "ca5552",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6716,10 +6716,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 856700,
+          "CardID": 598500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8567": {
+            "5985": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415148/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/015.AbandonedandAlone_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6734,7 +6734,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9d48be",
+          "GUID": "241dd4",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6778,10 +6778,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 488500,
+          "CardID": 952700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4885": {
+            "9527": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419684/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/092.LumberjacksAxe_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6796,7 +6796,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "600e58",
+          "GUID": "717983",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6840,10 +6840,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 490400,
+          "CardID": 357400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4904": {
+            "3574": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419687/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/093.NailedBoard_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6858,7 +6858,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "55b0bf",
+          "GUID": "e9078f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6902,10 +6902,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 615300,
+          "CardID": 346700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6153": {
+            "3467": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415151/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/094.RexTrustyRetriever_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6920,7 +6920,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "232301",
+          "GUID": "c82a87",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -6963,10 +6963,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 952000,
+          "CardID": 201400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9520": {
+            "2014": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419693/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/095.BlindRage_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -6981,7 +6981,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "9806d2",
+          "GUID": "380716",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7024,10 +7024,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 324900,
+          "CardID": 876400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3249": {
+            "8764": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419696/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/096.ErgonomicGrip_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7042,7 +7042,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d4cf89",
+          "GUID": "b835ec",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7085,10 +7085,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 103800,
+          "CardID": 299100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1038": {
+            "2991": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419700/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/097.ItAintOver_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7103,7 +7103,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "091cf9",
+          "GUID": "85ed19",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7146,10 +7146,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 379300,
+          "CardID": 574500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3793": {
+            "5745": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419703/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/098.NightCamp_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7164,7 +7164,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "a17ed5",
+          "GUID": "bd3617",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7207,10 +7207,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 434000,
+          "CardID": 938300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4340": {
+            "9383": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419705/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/099.FromtheAshes_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7225,7 +7225,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "3a743e",
+          "GUID": "e49a7e",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7268,10 +7268,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 491500,
+          "CardID": 783800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4915": {
+            "7838": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419708/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/100.GamblersResolve_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7286,7 +7286,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "96b60c",
+          "GUID": "4ba9c8",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7330,10 +7330,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 883800,
+          "CardID": 133400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8838": {
+            "1334": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419710/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/101.WeatheredOilskin_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7348,7 +7348,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "094a4e",
+          "GUID": "ec95c9",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7391,10 +7391,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 179700,
+          "CardID": 243500,
           "SidewaysCard": false,
           "CustomDeck": {
-            "1797": {
+            "2435": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419712/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/102.CleartheDeck_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7409,7 +7409,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7c9cef",
+          "GUID": "f3bac3",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7453,10 +7453,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 885300,
+          "CardID": 284200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8853": {
+            "2842": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419714/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/103.FrayedToken_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7471,7 +7471,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "833667",
+          "GUID": "704b43",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7515,10 +7515,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 219900,
+          "CardID": 782000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2199": {
+            "7820": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419716/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/104.StrayCat_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7533,7 +7533,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "d2b8c4",
+          "GUID": "772e66",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7576,10 +7576,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 798900,
+          "CardID": 447200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7989": {
+            "4472": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419720/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/105.ErgonomicGrip_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7594,7 +7594,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "cac89a",
+          "GUID": "fd35f3",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7637,10 +7637,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 532200,
+          "CardID": 763200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5322": {
+            "7632": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419722/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/106.PlantedEvidence_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7655,7 +7655,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "336307",
+          "GUID": "c1b692",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7699,10 +7699,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 790600,
+          "CardID": 233000,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7906": {
+            "2330": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419725/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/107.JunkyardInstinct_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7717,7 +7717,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "4affaf",
+          "GUID": "8c5852",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7760,10 +7760,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 925800,
+          "CardID": 800700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9258": {
+            "8007": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419727/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/108.ButterflyEffect_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7778,7 +7778,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "5f80b4",
+          "GUID": "4c2c4b",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7821,10 +7821,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 716200,
+          "CardID": 197800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7162": {
+            "1978": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419729/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/109.TenaciousResolve_front.jpg",
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
               "NumWidth": 1,
@@ -7839,7 +7839,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "160262",
+          "GUID": "20b8ca",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7882,10 +7882,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 920400,
+          "CardID": 691300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "9204": {
+            "6913": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479340/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479343/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/RolandBanksMini_back.jpg",
               "NumWidth": 1,
@@ -7900,7 +7900,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "b0b678",
+          "GUID": "8cc477",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -7943,10 +7943,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 315100,
+          "CardID": 895800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "3151": {
+            "8958": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479492/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479494/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/AgnesBakerMini_back.jpg",
               "NumWidth": 1,
@@ -7961,7 +7961,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "4fe08e",
+          "GUID": "d9db64",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -8004,10 +8004,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 877800,
+          "CardID": 216300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8778": {
+            "2163": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479612/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479614/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/YithianMini_back.jpg",
               "NumWidth": 1,
@@ -8022,7 +8022,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "6539cb",
+          "GUID": "9b2261",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -8065,10 +8065,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 836000,
+          "CardID": 729100,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8360": {
+            "7291": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479616/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479617/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/SkidsOTooleMini_back.jpg",
               "NumWidth": 1,
@@ -8083,7 +8083,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "7a34ff",
+          "GUID": "93264f",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -8126,10 +8126,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 510200,
+          "CardID": 869200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5102": {
+            "8692": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479619/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479620/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/DaisyWalkerMini_back.jpg",
               "NumWidth": 1,
@@ -8144,7 +8144,7 @@
           "XmlUI": ""
         },
         {
-          "GUID": "1a5b99",
+          "GUID": "c0bf92",
           "Name": "CardCustom",
           "Transform": {
             "posX": 0,
@@ -8187,10 +8187,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 773400,
+          "CardID": 481900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7734": {
+            "4819": {
               "FaceURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479622/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_front.jpg",
               "BackURL": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763479623/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/WendyAdamsMini_back.jpg",
               "NumWidth": 1,

@@ -26,7 +26,7 @@
       "original_back_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415031/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_original.jpg",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419409/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_front_thumbnail.jpg",
       "back_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419413/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/001.RolandBanks_back_thumbnail.jpg",
-      "uploaded_hash": "d205752d379ed344eae2f5a07145458d9b0659ca0d38c4bf30657d51e241d637"
+      "uploaded_hash": "b185bf7a8e5dbe722ce691f2979d97f6b9a71ca0c65fa713913fb076c6785cb6"
     },
     {
       "filename": "Guardian/002.Rolands38Special.card",
@@ -579,7 +579,11 @@
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419548/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front_thumbnail.jpg",
       "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "uploaded_hash": "e7580c293cf09a4d74b77c6fd1836ce99b95bcbd7aa515ddfa98bec3796af06e"
+      "uploaded_hash": "e7580c293cf09a4d74b77c6fd1836ce99b95bcbd7aa515ddfa98bec3796af06e",
+      "permanent": true,
+      "exceptional": false,
+      "myriad": false,
+      "exile": false
     },
     {
       "filename": "Other/122.BrokenSeal.card",
@@ -1044,12 +1048,12 @@
     {
       "filename": "Survivor/014.WendysAmulet.card",
       "version": "2.0",
-      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415146/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
+      "front_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763805688/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
       "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "original_back_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "front_thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419680/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front_thumbnail.jpg",
       "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "uploaded_hash": "48a139ccb3682a208fef353ae3b247d4571cc3e8b2c4ad3e5d61164237036ff8"
+      "uploaded_hash": "d0ba79474433f54925c6cd53e837bfccf11a81da43cd212020eb942d11b1aef9"
     },
     {
       "filename": "Survivor/015.AbandonedandAlone.card",

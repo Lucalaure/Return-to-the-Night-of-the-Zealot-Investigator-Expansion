@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-21T05:35:43.967067Z",
+    "date_updated": "2025-11-22T05:01:38.914283Z",
     "generator": "Arkham Card Maker 3.2"
   },
   "data": {
@@ -1634,7 +1634,7 @@
         "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415098/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419548/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/118.TheThirteenthAppendix_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-        "permanent": false,
+        "permanent": true,
         "exceptional": false,
         "myriad": false,
         "exile": false,
@@ -3061,7 +3061,7 @@
         "subname": "",
         "type_code": "asset",
         "faction_code": "neutral",
-        "text": "Wendy Adams deck only. Advanced.\n[reaction] When you would discard a card or shuffle a card into your deck due to Wendy Adams's [reaction] ability, exhaust Wendy's Amulet: Place that card beneath Wendy's Amulet instead.\n[action]: Draw a card beneath Wendy's Amulet. This action does not cause attacks of opportunity.",
+        "text": "Wendy Adams deck only. Advanced.\n[reaction] When you would discard a card or shuffle a card into your deck due to Wendy Adams's [reaction] ability, exhaust Wendy's Amulet: Place that card beneath Wendy's Amulet instead.\n[action] If Wendy's Amulet is ready: Draw a card beneath Wendy's Amulet. This action does not cause attacks of opportunity. (Limit once per turn.)",
         "flavor": "",
         "is_unique": true,
         "illustrator": "Aleksander Karcz",
@@ -3071,7 +3071,7 @@
         "skill_wild": 1,
         "slot": "Accessory",
         "traits": "Item. Relic.",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415146/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763805688/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419680/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "restrictions": "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
@@ -3580,7 +3580,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-11-21"
+        "date_release": "2025-11-22"
       }
     ]
   },
