@@ -12,8 +12,8 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-22T05:01:38.914283Z",
-    "generator": "Arkham Card Maker 3.2"
+    "date_updated": "2025-11-26T11:13:21.904874Z",
+    "generator": "Arkham Card Maker v3.4"
   },
   "data": {
     "cards": [
@@ -516,17 +516,19 @@
         "subname": "",
         "type_code": "asset",
         "faction_code": "guardian",
-        "text": "Non-direct damage and non-direct horror assigned to you are considered direct damage and direct horror.\nYou get +1 [willpower], +2 health, and +2 sanity.\n[reaction] When you would be defeated by damage or horror, you may immediately discard Ward-etched Skin: Cancel up to 3 of that damage and/or horror. ",
+        "text": "Non-direct damage and non-direct horror assigned to you is considered direct damage and direct horror. Direct damage and direct horror may be assigned to Ward-etched Skin.\n[reaction] When you would be defeated by damage and/or horror, you may immediately remove Ward-etched Skin from the game: Cancel up to 3 of that damage and/or horror. ",
         "flavor": "",
         "is_unique": true,
         "illustrator": "",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "cost": 2,
         "skill_willpower": 2,
+        "health": 3,
+        "sanity": 3,
         "slot": "Body",
         "traits": "Spirit. Blessed. Cursed.",
         "xp": 2,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419452/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/032.WardetchedSkin_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1764173585/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/032.WardetchedSkin_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419453/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/032.WardetchedSkin_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -878,7 +880,7 @@
         "subname": "",
         "type_code": "asset",
         "faction_code": "mystic",
-        "text": "[reaction] When a chaos token is sealed on another card you control, if Tattoos of the Void has no sealed tokens on it: Seal an identical token on Tattoos of the Void.\n<b>Forced</b> - At the start of the round, if Tattoos of the Void has a sealed token and no other card you control has a matching token sealed on it: Take 1 horror or release the sealed token on Tattoos of the Void.",
+        "text": "[reaction] When a chaos token is sealed on another card you control, if Tattoos of the Void has no sealed tokens on it: Seal an identical token on Tattoos of the Void.\n<b>Forced</b> - At the start of the round, if Tattoos of the Void has a sealed token and no other card you control has a matching token sealed on it: Add 2 [curse] tokens to the chaos bag or release the sealed token on Tattoos of the Void.",
         "flavor": "",
         "is_unique": true,
         "illustrator": "",
@@ -889,7 +891,7 @@
         "slot": "Body",
         "traits": "Charm. Blessed.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763415064/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1764173589/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419483/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/078.TattoosoftheVoid_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -3580,7 +3582,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-11-22"
+        "date_release": "2025-11-26"
       }
     ]
   },
