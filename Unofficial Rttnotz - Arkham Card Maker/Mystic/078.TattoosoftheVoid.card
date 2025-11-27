@@ -12,8 +12,8 @@
     "狂野"
   ],
   "traits": [
-    "Charm",
-    "Blessed"
+    "Ritual",
+    "Cursed"
   ],
   "health": -1,
   "horror": 2,
@@ -95,5 +95,5 @@
       "max": null
     }
   },
-  "content_hash": "e91cb97d5a1f926193fb74e739f86b19f62fa0775dbd34a6cbbbef59c765a947"
+  "content_hash": "cc0ee014847943f4537f968d48c2740e1e3e04d11ed8615b0932af4f08a51d60"
 }

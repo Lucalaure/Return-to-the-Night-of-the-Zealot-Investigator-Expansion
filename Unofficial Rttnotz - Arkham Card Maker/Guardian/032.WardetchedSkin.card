@@ -13,6 +13,7 @@
     "意志"
   ],
   "traits": [
+    "Ritual",
     "Spirit",
     "Blessed",
     "Cursed"
@@ -97,5 +98,5 @@
       "max": null
     }
   },
-  "content_hash": "6d1957123c1674c791d8a2c2e80c8e0000b8e047df6ed1c82603928d85397abd"
+  "content_hash": "881fc51170b58b9b19a4feab14c97132019b8671447c772ab8b1792900544c57"
 }
