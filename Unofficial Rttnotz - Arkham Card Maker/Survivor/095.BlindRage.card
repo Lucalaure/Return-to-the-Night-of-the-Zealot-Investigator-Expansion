@@ -15,7 +15,7 @@
     "Tactic",
     "Trick"
   ],
-  "body": "Until the end of the round, the next time an enemy attacks you, cancel that attack and deal that enemy's damage to a non-{Elite} enemy at your location. This action does not cause attacks of opportunity.",
+  "body": "【Parley.】 Until the end of the round, the next time an enemy attacks you, cancel that attack and deal that enemy's damage to a non-{Elite} enemy at your location.",
   "flavor": "\"They're consumed by blind rage, I seen an opportunity to pit them against each other.\"",
   "illustrator": "",
   "card_number": "95",
@@ -91,5 +91,5 @@
       "max": null
     }
   },
-  "content_hash": "80bfc85a556349242447120edfc2d72c94f42fb891504c8b5bd86c25b48b7f48"
+  "content_hash": "01e1bd51a0a0f51c03dd13fc41e5633bc315a49bc85a71f597d2159aefd0caf1"
 }

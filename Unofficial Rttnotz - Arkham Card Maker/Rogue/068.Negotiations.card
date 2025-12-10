@@ -17,7 +17,7 @@
     "Illicit",
     "Favor"
   ],
-  "body": "【Parley.】 Reveal a random chaos token from the chaos bag. If you revealed:\n<bul> A positive number or ⭐ token: Play a card from your hand without paying for its cost.\n<bul> A negative number: Search your deck or discard pile for an {Illicit} or {Criminal} card and add it to your hand. Shuffle your deck.\n<bul> A non-⭐ symbol token: Either discard 2 cards or 3 resources.",
+  "body": "【Parley.】 Reveal a random chaos token from the chaos bag. If you reveal...\n<bul> …a chaos token with a positive or neutral modifier: Play a card from your hand without paying for its cost.\n<bul> …a chaos token with a negative modifier: Search your deck for an {Illicit} asset and add it to your hand. Shuffle your deck.\n<bul> …the 🐙 token: Either discard 2 cards or 3 resources.",
   "flavor": "",
   "illustrator": "",
   "card_number": "68",
@@ -93,5 +93,5 @@
       "max": null
     }
   },
-  "content_hash": "93d7a412d15de1b63f1926f16adf7ffb6c853635bd8918e6863d8724b010231d"
+  "content_hash": "edcf573055ff5b8a78a86a11a9a591bd9049a6c7f70a57ffe9028b7fad1fb4b0"
 }
