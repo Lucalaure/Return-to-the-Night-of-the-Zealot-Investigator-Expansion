@@ -13,7 +13,7 @@
     "敏捷"
   ],
   "traits": [
-    "Favour",
+    "Favor",
     "Illicit"
   ],
   "body": "Fast. Play only during your turn.\nChose an enemy at your location. Resolve the following effects based on the amount of resources spent to play this card:\n<bul> If X is 2 or more: Until the end of the round, the next time that enemy attacks, cancel that attack.\n<bul> If X is 4 or more: Until the end of the round, investigators ignore the alert and retaliate keywords on that enemy.\n<bul> If X is 6 or more: Disengage from that enemy and move up to two locations away.",
@@ -93,5 +93,5 @@
     }
   },
   "subclass": [],
-  "content_hash": "fff27ab5b2772955c503768d65e14fbd94fa42c39da60f94caa9501cdeb6ab4d"
+  "content_hash": "60422f7eb5aa8a45f81b81f48eed70f5c18512034bd274ff99019155f8dba583"
 }

@@ -15,7 +15,7 @@
   "traits": [
     "Gambit",
     "Illicit",
-    "Favour"
+    "Favor"
   ],
   "body": "【Parley.】 Reveal a random chaos token from the chaos bag. If you revealed:\n<bul> A positive number or ⭐ token: Play a card from your hand without paying for its cost.\n<bul> A negative number: Search your deck or discard pile for an {Illicit} or {Criminal} card and add it to your hand. Shuffle your deck.\n<bul> A non-⭐ symbol token: Either discard 2 cards or 3 resources.",
   "flavor": "",
@@ -93,5 +93,5 @@
       "max": null
     }
   },
-  "content_hash": "113b793e509b5915bde0e7858a14956c7969d8d44b8a23cc5b9bdcbc682bb978"
+  "content_hash": "93d7a412d15de1b63f1926f16adf7ffb6c853635bd8918e6863d8724b010231d"
 }

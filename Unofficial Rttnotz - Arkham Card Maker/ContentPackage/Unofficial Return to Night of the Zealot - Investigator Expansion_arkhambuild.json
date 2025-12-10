@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-11-27T06:10:58.457133Z",
+    "date_updated": "2025-12-10T08:23:50.636866Z",
     "generator": "Arkham Card Maker v3.4"
   },
   "data": {
@@ -2100,9 +2100,9 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "skill_willpower": 1,
         "skill_agility": 1,
-        "traits": "Favour. Illicit.",
+        "traits": "Favor. Illicit.",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1764241831/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/065.BribedSilence_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765373008/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/065.BribedSilence_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419589/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/065.BribedSilence_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -2177,9 +2177,9 @@
         "cost": 0,
         "skill_willpower": 1,
         "skill_wild": 1,
-        "traits": "Gambit. Illicit. Favour.",
+        "traits": "Gambit. Illicit. Favor.",
         "xp": 2,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1764241833/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/068.Negotiations_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765373010/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/068.Negotiations_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419595/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/068.Negotiations_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -2635,7 +2635,7 @@
         "name": "Two Steps Ahead",
         "type_code": "event",
         "faction_code": "seeker",
-        "text": "Play only as your first action. Put this card into play in your play area. This action does not provoke attacks of opportunity.\n[reaction] When the investigation phase begins, discard Two Steps Ahead and choose a skill ([willpower], [intellect], [combat] or [agility]): For the remainder of the round, you get +2 to the chosen skill.",
+        "text": "<b>Parley.</b> Play only as your first action. Put this card into play in your play area.\n[reaction] When the investigation phase begins, discard Two Steps Ahead and choose a skill ([willpower], [intellect], [combat] or [agility]): For the remainder of the round, you get +2 skill value to the chosen skill.",
         "flavor": "",
         "is_unique": false,
         "illustrator": "",
@@ -2644,7 +2644,7 @@
         "skill_wild": 1,
         "traits": "Insight. Tactic. Bold.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419633/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/043.TwoStepsAhead_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765373013/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/043.TwoStepsAhead_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419635/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/043.TwoStepsAhead_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -3063,7 +3063,7 @@
         "subname": "",
         "type_code": "asset",
         "faction_code": "neutral",
-        "text": "Wendy Adams deck only. Advanced.\n[reaction] When you would discard a card or shuffle a card into your deck due to Wendy Adams's [reaction] ability, exhaust Wendy's Amulet: Place that card beneath Wendy's Amulet instead.\n[action] If Wendy's Amulet is ready: Draw a card beneath Wendy's Amulet. This action does not cause attacks of opportunity. (Limit once per turn.)",
+        "text": "Wendy Adams deck only. Advanced.\n[reaction] When you would discard a card or shuffle a card into your deck due to Wendy Adams's [reaction] ability, exhaust Wendy's Amulet: Place that card beneath Wendy's Amulet instead.\n[action] Exhaust Wendy's Amulet: Draw a card beneath Wendy's Amulet. This action does not cause attacks of opportunity.",
         "flavor": "",
         "is_unique": true,
         "illustrator": "Aleksander Karcz",
@@ -3073,7 +3073,7 @@
         "skill_wild": 1,
         "slot": "Accessory",
         "traits": "Item. Relic.",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1763805688/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765373017/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419680/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/014.WendysAmulet_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "restrictions": "investigator:fc608485-056c-4371-bc77-5b30ffe0c897",
@@ -3582,7 +3582,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-11-27"
+        "date_release": "2025-12-10"
       }
     ]
   },
