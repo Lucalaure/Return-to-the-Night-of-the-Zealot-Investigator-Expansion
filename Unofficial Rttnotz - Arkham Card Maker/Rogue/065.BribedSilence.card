@@ -7,7 +7,7 @@
   "language": "en",
   "class": "流浪者",
   "level": 1,
-  "cost": -1,
+  "cost": -2,
   "submit_icon": [
     "意志",
     "敏捷"
@@ -93,5 +93,5 @@
     }
   },
   "subclass": [],
-  "content_hash": "60422f7eb5aa8a45f81b81f48eed70f5c18512034bd274ff99019155f8dba583"
+  "content_hash": "708d1429b9cba67c02a8e1dae771a670fbdc57f935196f330a86d6e0f1b9847a"
 }
