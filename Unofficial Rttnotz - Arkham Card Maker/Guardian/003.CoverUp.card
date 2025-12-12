@@ -12,7 +12,7 @@
   "traits": [
     "Task"
   ],
-  "body": "Roland Banks deck only. Advanced.\n【Revelation】 - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n➡️➡️ Place 1 of your clues on your location: Discard \n                Cover Up. ",
+  "body": "Advanced.\n【Revelation】 - Put Cover Up into play in your threat area.\nIf an enemy has been defeated this round, you cannot discover clues until the end of the round.\n➡️➡️ Place 1 of your clues on your location: Discard \n                Cover Up. ",
   "flavor": "",
   "illustrator": "Marcin Jakubowski",
   "card_number": "3",
@@ -32,5 +32,6 @@
   "tts_config": {
     "version": "v2",
     "script_id": "3497e84b-9698-4d54-937c-65096eb6c82c"
-  }
+  },
+  "content_hash": "a34a03cfc339f691b2a4ab32eda34fecb0dbadd1b44703797f3e9a925dafbbf4"
 }

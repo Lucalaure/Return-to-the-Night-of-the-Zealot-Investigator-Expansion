@@ -13,7 +13,7 @@
     "Curse",
     "Omen"
   ],
-  "body": "Agnes Baker deck only. Advanced.\n【Revelation】 - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n【Forced】 - When you would succeed at a skill test on an ability printed on a {Spell} card you control, reveal an additional token for that tets and remove 1 charge from <fullname>. Then, if <fullname> has no charges on it, discard it. (Limit once per test.)\n",
+  "body": "Advanced.\n【Revelation】 - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n【Forced】 - When you would succeed at a skill test on an ability printed on a {Spell} card you control, reveal an additional token for that tets and remove 1 charge from <fullname>. Then, if <fullname> has no charges on it, discard it. (Limit once per test.)\n",
   "flavor": "",
   "illustrator": "Aleksander Karcz",
   "card_number": "12",
@@ -94,5 +94,5 @@
       "max": null
     }
   },
-  "content_hash": "985972b694243c34bacc01b0d98b3d2006b3853ed0a876f0c4a8eb70eb5562a0"
+  "content_hash": "973f00927be5e6c9ff3f42ff3accb19c1804c72b69a9981ec14bed187f8399fe"
 }

@@ -32,5 +32,6 @@
   "tts_config": {
     "version": "v2",
     "script_id": "70ccabf5-4f44-4ec2-b677-fa54ce9a864f"
-  }
+  },
+  "content_hash": "be2476e1d54ccc4db933a3bac77224d0a01e08b595a3b7d79fd0e14c341c7125"
 }

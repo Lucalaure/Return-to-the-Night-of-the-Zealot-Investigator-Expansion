@@ -19,7 +19,7 @@
   "horror": -1,
   "slots": "手部",
   "slots2": null,
-  "body": "Daisy Walker deck only. Advanced.\n【Revelation】 - Put The Necronomicon into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.  \n【Forced】 - The first time you draw an encounter card each round: Either move 1 horror from The Necronomicon to Daisy Walker, or draw an additional encounter card. If you drew an additional encounter card, remove 1 horror from The Necronomicon. Then, if The Necronomicon has no horror on it, discard it. ",
+  "body": "Advanced.\n【Revelation】 - Put The Necronomicon into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.  \n【Forced】 - The first time you draw an encounter card each round: Either move 1 horror from The Necronomicon to Daisy Walker, or draw an additional encounter card. If you drew an additional encounter card, remove 1 horror from The Necronomicon. Then, if The Necronomicon has no horror on it, discard it. ",
   "flavor": "",
   "illustrator": "Jessie Calderon",
   "card_number": "6",
@@ -36,7 +36,7 @@
   "position": 6,
   "code": "4b3bb0d8-9207-4503-9842-172a59d802d6",
   "deck_options": [],
-  "content_hash": "8f1d23c9454d0cb4352538cd8f629c53cc7f64e50beadf5e042f116b6890e4ea",
+  "content_hash": "83144376bd2d3aaeb3d287ad813cdebc28a4b5ca643ac70cb422a1d9d9a7e7f0",
   "tts_config": {
     "version": "v2",
     "script_id": "4b3bb0d8-9207-4503-9842-172a59d802d6"

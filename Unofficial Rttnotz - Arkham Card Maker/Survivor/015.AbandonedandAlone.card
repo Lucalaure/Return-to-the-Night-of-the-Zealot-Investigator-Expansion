@@ -12,7 +12,7 @@
   "traits": [
     "Curse"
   ],
-  "body": "Wendy Adams deck only. Advanced.\n【Revelation】 - Put Abandoned and Alone into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.\n【Forced】 - After you trigger Wendy Adams's ⭕ ability: Move 1 horror from Abandoned and Alone to Wendy Adams. Then, if Abandoned and Alone has no horror on it, discard it.",
+  "body": "Advanced.\n【Revelation】 - Put Abandoned and Alone into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.\n【Forced】 - After you trigger Wendy Adams's ⭕ ability: Move 1 horror from Abandoned and Alone to Wendy Adams. Then, if Abandoned and Alone has no horror on it, discard it.",
   "flavor": "",
   "illustrator": "Ben Zweifel",
   "card_number": "15",
@@ -30,7 +30,7 @@
   "code": "2e915f87-3ee3-4851-9cd1-9169910a6e14",
   "deck_options": [],
   "weakness_type": "弱点",
-  "content_hash": "d3d693a3848f6ed89de37edd7a39148c4fa650c2b5dd3daffb6c72c300134f7e",
+  "content_hash": "56f991d01202d6467f19bb4b82f936f1108e80fc1532205e18ab2b55e081317d",
   "tts_config": {
     "version": "v2",
     "script_id": "2e915f87-3ee3-4851-9cd1-9169910a6e14"

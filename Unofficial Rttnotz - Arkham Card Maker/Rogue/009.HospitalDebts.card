@@ -12,7 +12,7 @@
   "traits": [
     "Task"
   ],
-  "body": "\"Skids\" O'Toole deck only. Advanced.\n【Revelation】 - Put Hospital Debts into play in your threat area, with 3 resources on it as debt. It cannot leave play while it has 1 or more resources on it.\n【Forced】 - When you would play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
+  "body": "Advanced.\n【Revelation】 - Put Hospital Debts into play in your threat area, with 3 resources on it as debt. It cannot leave play while it has 1 or more resources on it.\n【Forced】 - When you would play a card: Increase the cost of that card by 2 and remove 1 resource from Hospital Debts. Then, if Hospital Debts has no resources on it, discard it.\n",
   "flavor": "",
   "illustrator": "Adam Lane",
   "card_number": "9",
@@ -29,7 +29,7 @@
   "position": 9,
   "code": "45be196b-4f6a-494d-85c9-3b2521e7d557",
   "deck_options": [],
-  "content_hash": "31e71c6a16a98e1416b436985613f61a2d4c8e14ebefb990e2de8b29f037d315",
+  "content_hash": "34f3c02ad48a5b68aba5508d168a0cfd70267c24241f1ad6360f8bb8d89b367a",
   "tts_config": {
     "version": "v2",
     "script_id": "45be196b-4f6a-494d-85c9-3b2521e7d557"
