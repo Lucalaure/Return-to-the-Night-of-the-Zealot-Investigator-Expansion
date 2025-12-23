@@ -15,7 +15,7 @@
   "traits": [
     "Tactic"
   ],
-  "body": "【Evade】 (<com>). If you succeed by 2 or more, until the end of the round, you get +2 skill value while performing skill tests during attacks against that enemy.",
+  "body": "【Evade】 (<com>). You get +2 <com> for this evasion attempt. If you succeed by 2 or more, until the end of the round, you get +2 skill value while performing skill tests during attacks against that enemy.",
   "flavor": "\"I don't fight fair. I don't have to.\"",
   "illustrator": "",
   "card_number": "59",
@@ -91,5 +91,5 @@
       "max": null
     }
   },
-  "content_hash": "be4f4e03ec8fcbcfb1dfda75a5c02c80f3ea4ef28387493f5a4b64da401f25a1"
+  "content_hash": "9bc5c018577ead78e28cda540af48e8e79c5549d2ee101bfa5271398f757fd9e"
 }
