@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-12-23T13:36:44.734141Z",
+    "date_updated": "2025-12-24T03:46:35.922672Z",
     "generator": "Arkham Card Maker v3.4"
   },
   "data": {
@@ -1378,11 +1378,11 @@
         "is_unique": false,
         "illustrator": "",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
-        "cost": 3,
+        "cost": 2,
         "skill_willpower": 1,
         "traits": "Item. Relic.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765533776/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/113.ForgottenBlueprint_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1766565979/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/113.ForgottenBlueprint_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419526/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/113.ForgottenBlueprint_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -1404,11 +1404,11 @@
         "is_unique": false,
         "illustrator": "",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
-        "cost": 3,
+        "cost": 2,
         "skill_agility": 1,
         "traits": "Item. Relic.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765533779/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/114.OldSchematics_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1766565985/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/114.OldSchematics_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419528/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/114.OldSchematics_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -3561,7 +3561,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-12-23"
+        "date_release": "2025-12-24"
       }
     ]
   },

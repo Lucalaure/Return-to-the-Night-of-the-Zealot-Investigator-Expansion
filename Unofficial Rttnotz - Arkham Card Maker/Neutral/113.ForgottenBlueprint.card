@@ -7,7 +7,7 @@
   "language": "en",
   "class": "中立",
   "level": 0,
-  "cost": 3,
+  "cost": 2,
   "submit_icon": [
     "意志"
   ],
@@ -95,5 +95,5 @@
       "max": null
     }
   },
-  "content_hash": "7f8e9d65d0f6275fa6dbf3a6100d060f2a588270b2953babfbcdf059f657ee2d"
+  "content_hash": "461b6b1fcabba6142ae730c5c90002da43845481a39f62ee24bac2004f7d87d1"
 }
