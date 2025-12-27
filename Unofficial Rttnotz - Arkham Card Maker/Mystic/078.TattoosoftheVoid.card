@@ -19,7 +19,7 @@
   "horror": 2,
   "slots": "身体",
   "slots2": null,
-  "body": "⭕ When a chaos token is sealed on another card you control, if Tattoos of the Void has no sealed tokens on it: Seal an identical token on Tattoos of the Void.\n【Forced】 - At the start of the round, if Tattoos of the Void has a sealed token and no other card you control has a matching token sealed on it: Add 2 🌑 tokens to the chaos bag or release the sealed token on Tattoos of the Void.",
+  "body": "<rea> When a chaos token is sealed on another card you control: Seal an identical token on Tattoos of the Void (Maximum 1 token sealed).\n【Forced】 - At the start of the round, if Tattoos of the Void has a sealed token: Either add 2 <cur> tokens to the chaos bag, take 1 horror or release the sealed token.",
   "flavor": "",
   "illustrator": "",
   "card_number": "78",
@@ -95,5 +95,5 @@
       "max": null
     }
   },
-  "content_hash": "cc0ee014847943f4537f968d48c2740e1e3e04d11ed8615b0932af4f08a51d60"
+  "content_hash": "acd9c9c9745582466683ad3c2389eda9ac246de1e4bab6cfd6626b1c19a91894"
 }
