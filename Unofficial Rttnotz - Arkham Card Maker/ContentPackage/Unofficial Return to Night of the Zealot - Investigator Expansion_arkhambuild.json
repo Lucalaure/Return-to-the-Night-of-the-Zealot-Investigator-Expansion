@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2025-12-27T06:40:00.451956Z",
+    "date_updated": "2026-01-01T14:04:09.916679Z",
     "generator": "Arkham Card Maker v3.4"
   },
   "data": {
@@ -988,9 +988,9 @@
         "illustrator": "",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "skill_willpower": 1,
-        "traits": "Practiced.",
+        "traits": "Practiced. Alchemy.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419492/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/082.Imbue_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1767294177/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/082.Imbue_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419493/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/082.Imbue_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -1013,9 +1013,9 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "cost": 1,
         "skill_wild": 1,
-        "traits": "Spell. Insight.",
+        "traits": "Alchemy. Insight.",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419494/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/083.BindthePulseofTime_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1767294180/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/083.BindthePulseofTime_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419495/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/083.BindthePulseofTime_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -2672,9 +2672,9 @@
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "cost": 0,
         "skill_wild": 1,
-        "traits": "Fortune. Blessed.",
+        "traits": "Fortune. Insight.",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419644/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/046.SeedofClarity_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1767294187/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/046.SeedofClarity_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419644/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/046.SeedofClarity_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -3225,16 +3225,16 @@
         "name": "Night Camp",
         "type_code": "event",
         "faction_code": "survivor",
-        "text": "Play only if there are no enemies at your location. As an additional cost to play Night Camp, spend 1[per_investigator] resource. Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
+        "text": "Play only if there are no enemies at your location. X is equal to 1[per_investigator] . Attach to your location.\nAttached location gains \"[action]: Heal 1 damage and 1 horror. (Limit once per game.)\"\n<b>Forced</b> - After an enemy enters the attached location: Discard Night Camp.",
         "flavor": "",
         "is_unique": false,
         "illustrator": "",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
-        "cost": 0,
+        "cost": -2,
         "skill_willpower": 1,
         "traits": "Spirit. Improvised.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419703/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/098.NightCamp_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1767294193/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/098.NightCamp_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419703/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/098.NightCamp_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
@@ -3561,7 +3561,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2025-12-27"
+        "date_release": "2026-01-01"
       }
     ]
   },
