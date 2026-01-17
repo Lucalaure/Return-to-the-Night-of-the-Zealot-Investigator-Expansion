@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2026-01-01T14:04:09.916679Z",
+    "date_updated": "2026-01-16T19:12:28.373810Z",
     "generator": "Arkham Card Maker v3.4"
   },
   "data": {
@@ -1520,7 +1520,7 @@
         "exceptional": false,
         "myriad": false,
         "exile": false,
-        "deck_limit": 2
+        "deck_limit": 1
       },
       {
         "code": "4b37aaa1-86bb-47f4-a213-989c826506c0",
@@ -1592,8 +1592,8 @@
         "exceptional": false,
         "myriad": false,
         "exile": false,
-        "deck_limit": 2,
-        "deck_requirements": "size:5"
+        "deck_requirements": "size:5",
+        "deck_limit": 1
       },
       {
         "code": "6f078742-9846-48ef-bf79-3c2716fa2f94",
@@ -3561,7 +3561,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2026-01-01"
+        "date_release": "2026-01-16"
       }
     ]
   },
