@@ -17,7 +17,7 @@
   "horror": -1,
   "slots": null,
   "slots2": null,
-  "body": "Yithian deck only. Permanent.\nYou can only play, commit, or trigger abilities on player cards if all the {Traits} on that card have been learned and/or are printed on your investigator.\n➡️ Reveal a non-weakness card from your hand, or choose a non-weakness card you control, and choose one of its {Traits}: Test 📚 (X). X is equal to half the {Traits} you have learned (rounded up). If you fail, discard that card. If you succeed, record that you have learned that {Trait}.",
+  "body": "Yithian deck only. Permanent.\nYou can only play, commit, or trigger abilities on non-weakness player cards if all the {Traits} on that card have been learned and/or are printed on your investigator.\n➡️ Reveal a non-weakness card from your hand, or choose a non-weakness card you control, and choose one of its {Traits}: Test 📚 (X). X is equal to half the {Traits} you have learned (rounded up). If you fail, discard that card. If you succeed, record that you have learned that {Trait}.",
   "flavor": "",
   "illustrator": "Stephen Somers",
   "card_number": "17",
@@ -34,9 +34,13 @@
   "position": 17,
   "code": "9189bc89-5511-49ad-a1fa-218f58d44fe5",
   "deck_options": [],
-  "content_hash": "51860e7516d3137efb12830c6d75c4a6e2588c295fd31165effdb72f69a13be9",
+  "content_hash": "c4cfd7734f84a0327617224e53d8dd0388e7891941aa0169431e5ff1974e6030",
   "tts_config": {
     "version": "v2",
     "script_id": "9189bc89-5511-49ad-a1fa-218f58d44fe5"
-  }
+  },
+  "permanent": true,
+  "exceptional": false,
+  "myriad": false,
+  "exile": false
 }
