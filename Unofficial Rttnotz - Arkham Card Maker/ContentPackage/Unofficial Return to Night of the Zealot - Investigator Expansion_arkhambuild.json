@@ -12,7 +12,7 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2026-01-24T05:14:17.557600Z",
+    "date_updated": "2026-01-26T09:57:58.650660Z",
     "generator": "Arkham Card Maker v3.4"
   },
   "data": {
@@ -1298,13 +1298,13 @@
         "subname": "There's nothing you can't learn",
         "type_code": "asset",
         "faction_code": "neutral",
-        "text": "Yithian deck only. Permanent.\nYou can only play, commit, or trigger abilities on non-weakness player cards if all the <trait>Traits</trait> on that card have been learned and/or are printed on your investigator.\n[action] Reveal a non-weakness card from your hand, or choose a non-weakness card you control, and choose one of its <trait>Traits</trait>: Test [intellect] (X). X is equal to half the <trait>Traits</trait> you have learned (rounded up). If you fail, discard that card. If you succeed, record that you have learned that <trait>Trait</trait>.",
+        "text": "Yithian deck only. Permanent.\nYou can only play, commit, or trigger abilities on non-weakness non-story player cards if all the <trait>Traits</trait> on that card have been learned and/or are printed on your investigator.\n[action] Reveal a non-weakness card from your hand, or choose a non-weakness card you control, and choose one of its <trait>Traits</trait>: Test [intellect] (X). X is equal to half the <trait>Traits</trait> you have learned (rounded up). If you fail, discard that card. If you succeed, record that you have learned that <trait>Trait</trait>.",
         "flavor": "",
         "is_unique": false,
         "illustrator": "Stephen Somers",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "traits": "Yithian.",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1769249594/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1769439469/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419519/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/017.ThirstforKnowledge_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "restrictions": "investigator:2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
@@ -3561,7 +3561,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2026-01-24"
+        "date_release": "2026-01-26"
       }
     ]
   },
