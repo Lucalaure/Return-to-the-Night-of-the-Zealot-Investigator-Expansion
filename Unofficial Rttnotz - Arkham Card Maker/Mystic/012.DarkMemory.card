@@ -13,7 +13,7 @@
     "Curse",
     "Omen"
   ],
-  "body": "Advanced.\n【Revelation】 - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n【Forced】 - After you reveal a chaos token during a skill test on an ability printed on a {Spell} card you control, reveal an additional token for that tets and remove 1 charge from <fullname>. Then, if <fullname> has no charges on it, discard it. (Limit once per test.)\n",
+  "body": "Advanced.\n【Revelation】 - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n【Forced】 - After you reveal a chaos token during a skill test on an ability printed on a {Spell} card you control, reveal an additional token for that test and remove 1 charge from <fullname>. Then, if <fullname> has no charges on it, discard it. (Limit once per test.)\n",
   "flavor": "",
   "illustrator": "Aleksander Karcz",
   "card_number": "12",
@@ -94,5 +94,5 @@
       "max": null
     }
   },
-  "content_hash": "6af94c94da951029ba558c85da3420dff16506be37c6ff41b638ccc34029e211"
+  "content_hash": "e2b4fb0654c5ad5eb2325d758a18fe5434d1b6edf9207549dd3a9ed340d570cc"
 }

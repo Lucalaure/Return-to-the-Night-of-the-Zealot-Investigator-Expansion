@@ -1,0 +1,528 @@
+{
+  "files": {
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\001.RolandBanks.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574828.5091295
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\002.Rolands38Special.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.5141473
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\003.CoverUp.card": {
+      "card_type": "\u8be1\u8ba1\u5361",
+      "mtime": 1778574828.5191343
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\019.Ithaca37.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.5260835
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\020.MarkedforExposure.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.531102
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\021.PatrolOfficer.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.5370772
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\022.ArmorPiercingRounds.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.5440345
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\023.LethalLesson.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.54906
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\024.PullthePlaceApart.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.5550063
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\025.Resourcefulness.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.5600245
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\026.Looting.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.5659769
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\027.Technician.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.570995
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\028.GearAssignment.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.5762205
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\029.Ithaca37.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.5812068
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\030.MarkedforExposure.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.586766
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\031.TrenchKnife.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.591752
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\032.WardetchedSkin.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.5997164
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\033.EvidenceinBlood.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.6056821
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\034.SisterAurelia.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.610701
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\035.DualWielding.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.6166854
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\036.Bandolier.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.6216724
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Guardian\\RolandBanksMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574828.623667
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\010.AgnesBaker.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574828.6356351
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\011.HeirloomofHyperborea.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.640625
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\012.DarkMemory.card": {
+      "card_type": "\u8be1\u8ba1\u5361",
+      "mtime": 1778575158.3072882
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\074.EyesThroughtheVeil.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.6515923
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\075.MasterofSecrets.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.6585405
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\076.ProfessorCyrusDelane.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.6635273
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\077.SoporificGrimoire.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.6695123
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\078.TattoosoftheVoid.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.674531
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\079.BurdenofSouls.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778576256.852477
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\080.InscriptionofPower.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.686467
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\081.Spellshifting.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.6916692
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\082.Imbue.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.6966903
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\083.BindthePulseofTime.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.702643
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\084.PriceofClarity.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.708627
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\085.ForbiddenKnowledge.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.715443
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\086.VesselofAgonies.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7204664
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\087.DrawnbyProphecy.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.72603
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\088.BlessingoftheOccult.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.731982
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\089.EyesThroughtheVeil.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7379658
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\090.Fearless.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.7429526
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\091.InscriptionofPower.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.7489393
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Mystic\\AgnesBakerMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574828.7529645
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\016.Yithian.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574828.7679017
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\017.ThirstforKnowledge.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7729056
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\018.ForgottenKnowledge.card": {
+      "card_type": "\u8be1\u8ba1\u5361",
+      "mtime": 1778576209.785322
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\110.Bait.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7844205
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\113.ForgottenBlueprint.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7914052
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\114.OldSchematics.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.7984068
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\119.Bait.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8043704
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\120.Kukri.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8083918
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\121.RecursiveDirective.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.8153782
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\Sudden Breakthrough.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.8173678
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Neutral\\YithianMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574828.819365
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\111.BoundtoYou.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8263438
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\116.ReversalofSigns.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8323283
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\117.TheElderSign.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8383029
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\118.TheThirteenthAppendix.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8432982
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\122.BrokenSeal.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8492503
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\123.SlipperyGrip.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.854271
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Other\\124.TurnedCoat.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8592558
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\007.SkidsOToole.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574828.870455
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\008.OntheLam.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8764713
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\009.HospitalDebts.card": {
+      "card_type": "\u8be1\u8ba1\u5361",
+      "mtime": 1778574828.8820324
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\056.Informant.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8879843
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\057.MollyBrown.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.8930078
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\058.FlashofWealth.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.8979964
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\059.Intimidate.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.902976
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\060.LastDitchEffort.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9079635
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\061.LuckyStrike.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9129515
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\062.SmokeBomb.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.918934
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\063.KeepBlastin.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.9248855
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\064.RockBottom.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574828.9299054
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\065.BribedSilence.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9358912
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\066.InsideJob.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9418728
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\067.LastDitchEffort.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9478252
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\068.Negotiations.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9548373
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\069.Bloodwire.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.9598265
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\070.Burglary.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.9648142
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\071.Pickpocketing.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.9697974
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\072.StolenIdolofYoth.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574828.9747844
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\073.FlashofWealth.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574828.9807687
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\126.Issith.card": {
+      "card_type": "\u654c\u4eba\u5361",
+      "mtime": 1778574828.9947329
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Rogue\\SkidsOTooleMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574828.9977183
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\004.DaisyWalker.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574829.0096583
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\005.DaisysToteBag.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.0149968
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\006.TheNecronomicon.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.0200188
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\037.EldritchInsight.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.0260024
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\038.Bookmark.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0309918
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\039.FlightorFright.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.036941
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\040.FortunateFind.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0419273
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\041.ProofofConcept.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0499055
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\042.SlipBy.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0548923
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\043.TwoStepsAhead.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0618737
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\044.Inspect.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.0688875
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\045.SharedInsight.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.0748742
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\046.SeedofClarity.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.080825
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\047.RevelationofPurpose.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0870526
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\048.SlipstreamTheorem.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.092074
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\049.FortunateFind.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.0975764
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\050.PatternRecognition.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.103605
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\051.SeekingKnowledge.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.108581
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\052.ArchivistsLens.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.11556
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\053.EldritchInsight.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1205163
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\054.IntheKnow.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1255362
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\055.Deduction.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.129525
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\125.FocusedField.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.1364746
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Seeker\\DaisyWalkerMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574829.1394665
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\013.WendyAdams.card": {
+      "card_type": "\u8c03\u67e5\u5458",
+      "mtime": 1778574829.151434
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\014.WendysAmulet.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1564202
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\015.AbandonedandAlone.card": {
+      "card_type": "\u8be1\u8ba1\u5361",
+      "mtime": 1778574829.1623025
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\092.LumberjacksAxe.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1683269
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\093.NailedBoard.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1742735
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\094.RexTrustyRetriever.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.1802893
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\095.BlindRage.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.1872709
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\096.ErgonomicGrip.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.1942582
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\097.ItAintOver.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.2002044
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\098.NightCamp.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.2052228
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\099.FromtheAshes.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.2112067
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\100.GamblersResolve.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.2171917
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\101.WeatheredOilskin.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.2221768
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\102.CleartheDeck.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.228162
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\103.FrayedToken.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.2341447
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\104.StrayCat.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.2391274
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\105.ErgonomicGrip.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.2413433
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\106.PlantedEvidence.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.246362
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\107.JunkyardInstinct.card": {
+      "card_type": "\u652f\u63f4\u5361",
+      "mtime": 1778574829.2518902
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\108.ButterflyEffect.card": {
+      "card_type": "\u4e8b\u4ef6\u5361",
+      "mtime": 1778574829.2589073
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\109.TenaciousResolve.card": {
+      "card_type": "\u6280\u80fd\u5361",
+      "mtime": 1778574829.264861
+    },
+    "Unofficial Rttnotz - Arkham Card Maker\\Survivor\\WendyAdamsMini.card": {
+      "card_type": "\u8c03\u67e5\u5458\u5c0f\u5361",
+      "mtime": 1778574829.2678845
+    }
+  }
+}

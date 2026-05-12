@@ -12,8 +12,8 @@
       "investigators"
     ],
     "status": "final",
-    "date_updated": "2026-01-26T09:57:58.650660Z",
-    "generator": "Arkham Card Maker v3.4"
+    "date_updated": "2026-05-12T02:38:31.448613Z",
+    "generator": "Arkham Card Maker v3.4.1"
   },
   "data": {
     "cards": [
@@ -742,14 +742,14 @@
         "name": "Dark Memory",
         "type_code": "treachery",
         "faction_code": "neutral",
-        "text": "Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n<b>Forced</b> - After you reveal a chaos token during a skill test on an ability printed on a <trait>Spell</trait> card you control, reveal an additional token for that tets and remove 1 charge from Dark Memory. Then, if Dark Memory has no charges on it, discard it. (Limit once per test.)\n",
+        "text": "Advanced.\n<b>Revelation</b> - Put Dark Memory into play in your threat area, with 3 charges on it. It cannot leave play while it has 1 or more charges on it.\n<b>Forced</b> - After you reveal a chaos token during a skill test on an ability printed on a <trait>Spell</trait> card you control, reveal an additional token for that test and remove 1 charge from Dark Memory. Then, if Dark Memory has no charges on it, discard it. (Limit once per test.)\n",
         "flavor": "",
         "is_unique": false,
         "illustrator": "Aleksander Karcz",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "traits": "Curse. Omen.",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1766514986/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front.jpg",
-        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419472/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/012.DarkMemory_front_thumbnail.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578639/AH_LCG/Mystic_012.DarkMemory_front.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578639/AH_LCG/Mystic_012.DarkMemory_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "restrictions": "investigator:43c6f1af-6bfc-40f6-af6c-a597816517b1",
         "permanent": false,
@@ -907,7 +907,7 @@
         "name": "Burden of Souls",
         "type_code": "event",
         "faction_code": "mystic",
-        "text": "<b>Parley.</b> Move up to 3 horror from an investigator at your location onto you and/or assets you control, split in any way. For each horror moved this way, deal 1 damage to an enemy at your location.",
+        "text": "<b>Parley.</b> Move up to 3 horror from an investigator at your location onto your investigator. For each horror moved this way, deal 1 damage to an enemy at your location.",
         "flavor": "\"I will bear your pain, for I have walked through darkness before.\"",
         "is_unique": false,
         "illustrator": "",
@@ -916,8 +916,8 @@
         "skill_combat": 1,
         "traits": "Spell. Spirit.",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765386972/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/079.BurdenofSouls_front.jpg",
-        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419485/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/079.BurdenofSouls_front_thumbnail.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578640/AH_LCG/Mystic_079.BurdenofSouls_front.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578642/AH_LCG/Mystic_079.BurdenofSouls_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "permanent": false,
         "exceptional": false,
@@ -1321,14 +1321,14 @@
         "name": "Forgotten Knowledge",
         "type_code": "treachery",
         "faction_code": "neutral",
-        "text": "<b>Revelation</b> - Forget 1 learned <trait>Trait</trait> of your choice (<i>crossing it off from your records</i>). Then, discard a card with that <trait>Trait</trait> from your hand or play area. If you cannot, take 1 horror instead. If you have not learned any <trait>Traits</trait>, shuffle Forgotten Knowledge back into your deck instead. ",
+        "text": "<b>Revelation</b> - Choose a learned <trait>Trait</trait>. You must either discard a card with that <trait>Trait</trait> you control from play, or discard each card with that <trait>Trait</trait> from your hand. If no card was discarded by this effect, or you have not learned any <trait>Traits</trait>, shuffle Forgotten Knowledge back into your deck.",
         "flavor": "What was once clear fades into shadow, slipping from your mind like water through trembling tendrils.",
         "is_unique": false,
         "illustrator": "Scott Purdy",
         "pack_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "traits": "Yithian.",
-        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1765534815/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/018.ForgottenKnowledge_front.jpg",
-        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1762419522/Return_to_Night_of_the_Zealot_Custom_Investigator_Expansion/018.ForgottenKnowledge_front_thumbnail.jpg",
+        "image_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578643/AH_LCG/Neutral_018.ForgottenKnowledge_front.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dxdnloddw/image/upload/v1778578644/AH_LCG/Neutral_018.ForgottenKnowledge_front_thumbnail.jpg",
         "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
         "restrictions": "investigator:2f687951-04fa-40ba-b21a-9c2cf4c2e9e2",
         "permanent": false,
@@ -3561,7 +3561,7 @@
       {
         "code": "cae9cd37-4621-4e52-958c-40a250f730b6",
         "name": "Unofficial Return to Night of the Zealot - Investigator Expansion",
-        "date_release": "2026-01-26"
+        "date_release": "2026-05-12"
       }
     ]
   },

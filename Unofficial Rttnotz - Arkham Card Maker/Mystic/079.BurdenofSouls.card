@@ -15,7 +15,7 @@
     "Spell",
     "Spirit"
   ],
-  "body": "【Parley.】 Move up to 3 horror from an investigator at your location onto you and/or assets you control, split in any way. For each horror moved this way, deal 1 damage to an enemy at your location.",
+  "body": "【Parley.】 Move up to 3 horror from an investigator at your location onto your investigator. For each horror moved this way, deal 1 damage to an enemy at your location.",
   "flavor": "\"I will bear your pain, for I have walked through darkness before.\"",
   "illustrator": "",
   "card_number": "79",
@@ -91,5 +91,5 @@
       "max": null
     }
   },
-  "content_hash": "ebffbbbdf2f65a163adaf8f83c2b19ffb6d8249bf7086dd8e95a903ed65a50f6"
+  "content_hash": "baa6106888f912fe14823f6f0ae8d8fa9c4417a07e5ca36a365c0251a13b8049"
 }

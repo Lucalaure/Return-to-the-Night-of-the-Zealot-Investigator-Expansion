@@ -12,7 +12,7 @@
   "traits": [
     "Yithian"
   ],
-  "body": "【Revelation】 - Forget 1 learned {Trait} of your choice (<i>crossing it off from your records</i>). Then, discard a card with that {Trait} from your hand or play area. If you cannot, take 1 horror instead. If you have not learned any {Traits}, shuffle Forgotten Knowledge back into your deck instead. ",
+  "body": "【Revelation】 - Choose a learned {Trait}. You must either discard a card with that {Trait} you control from play, or discard each card with that {Trait} from your hand. If no card was discarded by this effect, or you have not learned any {Traits}, shuffle Forgotten Knowledge back into your deck.",
   "flavor": "What was once clear fades into shadow, slipping from your mind like water through trembling tendrils.",
   "illustrator": "Scott Purdy",
   "card_number": "18",
@@ -33,5 +33,5 @@
     "version": "v2",
     "script_id": "70ccabf5-4f44-4ec2-b677-fa54ce9a864f"
   },
-  "content_hash": "be2476e1d54ccc4db933a3bac77224d0a01e08b595a3b7d79fd0e14c341c7125"
+  "content_hash": "aa5bad3c13090b2287aeb20e5188375f7de6057474f2a6de2bec71b44fbc64d3"
 }
